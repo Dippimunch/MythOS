@@ -1,0 +1,23 @@
+import dictionary as dic
+#import setting_synth
+from battle import *
+from base import *
+import place, entities
+import display
+from generators import *
+
+gameState = 1
+pause = True
+event_log = []
+
+pop = 5
+town = Location('town', 500, pop)
+fillLocation(town)
+#print(town.name, town.list)
+#town.census()
+
+
+
+
+
+### Branching save narrative wxploration

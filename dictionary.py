@@ -159,3 +159,5 @@ alt = {
 def test():
     print(pick('adjective'), pick('noun'), pick('verb'), pick('noun'))
 
+#test()
+
