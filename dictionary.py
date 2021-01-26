@@ -8,6 +8,7 @@ def add(word, target):
     target.append(word)
     print('Added \'%s\'   %s' % (word, 'list'))
 
+# I forget how exactly this works
 def filterTheDict(dictObj, callback):
     newDict = dict()
     # Iterate over all the items in dictionary
@@ -20,6 +21,29 @@ def filterTheDict(dictObj, callback):
 def pick(category):
     return random.choice(list(filterTheDict(swadesh, lambda elem: elem[1] == category)))
 
+def consonant_chart():
+    chart = []
+    row = ['oral stop', 'fricative', 'affricate', 'nasal stop', 'glide', 'flap/tap', 'trill', 'lateral']
+    column = ['labial', 'dental', 'alveolar', 'retroflex', 'palatal', 'velar', 'uvular', 'glottal']
+    blanks = [[7, 2], [7, 3], [1, 4], [6, 4], [7, 4], [0, 5], [1, 5], [4, 5], [5, 5], [6, 5], [7, 5],
+              [1, 6], [3, 6], [4, 6], [5, 6], [7, 6], [0, 7], [6, 7], [7, 7]]
+
+    for r in range(len(row)):
+        for c in range(len(column)):
+            chart.append("%s %s" % (column[c], row[r]))
+    #print(column[7], row[2])
+            # blanks[x, y] or blanks[x][y]?
+   #blanks = [[7][2], [7][3], [1][4], [6][4], [7][4], [0][5], [1][5], [4][5], [5][5], [6][5], [7][5],
+              #[1][6], [3][6], [4][6], [5][6], [7][6], [0][7], [6][7], [7][7]]
+
+    
+    #print(blanks[0][0])
+    print(chart[0])
+    #for r in range(len(blanks)):
+        #chart.remove(chart[])
+    
+    return chart
+                         
 swadesh = {'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number', 'five': 'number',
            'I': 'pronoun', 'you': 'pronoun', 'he': 'pronoun', 'we': 'pronoun', '''y'all''': 'pronoun', 'they': 'pronoun', 'this': 'pronoun', 'that': 'pronoun',
            'here': 'pronoun', 'there': 'pronoun', 'who': 'pronoun', 'what': 'pronoun', 'where': 'pronoun', 'when': 'pronoun', 'how': 'pronoun',

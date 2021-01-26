@@ -14,6 +14,10 @@ def fillLocation(location):
 def makePerson():
     pass
         
+def randomLanguage():
+    pass
+
+print(dic.consonant_chart())
     
 # generalize
 #def town():
