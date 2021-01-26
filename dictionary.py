@@ -30,7 +30,9 @@ def consonant_chart():
 
     for r in range(len(row)):
         for c in range(len(column)):
-            chart.append("%s %s" % (column[c], row[r]))
+            if [r, c] not in blanks:
+                print([r, c])
+                chart.append("%s %s" % (column[c], row[r]))
     #print(column[7], row[2])
             # blanks[x, y] or blanks[x][y]?
    #blanks = [[7][2], [7][3], [1][4], [6][4], [7][4], [0][5], [1][5], [4][5], [5][5], [6][5], [7][5],
@@ -38,7 +40,7 @@ def consonant_chart():
 
     
     #print(blanks[0][0])
-    print(chart[0])
+    #print(chart[0])
     #for r in range(len(blanks)):
         #chart.remove(chart[])
     
