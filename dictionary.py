@@ -1,7 +1,7 @@
 import random
 import csv
 
-noun = ['light']
+
 locations = ['settlement', 'nature']
 size_mod = ['very small', 'small', 'medium', 'large', 'very large']
 
@@ -37,16 +37,6 @@ def consonant_chart():
                 chart.append("%s %s" % (column[c], row[r]))
     
     return chart
-
-def vowel_chart():
-    backness = 4
-    height = 4
-    pass
-
-with open('X-SAMPA.csv') as csvfile:
-    reader = csv.DictReader(csvfile)
-    for row in reader:
-        print(row['X-SAMPA'], row['PHONEME'])
                          
 swadesh = {'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number', 'five': 'number',
            'I': 'pronoun', 'you': 'pronoun', 'he': 'pronoun', 'we': 'pronoun', '''y'all''': 'pronoun', 'they': 'pronoun', 'this': 'pronoun', 'that': 'pronoun',
@@ -186,6 +176,4 @@ alt = {
 
 def test():
     print(pick('adjective'), pick('noun'), pick('verb'), pick('noun'))
-
-#test()
 

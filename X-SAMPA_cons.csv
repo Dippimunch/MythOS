@@ -1,0 +1,70 @@
+b,voiced bilabial plosive
+b_<,voiced bilabial implosive
+c,voiceless palatal plosive
+d,voiced alveolar plosive
+d`,voiced retroflex plosive
+d_<,voiced alveolar implosive
+f,voiceless labiodental fricative
+g,voiced velar plosive
+g_<,voiced velar implosive
+h,voiceless glottal fricative
+h*,voiced glottal fricative
+j,palatal approximant
+j*,voiced palatal fricative
+k,voiceless velar plosive
+l,alveolar lateral approximant
+l`,retroflex lateral approximant
+l*,alveolar lateral flap
+m,bilabial nasal
+n,alveolar nasal
+n`,retroflex nasal
+p,voiceless bilabial plosive
+p*,voiceless bilabial fricative
+q,voiceless uvular plosive
+r,alveolar trill
+r`,retroflex flap
+r*,alveolar approximant
+r*`,retroflex approximant
+s,voiceless alveolar fricative
+s`,voiceless retroflex fricative
+s*,voiceless alveolo-palatal fricative
+t,voiceless alveolar plosive
+t`,voiceless retroflex plosive
+v,voiced labiodental fricative
+v*,labiodental approximant
+w,labial-velar approximant
+x,voiceless velar fricative
+x*,voiceless palatal-velar fricative
+y,close front rounded vowel
+z,voiced alveolar fricative
+z`,voiced retroflex fricative
+z*,voiced alveolo-palatal fricative
+B,voiced bilabial fricative
+B*,bilabial trill
+C,voiceless palatal fricative
+D,voiced dental fricative
+F,labiodental nasal
+G,voiced velar fricative
+G*,voiced uvular plosive
+G*_<,voiced uvular implosive
+H,labial-palatal approximant
+H*,voiceless epiglottal fricative
+J,palatal nasal
+J*,voiced palatal plosive
+J*_<,voiced palatal implosive
+K,voiceless alveolar lateral fricative
+K*,voiced alveolar lateral fricative
+L,palatal lateral approximant
+L*,velar lateral approximant
+M*,velar approximant
+N,velar nasal
+N*,uvular nasal
+O*,bilabial click
+R,voiced uvular fricative
+R*,uvular trill
+S,voiceless postalveolar fricative
+T,voiceless dental fricative
+W,voiceless labial-velar fricative
+X,voiceless uvular fricative
+X*,voiceless pharyngeal fricative
+Z,voiced postalveolar fricative
