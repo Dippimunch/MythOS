@@ -1,0 +1,87 @@
+X-SAMPA,PHONEME
+a,open front unrounded vowel
+b,voiced bilabial plosive
+b_<,voiced bilabial implosive
+c,voiceless palatal plosive
+d,voiced alveolar plosive
+d`,voiced retroflex plosive
+d_<,voiced alveolar implosive
+e,close-mid front unrounded vowel
+f,voiceless labiodental fricative
+g,voiced velar plosive
+g_<,voiced velar implosive
+h,voiceless glottal fricative
+h*,voiced glottal fricative
+i,close front unrounded vowel
+j,palatal approximant
+j*,voiced palatal fricative
+k,voiceless velar plosive
+l,alveolar lateral approximant
+l`,retroflex lateral approximant
+l*,alveolar lateral flap
+m,bilabial nasal
+n,alveolar nasal
+n`,retroflex nasal
+o,close-mid back rounded vowel
+p,voiceless bilabial plosive
+p*,voiceless bilabial fricative
+q,voiceless uvular plosive
+r,alveolar trill
+r`,retroflex flap
+r*,alveolar approximant
+r*`,retroflex approximant
+s,voiceless alveolar fricative
+s`,voiceless retroflex fricative
+s*,voiceless alveolo-palatal fricative
+t,voiceless alveolar plosive
+t`,voiceless retroflex plosive
+u,close back rounded vowel
+v,voiced labiodental fricative
+v*,labiodental approximant
+w,labial-velar approximant
+x,voiceless velar fricative
+x*,voiceless palatal-velar fricative
+y,close front rounded vowel
+z,voiced alveolar fricative
+z`,voiced retroflex fricative
+z*,voiced alveolo-palatal fricative
+A,open back unrounded vowel
+B,voiced bilabial fricative
+B*,bilabial trill
+C,voiceless palatal fricative
+D,voiced dental fricative
+E,open-mid front unrounded vowel
+F,labiodental nasal
+G,voiced velar fricative
+G*,voiced uvular plosive
+G*_<,voiced uvular implosive
+H,labial-palatal approximant
+H*,voiceless epiglottal fricative
+I,near-close front unrounded vowel
+I*,near-close central unrounded vowel
+J,palatal nasal
+J*,voiced palatal plosive
+J*_<,voiced palatal implosive
+K,voiceless alveolar lateral fricative
+K*,voiced alveolar lateral fricative
+L,palatal lateral approximant
+L*,velar lateral approximant
+M,close back unrounded vowel
+M*,velar approximant
+N,velar nasal
+N*,uvular nasal
+O,open-mid back rounded vowel
+O*,bilabial click
+Q,open back rounded vowel
+R,voiced uvular fricative
+R*,uvular trill
+S,voiceless postalveolar fricative
+T,voiceless dental fricative
+U,near-close back rounded vowel
+U*,near-close central rounded vowel
+V,open-mid back unrounded vowel
+W,voiceless labial-velar fricative
+X,voiceless uvular fricative
+X*,voiceless pharyngeal fricative
+Y,near-close front rounded vowel
+Z,voiced postalveolar fricative

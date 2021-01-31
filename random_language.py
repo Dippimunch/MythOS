@@ -1,3 +1,6 @@
+# GOal to get rid of this, everything is/should be elsewhere
+
+
 import random
 import dictionary as dic
 
