@@ -21,22 +21,6 @@ def filterTheDict(dictObj, callback):
 
 def pick(category):
     return random.choice(list(filterTheDict(swadesh, lambda elem: elem[1] == category)))
-
-# based on pg33 AoLI
-# need voiced
-def consonant_chart():
-    chart = []
-    row = ['oral stop', 'fricative', 'affricate', 'nasal stop', 'glide', 'flap/tap', 'trill', 'lateral']
-    column = ['labial', 'dental', 'alveolar', 'retroflex', 'palatal', 'velar', 'uvular', 'glottal']
-    blanks = [[7, 2], [7, 3], [1, 4], [6, 4], [7, 4], [0, 5], [1, 5], [4, 5], [5, 5], [6, 5], [7, 5],
-              [1, 6], [3, 6], [4, 6], [5, 6], [7, 6], [0, 7], [6, 7], [7, 7]]
-
-    for c in range(8):
-        for r in range(8):
-            if [c, r] not in blanks:
-                chart.append("%s %s" % (column[c], row[r]))
-    
-    return chart
                          
 swadesh = {'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number', 'five': 'number',
            'I': 'pronoun', 'you': 'pronoun', 'he': 'pronoun', 'we': 'pronoun', '''y'all''': 'pronoun', 'they': 'pronoun', 'this': 'pronoun', 'that': 'pronoun',

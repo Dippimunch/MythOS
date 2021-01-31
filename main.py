@@ -13,6 +13,9 @@ event_log = []
 pop = 5
 town = Location('town', 500, pop)
 fillLocation(town)
+language = randomLanguage()
+print(language.vowels, language.consonants)
+
 #print(town.name, town.list)
 #town.census()
 

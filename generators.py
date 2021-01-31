@@ -40,8 +40,6 @@ def randomLanguage():
         cons.append(c_choice)
         c_chart.remove(c_choice)
 
-    print(vowels, cons)
-
     """for c in range(len(c_chart)):
         if c < con_num:
             c_choice = random.randrange(len(c_chart))
@@ -50,7 +48,6 @@ def randomLanguage():
 
     return Language(name, cons, vowels, None)    
         
-language = randomLanguage()
 #print(language.consonants)
 
 # generalize
