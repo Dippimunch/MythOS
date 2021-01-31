@@ -2,6 +2,7 @@ import dictionary as dic
 import random
 from entities import *
 import XSAMPA as xsam
+import re
 
 
 
@@ -30,6 +31,8 @@ def randomLanguage():
     cons = []
     c_choice = None
 
+    syllables = []
+
     name = 'Name'
 
     for v in range(vowel_num):
@@ -44,13 +47,21 @@ def randomLanguage():
 
     # add words to dictionary
     for key in dic.swadesh.keys():
-        words[key] = syllable(vowels, cons)
+        word = ''
+        length = random.randrange(1, 3)
+        for s in range(length):
+            word += syllable(vowels, cons)
+        words[key] = word
 
     return Language(name, cons, vowels, words)    
 
 # syllable[onset][rhyme[nucleus][coda]]
 # TODO: rules
+# https://wals.info/chapter/12
 def syllable(vowels, cons):
+    # CV constant?
+    # some (C)V where () is optional
+    # English complex syllable structure (C)(C)(C)V(C)(C)(C)(C)
     onset = random.choice(cons)
     nucleus = random.choice(vowels)
     coda = random.choice(cons)
@@ -58,6 +69,9 @@ def syllable(vowels, cons):
     unit = '%s%s' % (onset, rhyme)
 
     return unit
+
+def latinize(text):
+    pass
 
 #print(language.consonants)
 
