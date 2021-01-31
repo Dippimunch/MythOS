@@ -22,6 +22,8 @@ def randomLanguage():
     c_chart = list(xsam.consonants.keys())
     v_chart = list(xsam.vowels.keys())
 
+    words = {}
+    
     vowels = []
     v_choice = None
 
@@ -40,14 +42,23 @@ def randomLanguage():
         cons.append(c_choice)
         c_chart.remove(c_choice)
 
-    """for c in range(len(c_chart)):
-        if c < con_num:
-            c_choice = random.randrange(len(c_chart))
-            cons.append(c_chart[c_choice])
-            c_chart.remove(c_chart[c_choice])"""
+    # add words to dictionary
+    for key in dic.swadesh.keys():
+        words[key] = syllable(vowels, cons)
 
-    return Language(name, cons, vowels, None)    
-        
+    return Language(name, cons, vowels, words)    
+
+# syllable[onset][rhyme[nucleus][coda]]
+# TODO: rules
+def syllable(vowels, cons):
+    onset = random.choice(cons)
+    nucleus = random.choice(vowels)
+    coda = random.choice(cons)
+    rhyme = '%s%s' % (nucleus, coda)
+    unit = '%s%s' % (onset, rhyme)
+
+    return unit
+
 #print(language.consonants)
 
 # generalize

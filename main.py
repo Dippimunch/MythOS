@@ -15,6 +15,7 @@ town = Location('town', 500, pop)
 fillLocation(town)
 language = randomLanguage()
 print(language.vowels, language.consonants)
+print(language.dictionary)
 
 #print(town.name, town.list)
 #town.census()
