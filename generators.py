@@ -70,6 +70,10 @@ def syllable(vowels, cons):
 
     return unit
 
+def feature_choice(feature):
+    #feature
+    pass
+
 def latinize(text):
     pass
 
