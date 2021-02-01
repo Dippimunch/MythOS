@@ -16,9 +16,21 @@ class Person:
         self.name = name
         self.age = age
         self.inventory = []
-        
+
 class Language:
-    def __init__(self, name, consonants, vowels, dictionary):
+    def __init__(self, name, consonants, vowels, features={}):
         self.consonants = consonants
         self.vowels = vowels
         self.dictionary = dictionary
+        # Features *kwargs? How to reduce space
+        # https://wals.info/feature
+
+        # AREA
+        # Phonology
+        # ID/NAME/VALUE
+        # {id: {feature: 'x', value: 'y'}}
+        # featurization
+        features = {
+            '1A': 'Consonant Inventories'
+            }
+        

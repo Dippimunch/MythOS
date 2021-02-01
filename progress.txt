@@ -1,0 +1,2959 @@
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 1, in <module>
+    import dictionary as dic
+  File "E:\Progz\mythOS\dictionary.py", line 32
+    return chart
+         ^
+SyntaxError: invalid syntax
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+<function consonant_chart at 0x000000E15074A8C8>
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+1
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['oral stop labial', 'oral stop dental', 'oral stop alveolar', 'oral stop retroflex', 'oral stop palatal', 'oral stop velar', 'oral stop uvular', 'oral stop glottal', 'fricative labial', 'fricative dental', 'fricative alveolar', 'fricative retroflex', 'fricative palatal', 'fricative velar', 'fricative uvular', 'fricative glottal', 'affricate labial', 'affricate dental', 'affricate alveolar', 'affricate retroflex', 'affricate palatal', 'affricate velar', 'affricate uvular', 'affricate glottal', 'nasal stop labial', 'nasal stop dental', 'nasal stop alveolar', 'nasal stop retroflex', 'nasal stop palatal', 'nasal stop velar', 'nasal stop uvular', 'nasal stop glottal', 'glide labial', 'glide dental', 'glide alveolar', 'glide retroflex', 'glide palatal', 'glide velar', 'glide uvular', 'glide glottal', 'flap/tap labial', 'flap/tap dental', 'flap/tap alveolar', 'flap/tap retroflex', 'flap/tap palatal', 'flap/tap velar', 'flap/tap uvular', 'flap/tap glottal', 'trill labial', 'trill dental', 'trill alveolar', 'trill retroflex', 'trill palatal', 'trill velar', 'trill uvular', 'trill glottal', 'lateral labial', 'lateral dental', 'lateral alveolar', 'lateral retroflex', 'lateral palatal', 'lateral velar', 'lateral uvular', 'lateral glottal']
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 1, in <module>
+    import dictionary as dic
+  File "E:\Progz\mythOS\dictionary.py", line 32
+    blanks = []
+         ^
+SyntaxError: invalid syntax
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+labial oral stop
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+uvular affricate
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+alveolar trill
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+labial oral stop
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+dental oral stop
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 20, in <module>
+    print(dic.consonant_chart())
+  File "E:\Progz\mythOS\dictionary.py", line 30, in consonant_chart
+    chart.append("%s %s" % (column[c, row[r]]))
+TypeError: list indices must be integers or slices, not tuple
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 1, in <module>
+    import dictionary as dic
+  File "E:\Progz\mythOS\dictionary.py", line 30
+    chart.append("%s %s" % (column[c], row[r]]))
+                                             ^
+SyntaxError: invalid syntax
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+fricative labial
+['labial oral stop', 'labial fricative', 'labial affricate', 'labial nasal stop', 'labial glide', 'labial flap/tap', 'labial trill', 'labial lateral', 'dental oral stop', 'dental fricative', 'dental affricate', 'dental nasal stop', 'dental glide', 'dental flap/tap', 'dental trill', 'dental lateral', 'alveolar oral stop', 'alveolar fricative', 'alveolar affricate', 'alveolar nasal stop', 'alveolar glide', 'alveolar flap/tap', 'alveolar trill', 'alveolar lateral', 'retroflex oral stop', 'retroflex fricative', 'retroflex affricate', 'retroflex nasal stop', 'retroflex glide', 'retroflex flap/tap', 'retroflex trill', 'retroflex lateral', 'palatal oral stop', 'palatal fricative', 'palatal affricate', 'palatal nasal stop', 'palatal glide', 'palatal flap/tap', 'palatal trill', 'palatal lateral', 'velar oral stop', 'velar fricative', 'velar affricate', 'velar nasal stop', 'velar glide', 'velar flap/tap', 'velar trill', 'velar lateral', 'uvular oral stop', 'uvular fricative', 'uvular affricate', 'uvular nasal stop', 'uvular glide', 'uvular flap/tap', 'uvular trill', 'uvular lateral', 'glottal oral stop', 'glottal fricative', 'glottal affricate', 'glottal nasal stop', 'glottal glide', 'glottal flap/tap', 'glottal trill', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+affricate uvular
+['labial oral stop', 'labial fricative', 'labial affricate', 'labial nasal stop', 'labial glide', 'labial flap/tap', 'labial trill', 'labial lateral', 'dental oral stop', 'dental fricative', 'dental affricate', 'dental nasal stop', 'dental glide', 'dental flap/tap', 'dental trill', 'dental lateral', 'alveolar oral stop', 'alveolar fricative', 'alveolar affricate', 'alveolar nasal stop', 'alveolar glide', 'alveolar flap/tap', 'alveolar trill', 'alveolar lateral', 'retroflex oral stop', 'retroflex fricative', 'retroflex affricate', 'retroflex nasal stop', 'retroflex glide', 'retroflex flap/tap', 'retroflex trill', 'retroflex lateral', 'palatal oral stop', 'palatal fricative', 'palatal affricate', 'palatal nasal stop', 'palatal glide', 'palatal flap/tap', 'palatal trill', 'palatal lateral', 'velar oral stop', 'velar fricative', 'velar affricate', 'velar nasal stop', 'velar glide', 'velar flap/tap', 'velar trill', 'velar lateral', 'uvular oral stop', 'uvular fricative', 'uvular affricate', 'uvular nasal stop', 'uvular glide', 'uvular flap/tap', 'uvular trill', 'uvular lateral', 'glottal oral stop', 'glottal fricative', 'glottal affricate', 'glottal nasal stop', 'glottal glide', 'glottal flap/tap', 'glottal trill', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+affricate glottal
+['labial oral stop', 'labial fricative', 'labial affricate', 'labial nasal stop', 'labial glide', 'labial flap/tap', 'labial trill', 'labial lateral', 'dental oral stop', 'dental fricative', 'dental affricate', 'dental nasal stop', 'dental glide', 'dental flap/tap', 'dental trill', 'dental lateral', 'alveolar oral stop', 'alveolar fricative', 'alveolar affricate', 'alveolar nasal stop', 'alveolar glide', 'alveolar flap/tap', 'alveolar trill', 'alveolar lateral', 'retroflex oral stop', 'retroflex fricative', 'retroflex affricate', 'retroflex nasal stop', 'retroflex glide', 'retroflex flap/tap', 'retroflex trill', 'retroflex lateral', 'palatal oral stop', 'palatal fricative', 'palatal affricate', 'palatal nasal stop', 'palatal glide', 'palatal flap/tap', 'palatal trill', 'palatal lateral', 'velar oral stop', 'velar fricative', 'velar affricate', 'velar nasal stop', 'velar glide', 'velar flap/tap', 'velar trill', 'velar lateral', 'uvular oral stop', 'uvular fricative', 'uvular affricate', 'uvular nasal stop', 'uvular glide', 'uvular flap/tap', 'uvular trill', 'uvular lateral', 'glottal oral stop', 'glottal fricative', 'glottal affricate', 'glottal nasal stop', 'glottal glide', 'glottal flap/tap', 'glottal trill', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+affricate glottal
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+glottal affricate
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 20, in <module>
+    print(dic.consonant_chart())
+  File "E:\Progz\mythOS\dictionary.py", line 37, in consonant_chart
+    chart.remove([r, c])
+ValueError: list.remove(x): x not in list
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 20, in <module>
+    print(dic.consonant_chart())
+  File "E:\Progz\mythOS\dictionary.py", line 37, in consonant_chart
+    chart.remove([r][c])
+ValueError: list.remove(x): x not in list
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 20, in <module>
+    print(dic.consonant_chart())
+  File "E:\Progz\mythOS\dictionary.py", line 34, in consonant_chart
+    blanks = [[7][2], [7][3], [1][4], [6][4], [7][4], [0][5], [1][5], [4][5], [5][5], [6][5], [7][5],
+IndexError: list index out of range
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 20, in <module>
+    print(dic.consonant_chart())
+  File "E:\Progz\mythOS\dictionary.py", line 34, in consonant_chart
+    blanks = [[7][2], [7][3], [1][4], [6][4], [7][4], [0][5], [1][5], [4][5], [5][5], [6][5], [7][5],
+IndexError: list index out of range
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 1, in <module>
+    import dictionary as dic
+  File "E:\Progz\mythOS\dictionary.py", line 34
+    """blanks = [[7][2], [7][3], [1][4], [6][4], [7][4], [0][5], [1][5], [4][5], [5][5], [6][5], [7][5],
+                                                                                                       ^
+IndentationError: unindent does not match any outer indentation level
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 1, in <module>
+    import dictionary as dic
+  File "E:\Progz\mythOS\dictionary.py", line 34
+    """blanks = [[7][2], [7][3], [1][4], [6][4], [7][4], [0][5], [1][5], [4][5], [5][5], [6][5], [7][5],
+                                                                                                       ^
+IndentationError: unindent does not match any outer indentation level
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+[7, 2]
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+[7, 2]
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 20, in <module>
+    print(dic.consonant_chart())
+  File "E:\Progz\mythOS\dictionary.py", line 40, in consonant_chart
+    chart.remove(blanks[0])
+ValueError: list.remove(x): x not in list
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+[7, 2]
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 20, in <module>
+    print(dic.consonant_chart())
+  File "E:\Progz\mythOS\dictionary.py", line 40, in consonant_chart
+    chart.remove(chart[blanks[0]])
+TypeError: list indices must be integers or slices, not list
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+7
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 20, in <module>
+    print(dic.consonant_chart())
+  File "E:\Progz\mythOS\dictionary.py", line 41, in consonant_chart
+    chart.remove(blanks[r][0], blanks[r][1])
+TypeError: remove() takes exactly one argument (2 given)
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 20, in <module>
+    print(dic.consonant_chart())
+  File "E:\Progz\mythOS\dictionary.py", line 41, in consonant_chart
+    chart.remove(chart[blanks[r][0], blanks[r][1]])
+TypeError: list indices must be integers or slices, not tuple
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+l
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+labial oral stop
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+labial oral stop
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'velar oral stop', 'uvular oral stop', 'glottal oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'palatal fricative', 'velar fricative', 'uvular fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'uvular nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'velar glide', 'uvular glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'velar flap/tap', 'uvular flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'palatal trill', 'velar trill', 'uvular trill', 'glottal trill', 'labial lateral', 'dental lateral', 'alveolar lateral', 'retroflex lateral', 'palatal lateral', 'velar lateral', 'uvular lateral', 'glottal lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'uvular oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'uvular trill', 'labial lateral', 'dental lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+labial oral stop
+dental oral stop
+alveolar oral stop
+retroflex oral stop
+palatal oral stop
+uvular oral stop
+labial fricative
+dental fricative
+alveolar fricative
+retroflex fricative
+glottal fricative
+labial affricate
+dental affricate
+alveolar affricate
+retroflex affricate
+palatal affricate
+velar affricate
+uvular affricate
+glottal affricate
+labial nasal stop
+dental nasal stop
+alveolar nasal stop
+retroflex nasal stop
+palatal nasal stop
+velar nasal stop
+glottal nasal stop
+labial glide
+dental glide
+alveolar glide
+retroflex glide
+palatal glide
+glottal glide
+labial flap/tap
+dental flap/tap
+alveolar flap/tap
+retroflex flap/tap
+palatal flap/tap
+glottal flap/tap
+labial trill
+dental trill
+alveolar trill
+retroflex trill
+uvular trill
+labial lateral
+dental lateral
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'uvular oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'uvular trill', 'labial lateral', 'dental lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+[0, 0]
+[0, 1]
+[0, 2]
+[0, 3]
+[0, 4]
+[0, 6]
+[1, 0]
+[1, 1]
+[1, 2]
+[1, 3]
+[1, 7]
+[2, 0]
+[2, 1]
+[2, 2]
+[2, 3]
+[2, 4]
+[2, 5]
+[2, 6]
+[2, 7]
+[3, 0]
+[3, 1]
+[3, 2]
+[3, 3]
+[3, 4]
+[3, 5]
+[3, 7]
+[4, 0]
+[4, 1]
+[4, 2]
+[4, 3]
+[4, 4]
+[4, 7]
+[5, 0]
+[5, 1]
+[5, 2]
+[5, 3]
+[5, 4]
+[5, 7]
+[6, 0]
+[6, 1]
+[6, 2]
+[6, 3]
+[6, 6]
+[7, 0]
+[7, 1]
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'uvular oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'uvular trill', 'labial lateral', 'dental lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+[0, 0]
+[0, 1]
+[0, 2]
+[0, 3]
+[0, 4]
+[0, 6]
+[1, 0]
+[1, 1]
+[1, 2]
+[1, 3]
+[1, 7]
+[2, 0]
+[2, 1]
+[2, 2]
+[2, 3]
+[2, 4]
+[2, 5]
+[2, 6]
+[2, 7]
+[3, 0]
+[3, 1]
+[3, 2]
+[3, 3]
+[3, 4]
+[3, 5]
+[3, 7]
+[4, 0]
+[4, 1]
+[4, 2]
+[4, 3]
+[4, 4]
+[4, 7]
+[5, 0]
+[5, 1]
+[5, 2]
+[5, 3]
+[5, 4]
+[5, 7]
+[6, 0]
+[6, 1]
+[6, 2]
+[6, 3]
+[6, 6]
+[7, 0]
+[7, 1]
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'uvular oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'uvular trill', 'labial lateral', 'dental lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+[0, 0]
+[0, 1]
+[0, 2]
+[0, 3]
+[0, 4]
+[0, 6]
+[1, 0]
+[1, 1]
+[1, 2]
+[1, 3]
+[1, 7]
+[2, 0]
+[2, 1]
+[2, 2]
+[2, 3]
+[2, 4]
+[2, 5]
+[2, 6]
+[2, 7]
+[3, 0]
+[3, 1]
+[3, 2]
+[3, 3]
+[3, 4]
+[3, 5]
+[3, 7]
+[4, 0]
+[4, 1]
+[4, 2]
+[4, 3]
+[4, 4]
+[4, 7]
+[5, 0]
+[5, 1]
+[5, 2]
+[5, 3]
+[5, 4]
+[5, 7]
+[6, 0]
+[6, 1]
+[6, 2]
+[6, 3]
+[6, 6]
+[7, 0]
+[7, 1]
+45
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'uvular oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'uvular trill', 'labial lateral', 'dental lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+0
+1
+2
+3
+4
+5
+6
+7
+0
+1
+2
+3
+4
+5
+6
+7
+0
+1
+2
+3
+4
+5
+6
+7
+0
+1
+2
+3
+4
+5
+6
+7
+0
+1
+2
+3
+4
+5
+6
+7
+0
+1
+2
+3
+4
+5
+6
+7
+0
+1
+2
+3
+4
+5
+6
+7
+0
+1
+2
+3
+4
+5
+6
+7
+45
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'uvular oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'uvular trill', 'labial lateral', 'dental lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+0
+1
+2
+3
+4
+5
+6
+7
+45
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'uvular oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'uvular trill', 'labial lateral', 'dental lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+0
+1
+2
+3
+4
+5
+6
+43
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'uvular oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'uvular trill']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+0
+1
+2
+3
+4
+5
+6
+7
+45
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'uvular oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'uvular trill', 'labial lateral', 'dental lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+45
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'uvular oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'uvular trill', 'labial lateral', 'dental lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+45
+['labial oral stop', 'dental oral stop', 'alveolar oral stop', 'retroflex oral stop', 'palatal oral stop', 'uvular oral stop', 'labial fricative', 'dental fricative', 'alveolar fricative', 'retroflex fricative', 'glottal fricative', 'labial affricate', 'dental affricate', 'alveolar affricate', 'retroflex affricate', 'palatal affricate', 'velar affricate', 'uvular affricate', 'glottal affricate', 'labial nasal stop', 'dental nasal stop', 'alveolar nasal stop', 'retroflex nasal stop', 'palatal nasal stop', 'velar nasal stop', 'glottal nasal stop', 'labial glide', 'dental glide', 'alveolar glide', 'retroflex glide', 'palatal glide', 'glottal glide', 'labial flap/tap', 'dental flap/tap', 'alveolar flap/tap', 'retroflex flap/tap', 'palatal flap/tap', 'glottal flap/tap', 'labial trill', 'dental trill', 'alveolar trill', 'retroflex trill', 'uvular trill', 'labial lateral', 'dental lateral']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+45
+['labial oral stop', 'labial fricative', 'labial affricate', 'labial nasal stop', 'labial glide', 'labial trill', 'dental oral stop', 'dental fricative', 'dental affricate', 'dental nasal stop', 'dental lateral', 'alveolar oral stop', 'alveolar fricative', 'alveolar affricate', 'alveolar nasal stop', 'alveolar glide', 'alveolar flap/tap', 'alveolar trill', 'alveolar lateral', 'retroflex oral stop', 'retroflex fricative', 'retroflex affricate', 'retroflex nasal stop', 'retroflex glide', 'retroflex flap/tap', 'retroflex lateral', 'palatal oral stop', 'palatal fricative', 'palatal affricate', 'palatal nasal stop', 'palatal glide', 'palatal lateral', 'velar oral stop', 'velar fricative', 'velar affricate', 'velar nasal stop', 'velar glide', 'velar lateral', 'uvular oral stop', 'uvular fricative', 'uvular affricate', 'uvular nasal stop', 'uvular trill', 'glottal oral stop', 'glottal fricative']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+45
+['labial oral stop', 'labial fricative', 'labial affricate', 'labial nasal stop', 'labial glide', 'labial trill', 'dental oral stop', 'dental fricative', 'dental affricate', 'dental nasal stop', 'dental lateral', 'alveolar oral stop', 'alveolar fricative', 'alveolar affricate', 'alveolar nasal stop', 'alveolar glide', 'alveolar flap/tap', 'alveolar trill', 'alveolar lateral', 'retroflex oral stop', 'retroflex fricative', 'retroflex affricate', 'retroflex nasal stop', 'retroflex glide', 'retroflex flap/tap', 'retroflex lateral', 'palatal oral stop', 'palatal fricative', 'palatal affricate', 'palatal nasal stop', 'palatal glide', 'palatal lateral', 'velar oral stop', 'velar fricative', 'velar affricate', 'velar nasal stop', 'velar glide', 'velar lateral', 'uvular oral stop', 'uvular fricative', 'uvular affricate', 'uvular nasal stop', 'uvular trill', 'glottal oral stop', 'glottal fricative']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['labial oral stop', 'labial fricative', 'labial affricate', 'labial nasal stop', 'labial glide', 'labial trill', 'dental oral stop', 'dental fricative', 'dental affricate', 'dental nasal stop', 'dental lateral', 'alveolar oral stop', 'alveolar fricative', 'alveolar affricate', 'alveolar nasal stop', 'alveolar glide', 'alveolar flap/tap', 'alveolar trill', 'alveolar lateral', 'retroflex oral stop', 'retroflex fricative', 'retroflex affricate', 'retroflex nasal stop', 'retroflex glide', 'retroflex flap/tap', 'retroflex lateral', 'palatal oral stop', 'palatal fricative', 'palatal affricate', 'palatal nasal stop', 'palatal glide', 'palatal lateral', 'velar oral stop', 'velar fricative', 'velar affricate', 'velar nasal stop', 'velar glide', 'velar lateral', 'uvular oral stop', 'uvular fricative', 'uvular affricate', 'uvular nasal stop', 'uvular trill', 'glottal oral stop', 'glottal fricative']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 39, in <module>
+    Language()
+TypeError: __init__() missing 4 required positional arguments: 'name', 'consonants', 'vowels', and 'dictionary'
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 37, in <module>
+    language = randomLanguage()
+  File "E:\Progz\mythOS\generators.py", line 32, in randomLanguage
+    lang.consonants.append(c_chart[c_choice])
+NameError: name 'lang' is not defined
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['labial oral stop', 'uvular fricative', 'labial fricative', 'alveolar affricate', 'dental lateral', 'velar affricate', 'palatal nasal stop', 'retroflex oral stop', 'palatal lateral', 'dental oral stop', 'dental fricative', 'alveolar oral stop', 'alveolar fricative', 'retroflex nasal stop', 'alveolar flap/tap', 'palatal oral stop', 'palatal fricative', 'palatal glide', 'velar glide', 'uvular nasal stop', 'labial glide', 'alveolar glide', 'alveolar nasal stop', 'retroflex affricate']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['labial nasal stop', 'retroflex flap/tap', 'uvular nasal stop', 'glottal oral stop', 'uvular affricate', 'alveolar glide', 'dental nasal stop', 'alveolar flap/tap', 'labial glide', 'alveolar oral stop', 'palatal affricate', 'uvular fricative', 'palatal lateral', 'dental lateral', 'alveolar fricative', 'labial trill', 'velar glide', 'alveolar lateral', 'alveolar affricate', 'alveolar trill', 'labial affricate', 'dental affricate', 'retroflex oral stop', 'velar lateral', 'palatal oral stop', 'palatal glide', 'palatal nasal stop', 'velar nasal stop', 'retroflex glide']
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\dictionary.py", line 49, in <module>
+    print(row['X-SAMPA'], row['PHONEME'])
+KeyError: 'X-SAMPA'
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+<csv.DictReader object at 0x0000003BA6E402E8>
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+OrderedDict([('a', 'b'), ('open front unrounded vowel', 'voiced bilabial plosive')])
+OrderedDict([('a', 'b_<'), ('open front unrounded vowel', 'voiced bilabial implosive')])
+OrderedDict([('a', 'c'), ('open front unrounded vowel', 'voiceless palatal plosive')])
+OrderedDict([('a', 'd'), ('open front unrounded vowel', 'voiced alveolar plosive')])
+OrderedDict([('a', 'd`'), ('open front unrounded vowel', 'voiced retroflex plosive')])
+OrderedDict([('a', 'd_<'), ('open front unrounded vowel', 'voiced alveolar implosive')])
+OrderedDict([('a', 'e'), ('open front unrounded vowel', 'close-mid front unrounded vowel')])
+OrderedDict([('a', 'f'), ('open front unrounded vowel', 'voiceless labiodental fricative')])
+OrderedDict([('a', 'g'), ('open front unrounded vowel', 'voiced velar plosive')])
+OrderedDict([('a', 'g_<'), ('open front unrounded vowel', 'voiced velar implosive')])
+OrderedDict([('a', 'h'), ('open front unrounded vowel', 'voiceless glottal fricative')])
+OrderedDict([('a', 'h\\'), ('open front unrounded vowel', 'voiced glottal fricative')])
+OrderedDict([('a', 'i'), ('open front unrounded vowel', 'close front unrounded vowel')])
+OrderedDict([('a', 'j'), ('open front unrounded vowel', 'palatal approximant')])
+OrderedDict([('a', 'j\\'), ('open front unrounded vowel', 'voiced palatal fricative')])
+OrderedDict([('a', 'k'), ('open front unrounded vowel', 'voiceless velar plosive')])
+OrderedDict([('a', 'l'), ('open front unrounded vowel', 'alveolar lateral approximant')])
+OrderedDict([('a', 'l`'), ('open front unrounded vowel', 'retroflex lateral approximant')])
+OrderedDict([('a', 'l\\'), ('open front unrounded vowel', 'alveolar lateral flap')])
+OrderedDict([('a', 'm'), ('open front unrounded vowel', 'bilabial nasal')])
+OrderedDict([('a', 'n'), ('open front unrounded vowel', 'alveolar nasal')])
+OrderedDict([('a', 'n`'), ('open front unrounded vowel', 'retroflex nasal')])
+OrderedDict([('a', 'o'), ('open front unrounded vowel', 'close-mid back rounded vowel')])
+OrderedDict([('a', 'p'), ('open front unrounded vowel', 'voiceless bilabial plosive')])
+OrderedDict([('a', 'p\\'), ('open front unrounded vowel', 'voiceless bilabial fricative')])
+OrderedDict([('a', 'q'), ('open front unrounded vowel', 'voiceless uvular plosive')])
+OrderedDict([('a', 'r'), ('open front unrounded vowel', 'alveolar trill')])
+OrderedDict([('a', 'r`'), ('open front unrounded vowel', 'retroflex flap')])
+OrderedDict([('a', 'r\\'), ('open front unrounded vowel', 'alveolar approximant')])
+OrderedDict([('a', 'r\\`'), ('open front unrounded vowel', 'retroflex approximant')])
+OrderedDict([('a', 's'), ('open front unrounded vowel', 'voiceless alveolar fricative')])
+OrderedDict([('a', 's`'), ('open front unrounded vowel', 'voiceless retroflex fricative')])
+OrderedDict([('a', 's\\'), ('open front unrounded vowel', 'voiceless alveolo-palatal fricative')])
+OrderedDict([('a', 't'), ('open front unrounded vowel', 'voiceless alveolar plosive')])
+OrderedDict([('a', 't`'), ('open front unrounded vowel', 'voiceless retroflex plosive')])
+OrderedDict([('a', 'u'), ('open front unrounded vowel', 'close back rounded vowel')])
+OrderedDict([('a', 'v'), ('open front unrounded vowel', 'voiced labiodental fricative')])
+OrderedDict([('a', 'v\\'), ('open front unrounded vowel', 'labiodental approximant')])
+OrderedDict([('a', 'w'), ('open front unrounded vowel', 'labial-velar approximant')])
+OrderedDict([('a', 'x'), ('open front unrounded vowel', 'voiceless velar fricative')])
+OrderedDict([('a', 'x\\'), ('open front unrounded vowel', 'voiceless palatal-velar fricative')])
+OrderedDict([('a', 'y'), ('open front unrounded vowel', 'close front rounded vowel')])
+OrderedDict([('a', 'z'), ('open front unrounded vowel', 'voiced alveolar fricative')])
+OrderedDict([('a', 'z`'), ('open front unrounded vowel', 'voiced retroflex fricative')])
+OrderedDict([('a', 'z\\'), ('open front unrounded vowel', 'voiced alveolo-palatal fricative')])
+OrderedDict([('a', 'A'), ('open front unrounded vowel', 'open back unrounded vowel')])
+OrderedDict([('a', 'B'), ('open front unrounded vowel', 'voiced bilabial fricative')])
+OrderedDict([('a', 'B\\'), ('open front unrounded vowel', 'bilabial trill')])
+OrderedDict([('a', 'C'), ('open front unrounded vowel', 'voiceless palatal fricative')])
+OrderedDict([('a', 'D'), ('open front unrounded vowel', 'voiced dental fricative')])
+OrderedDict([('a', 'E'), ('open front unrounded vowel', 'open-mid front unrounded vowel')])
+OrderedDict([('a', 'F'), ('open front unrounded vowel', 'labiodental nasal')])
+OrderedDict([('a', 'G'), ('open front unrounded vowel', 'voiced velar fricative')])
+OrderedDict([('a', 'G\\'), ('open front unrounded vowel', 'voiced uvular plosive')])
+OrderedDict([('a', 'G\\_<'), ('open front unrounded vowel', 'voiced uvular implosive')])
+OrderedDict([('a', 'H'), ('open front unrounded vowel', 'labial-palatal approximant')])
+OrderedDict([('a', 'H\\'), ('open front unrounded vowel', 'voiceless epiglottal fricative')])
+OrderedDict([('a', 'I'), ('open front unrounded vowel', 'near-close front unrounded vowel')])
+OrderedDict([('a', 'I\\'), ('open front unrounded vowel', 'near-close central unrounded vowel')])
+OrderedDict([('a', 'J'), ('open front unrounded vowel', 'palatal nasal')])
+OrderedDict([('a', 'J\\'), ('open front unrounded vowel', 'voiced palatal plosive')])
+OrderedDict([('a', 'J\\_<'), ('open front unrounded vowel', 'voiced palatal implosive')])
+OrderedDict([('a', 'K'), ('open front unrounded vowel', 'voiceless alveolar lateral fricative')])
+OrderedDict([('a', 'K\\'), ('open front unrounded vowel', 'voiced alveolar lateral fricative')])
+OrderedDict([('a', 'L'), ('open front unrounded vowel', 'palatal lateral approximant')])
+OrderedDict([('a', 'L\\'), ('open front unrounded vowel', 'velar lateral approximant')])
+OrderedDict([('a', 'M'), ('open front unrounded vowel', 'close back unrounded vowel')])
+OrderedDict([('a', 'M\\'), ('open front unrounded vowel', 'velar approximant')])
+OrderedDict([('a', 'N'), ('open front unrounded vowel', 'velar nasal')])
+OrderedDict([('a', 'N\\'), ('open front unrounded vowel', 'uvular nasal')])
+OrderedDict([('a', 'O'), ('open front unrounded vowel', 'open-mid back rounded vowel')])
+OrderedDict([('a', 'O\\'), ('open front unrounded vowel', 'bilabial click')])
+OrderedDict([('a', 'Q'), ('open front unrounded vowel', 'open back rounded vowel')])
+OrderedDict([('a', 'R'), ('open front unrounded vowel', 'voiced uvular fricative')])
+OrderedDict([('a', 'R\\'), ('open front unrounded vowel', 'uvular trill')])
+OrderedDict([('a', 'S'), ('open front unrounded vowel', 'voiceless postalveolar fricative')])
+OrderedDict([('a', 'T'), ('open front unrounded vowel', 'voiceless dental fricative')])
+OrderedDict([('a', 'U'), ('open front unrounded vowel', 'near-close back rounded vowel')])
+OrderedDict([('a', 'U\\'), ('open front unrounded vowel', 'near-close central rounded vowel')])
+OrderedDict([('a', 'V'), ('open front unrounded vowel', 'open-mid back unrounded vowel')])
+OrderedDict([('a', 'W'), ('open front unrounded vowel', 'voiceless labial-velar fricative')])
+OrderedDict([('a', 'X'), ('open front unrounded vowel', 'voiceless uvular fricative')])
+OrderedDict([('a', 'X\\'), ('open front unrounded vowel', 'voiceless pharyngeal fricative')])
+OrderedDict([('a', 'Y'), ('open front unrounded vowel', 'near-close front rounded vowel')])
+OrderedDict([('a', 'Z'), ('open front unrounded vowel', 'voiced postalveolar fricative')])
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='X-SAMPA.csv' mode='r' encoding='cp1252'>
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+a open front unrounded vowel
+b voiced bilabial plosive
+b_< voiced bilabial implosive
+c voiceless palatal plosive
+d voiced alveolar plosive
+d` voiced retroflex plosive
+d_< voiced alveolar implosive
+e close-mid front unrounded vowel
+f voiceless labiodental fricative
+g voiced velar plosive
+g_< voiced velar implosive
+h voiceless glottal fricative
+h* voiced glottal fricative
+i close front unrounded vowel
+j palatal approximant
+j* voiced palatal fricative
+k voiceless velar plosive
+l alveolar lateral approximant
+l` retroflex lateral approximant
+l* alveolar lateral flap
+m bilabial nasal
+n alveolar nasal
+n` retroflex nasal
+o close-mid back rounded vowel
+p voiceless bilabial plosive
+p* voiceless bilabial fricative
+q voiceless uvular plosive
+r alveolar trill
+r` retroflex flap
+r* alveolar approximant
+r*` retroflex approximant
+s voiceless alveolar fricative
+s` voiceless retroflex fricative
+s* voiceless alveolo-palatal fricative
+t voiceless alveolar plosive
+t` voiceless retroflex plosive
+u close back rounded vowel
+v voiced labiodental fricative
+v* labiodental approximant
+w labial-velar approximant
+x voiceless velar fricative
+x* voiceless palatal-velar fricative
+y close front rounded vowel
+z voiced alveolar fricative
+z` voiced retroflex fricative
+z* voiced alveolo-palatal fricative
+A open back unrounded vowel
+B voiced bilabial fricative
+B* bilabial trill
+C voiceless palatal fricative
+D voiced dental fricative
+E open-mid front unrounded vowel
+F labiodental nasal
+G voiced velar fricative
+G* voiced uvular plosive
+G*_< voiced uvular implosive
+H labial-palatal approximant
+H* voiceless epiglottal fricative
+I near-close front unrounded vowel
+I* near-close central unrounded vowel
+J palatal nasal
+J* voiced palatal plosive
+J*_< voiced palatal implosive
+K voiceless alveolar lateral fricative
+K* voiced alveolar lateral fricative
+L palatal lateral approximant
+L* velar lateral approximant
+M close back unrounded vowel
+M* velar approximant
+N velar nasal
+N* uvular nasal
+O open-mid back rounded vowel
+O* bilabial click
+Q open back rounded vowel
+R voiced uvular fricative
+R* uvular trill
+S voiceless postalveolar fricative
+T voiceless dental fricative
+U near-close back rounded vowel
+U* near-close central rounded vowel
+V open-mid back unrounded vowel
+W voiceless labial-velar fricative
+X voiceless uvular fricative
+X* voiceless pharyngeal fricative
+Y near-close front rounded vowel
+Z voiced postalveolar fricative
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+a open front unrounded vowel
+b voiced bilabial plosive
+b_< voiced bilabial implosive
+c voiceless palatal plosive
+d voiced alveolar plosive
+d` voiced retroflex plosive
+d_< voiced alveolar implosive
+e close-mid front unrounded vowel
+f voiceless labiodental fricative
+g voiced velar plosive
+g_< voiced velar implosive
+h voiceless glottal fricative
+h* voiced glottal fricative
+i close front unrounded vowel
+j palatal approximant
+j* voiced palatal fricative
+k voiceless velar plosive
+l alveolar lateral approximant
+l` retroflex lateral approximant
+l* alveolar lateral flap
+m bilabial nasal
+n alveolar nasal
+n` retroflex nasal
+o close-mid back rounded vowel
+p voiceless bilabial plosive
+p* voiceless bilabial fricative
+q voiceless uvular plosive
+r alveolar trill
+r` retroflex flap
+r* alveolar approximant
+r*` retroflex approximant
+s voiceless alveolar fricative
+s` voiceless retroflex fricative
+s* voiceless alveolo-palatal fricative
+t voiceless alveolar plosive
+t` voiceless retroflex plosive
+u close back rounded vowel
+v voiced labiodental fricative
+v* labiodental approximant
+w labial-velar approximant
+x voiceless velar fricative
+x* voiceless palatal-velar fricative
+y close front rounded vowel
+z voiced alveolar fricative
+z` voiced retroflex fricative
+z* voiced alveolo-palatal fricative
+A open back unrounded vowel
+B voiced bilabial fricative
+B* bilabial trill
+C voiceless palatal fricative
+D voiced dental fricative
+E open-mid front unrounded vowel
+F labiodental nasal
+G voiced velar fricative
+G* voiced uvular plosive
+G*_< voiced uvular implosive
+H labial-palatal approximant
+H* voiceless epiglottal fricative
+I near-close front unrounded vowel
+I* near-close central unrounded vowel
+J palatal nasal
+J* voiced palatal plosive
+J*_< voiced palatal implosive
+K voiceless alveolar lateral fricative
+K* voiced alveolar lateral fricative
+L palatal lateral approximant
+L* velar lateral approximant
+M close back unrounded vowel
+M* velar approximant
+N velar nasal
+N* uvular nasal
+O open-mid back rounded vowel
+O* bilabial click
+Q open back rounded vowel
+R voiced uvular fricative
+R* uvular trill
+S voiceless postalveolar fricative
+T voiceless dental fricative
+U near-close back rounded vowel
+U* near-close central rounded vowel
+V open-mid back unrounded vowel
+W voiceless labial-velar fricative
+X voiceless uvular fricative
+X* voiceless pharyngeal fricative
+Y near-close front rounded vowel
+Z voiced postalveolar fricative
+{'a': 'open front unrounded vowel', 'e': 'close-mid front unrounded vowel', 'i': 'close front unrounded vowel', 'o': 'close-mid back rounded vowel', 'u': 'close back rounded vowel', 'A': 'open back unrounded vowel', 'E': 'open-mid front unrounded vowel', 'I': 'near-close front unrounded vowel', 'M': 'close back unrounded vowel', 'O': 'open-mid back rounded vowel', 'Q': 'open back rounded vowel', 'U': 'near-close back rounded vowel', 'U*': 'near-close central rounded vowel', 'V': 'open-mid back unrounded vowel', 'Y': 'near-close front rounded vowel'}
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+a open front unrounded vowel
+b voiced bilabial plosive
+b_< voiced bilabial implosive
+c voiceless palatal plosive
+d voiced alveolar plosive
+d` voiced retroflex plosive
+d_< voiced alveolar implosive
+e close-mid front unrounded vowel
+f voiceless labiodental fricative
+g voiced velar plosive
+g_< voiced velar implosive
+h voiceless glottal fricative
+h* voiced glottal fricative
+i close front unrounded vowel
+j palatal approximant
+j* voiced palatal fricative
+k voiceless velar plosive
+l alveolar lateral approximant
+l` retroflex lateral approximant
+l* alveolar lateral flap
+m bilabial nasal
+n alveolar nasal
+n` retroflex nasal
+o close-mid back rounded vowel
+p voiceless bilabial plosive
+p* voiceless bilabial fricative
+q voiceless uvular plosive
+r alveolar trill
+r` retroflex flap
+r* alveolar approximant
+r*` retroflex approximant
+s voiceless alveolar fricative
+s` voiceless retroflex fricative
+s* voiceless alveolo-palatal fricative
+t voiceless alveolar plosive
+t` voiceless retroflex plosive
+u close back rounded vowel
+v voiced labiodental fricative
+v* labiodental approximant
+w labial-velar approximant
+x voiceless velar fricative
+x* voiceless palatal-velar fricative
+y close front rounded vowel
+z voiced alveolar fricative
+z` voiced retroflex fricative
+z* voiced alveolo-palatal fricative
+A open back unrounded vowel
+B voiced bilabial fricative
+B* bilabial trill
+C voiceless palatal fricative
+D voiced dental fricative
+E open-mid front unrounded vowel
+F labiodental nasal
+G voiced velar fricative
+G* voiced uvular plosive
+G*_< voiced uvular implosive
+H labial-palatal approximant
+H* voiceless epiglottal fricative
+I near-close front unrounded vowel
+I* near-close central unrounded vowel
+J palatal nasal
+J* voiced palatal plosive
+J*_< voiced palatal implosive
+K voiceless alveolar lateral fricative
+K* voiced alveolar lateral fricative
+L palatal lateral approximant
+L* velar lateral approximant
+M close back unrounded vowel
+M* velar approximant
+N velar nasal
+N* uvular nasal
+O open-mid back rounded vowel
+O* bilabial click
+Q open back rounded vowel
+R voiced uvular fricative
+R* uvular trill
+S voiceless postalveolar fricative
+T voiceless dental fricative
+U near-close back rounded vowel
+U* near-close central rounded vowel
+V open-mid back unrounded vowel
+W voiceless labial-velar fricative
+X voiceless uvular fricative
+X* voiceless pharyngeal fricative
+Y near-close front rounded vowel
+Z voiced postalveolar fricative
+['dental affricate', 'alveolar oral stop', 'labial affricate', 'palatal glide', 'retroflex affricate', 'uvular affricate', 'retroflex glide', 'velar glide', 'uvular fricative', 'uvular nasal stop', 'velar lateral', 'alveolar nasal stop', 'labial oral stop', 'velar fricative', 'palatal fricative', 'palatal nasal stop', 'retroflex flap/tap', 'alveolar fricative', 'alveolar glide', 'alveolar flap/tap', 'dental fricative', 'dental nasal stop', 'glottal oral stop', 'uvular trill', 'labial fricative', 'palatal oral stop', 'dental oral stop', 'velar affricate', 'retroflex nasal stop']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+a open front unrounded vowel
+b voiced bilabial plosive
+b_< voiced bilabial implosive
+c voiceless palatal plosive
+d voiced alveolar plosive
+d` voiced retroflex plosive
+d_< voiced alveolar implosive
+e close-mid front unrounded vowel
+f voiceless labiodental fricative
+g voiced velar plosive
+g_< voiced velar implosive
+h voiceless glottal fricative
+h* voiced glottal fricative
+i close front unrounded vowel
+j palatal approximant
+j* voiced palatal fricative
+k voiceless velar plosive
+l alveolar lateral approximant
+l` retroflex lateral approximant
+l* alveolar lateral flap
+m bilabial nasal
+n alveolar nasal
+n` retroflex nasal
+o close-mid back rounded vowel
+p voiceless bilabial plosive
+p* voiceless bilabial fricative
+q voiceless uvular plosive
+r alveolar trill
+r` retroflex flap
+r* alveolar approximant
+r*` retroflex approximant
+s voiceless alveolar fricative
+s` voiceless retroflex fricative
+s* voiceless alveolo-palatal fricative
+t voiceless alveolar plosive
+t` voiceless retroflex plosive
+u close back rounded vowel
+v voiced labiodental fricative
+v* labiodental approximant
+w labial-velar approximant
+x voiceless velar fricative
+x* voiceless palatal-velar fricative
+y close front rounded vowel
+z voiced alveolar fricative
+z` voiced retroflex fricative
+z* voiced alveolo-palatal fricative
+A open back unrounded vowel
+B voiced bilabial fricative
+B* bilabial trill
+C voiceless palatal fricative
+D voiced dental fricative
+E open-mid front unrounded vowel
+F labiodental nasal
+G voiced velar fricative
+G* voiced uvular plosive
+G*_< voiced uvular implosive
+H labial-palatal approximant
+H* voiceless epiglottal fricative
+I near-close front unrounded vowel
+I* near-close central unrounded vowel
+J palatal nasal
+J* voiced palatal plosive
+J*_< voiced palatal implosive
+K voiceless alveolar lateral fricative
+K* voiced alveolar lateral fricative
+L palatal lateral approximant
+L* velar lateral approximant
+M close back unrounded vowel
+M* velar approximant
+N velar nasal
+N* uvular nasal
+O open-mid back rounded vowel
+O* bilabial click
+Q open back rounded vowel
+R voiced uvular fricative
+R* uvular trill
+S voiceless postalveolar fricative
+T voiceless dental fricative
+U near-close back rounded vowel
+U* near-close central rounded vowel
+V open-mid back unrounded vowel
+W voiceless labial-velar fricative
+X voiceless uvular fricative
+X* voiceless pharyngeal fricative
+Y near-close front rounded vowel
+Z voiced postalveolar fricative
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 44, in <module>
+    language = randomLanguage()
+  File "E:\Progz\mythOS\generators.py", line 32, in randomLanguage
+    v_choice = random.choice(v_chart)
+  File "C:\Program Files\Python36\lib\random.py", line 258, in choice
+    return seq[i]
+KeyError: 13
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 44, in <module>
+    language = randomLanguage()
+  File "E:\Progz\mythOS\generators.py", line 32, in randomLanguage
+    v_choice = random.choice(v_chart)
+  File "C:\Program Files\Python36\lib\random.py", line 258, in choice
+    return seq[i]
+KeyError: 10
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 44, in <module>
+    language = randomLanguage()
+  File "E:\Progz\mythOS\generators.py", line 32, in randomLanguage
+    v_choice = random.choice(v_chart)
+  File "C:\Program Files\Python36\lib\random.py", line 258, in choice
+    return seq[i]
+KeyError: 11
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 44, in <module>
+    language = randomLanguage()
+  File "E:\Progz\mythOS\generators.py", line 32, in randomLanguage
+    v_choice = random.choice(v_chart[0])
+KeyError: 0
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+{'a': 'open front unrounded vowel', 'e': 'close-mid front unrounded vowel', 'i': 'close front unrounded vowel', 'o': 'close-mid back rounded vowel', 'u': 'close back rounded vowel', 'A': 'open back unrounded vowel', 'E': 'open-mid front unrounded vowel', 'I': 'near-close front unrounded vowel', 'M': 'close back unrounded vowel', 'O': 'open-mid back rounded vowel', 'Q': 'open back rounded vowel', 'U': 'near-close back rounded vowel', 'U*': 'near-close central rounded vowel', 'V': 'open-mid back unrounded vowel', 'Y': 'near-close front rounded vowel'}
+{'a': 'open front unrounded vowel', 'e': 'close-mid front unrounded vowel', 'i': 'close front unrounded vowel', 'o': 'close-mid back rounded vowel', 'u': 'close back rounded vowel', 'A': 'open back unrounded vowel', 'E': 'open-mid front unrounded vowel', 'I': 'near-close front unrounded vowel', 'M': 'close back unrounded vowel', 'O': 'open-mid back rounded vowel', 'Q': 'open back rounded vowel', 'U': 'near-close back rounded vowel', 'U*': 'near-close central rounded vowel', 'V': 'open-mid back unrounded vowel', 'Y': 'near-close front rounded vowel'}
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 45, in <module>
+    language = randomLanguage()
+  File "E:\Progz\mythOS\generators.py", line 32, in randomLanguage
+    print(v_chart[0])
+KeyError: 0
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+{'a': 'open front unrounded vowel', 'e': 'close-mid front unrounded vowel', 'i': 'close front unrounded vowel', 'o': 'close-mid back rounded vowel', 'u': 'close back rounded vowel', 'A': 'open back unrounded vowel', 'E': 'open-mid front unrounded vowel', 'I': 'near-close front unrounded vowel', 'M': 'close back unrounded vowel', 'O': 'open-mid back rounded vowel', 'Q': 'open back rounded vowel', 'U': 'near-close back rounded vowel', 'U*': 'near-close central rounded vowel', 'V': 'open-mid back unrounded vowel', 'Y': 'near-close front rounded vowel'}
+{'a': 'open front unrounded vowel', 'e': 'close-mid front unrounded vowel', 'i': 'close front unrounded vowel', 'o': 'close-mid back rounded vowel', 'u': 'close back rounded vowel', 'A': 'open back unrounded vowel', 'E': 'open-mid front unrounded vowel', 'I': 'near-close front unrounded vowel', 'M': 'close back unrounded vowel', 'O': 'open-mid back rounded vowel', 'Q': 'open back rounded vowel', 'U': 'near-close back rounded vowel', 'U*': 'near-close central rounded vowel', 'V': 'open-mid back unrounded vowel', 'Y': 'near-close front rounded vowel'}
+{'a': 'open front unrounded vowel', 'e': 'close-mid front unrounded vowel', 'i': 'close front unrounded vowel', 'o': 'close-mid back rounded vowel', 'u': 'close back rounded vowel', 'A': 'open back unrounded vowel', 'E': 'open-mid front unrounded vowel', 'I': 'near-close front unrounded vowel', 'M': 'close back unrounded vowel', 'O': 'open-mid back rounded vowel', 'Q': 'open back rounded vowel', 'U': 'near-close back rounded vowel', 'U*': 'near-close central rounded vowel', 'V': 'open-mid back unrounded vowel', 'Y': 'near-close front rounded vowel'}
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+{'a': 'open front unrounded vowel', 'e': 'close-mid front unrounded vowel', 'i': 'close front unrounded vowel', 'o': 'close-mid back rounded vowel', 'u': 'close back rounded vowel', 'A': 'open back unrounded vowel', 'E': 'open-mid front unrounded vowel', 'I': 'near-close front unrounded vowel', 'M': 'close back unrounded vowel', 'O': 'open-mid back rounded vowel', 'Q': 'open back rounded vowel', 'U': 'near-close back rounded vowel', 'U*': 'near-close central rounded vowel', 'V': 'open-mid back unrounded vowel', 'Y': 'near-close front rounded vowel'}
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 46, in <module>
+    language = randomLanguage()
+  File "E:\Progz\mythOS\generators.py", line 22, in randomLanguage
+    print(random.choice(v_chart))
+  File "C:\Program Files\Python36\lib\random.py", line 258, in choice
+    return seq[i]
+KeyError: 6
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 46, in <module>
+    language = randomLanguage()
+  File "E:\Progz\mythOS\generators.py", line 22, in randomLanguage
+    print(random.choice(v_chart))
+  File "C:\Program Files\Python36\lib\random.py", line 258, in choice
+    return seq[i]
+KeyError: 14
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 46, in <module>
+    language = randomLanguage()
+  File "E:\Progz\mythOS\generators.py", line 22, in randomLanguage
+    print(random.choice(v_chart))
+  File "C:\Program Files\Python36\lib\random.py", line 258, in choice
+    return seq[i]
+KeyError: 9
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'M', 'O', 'Q', 'U', 'U*', 'V', 'Y']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['a', 'u', 'o']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['a', 'E', 'M', 'u']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['u', 'o', 'i', 'E']
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+a open front unrounded vowel
+b voiced bilabial plosive
+b_< voiced bilabial implosive
+c voiceless palatal plosive
+d voiced alveolar plosive
+d` voiced retroflex plosive
+d_< voiced alveolar implosive
+e close-mid front unrounded vowel
+f voiceless labiodental fricative
+g voiced velar plosive
+g_< voiced velar implosive
+h voiceless glottal fricative
+h* voiced glottal fricative
+i close front unrounded vowel
+j palatal approximant
+j* voiced palatal fricative
+k voiceless velar plosive
+l alveolar lateral approximant
+l` retroflex lateral approximant
+l* alveolar lateral flap
+m bilabial nasal
+n alveolar nasal
+n` retroflex nasal
+o close-mid back rounded vowel
+p voiceless bilabial plosive
+p* voiceless bilabial fricative
+q voiceless uvular plosive
+r alveolar trill
+r` retroflex flap
+r* alveolar approximant
+r*` retroflex approximant
+s voiceless alveolar fricative
+s` voiceless retroflex fricative
+s* voiceless alveolo-palatal fricative
+t voiceless alveolar plosive
+t` voiceless retroflex plosive
+u close back rounded vowel
+v voiced labiodental fricative
+v* labiodental approximant
+w labial-velar approximant
+x voiceless velar fricative
+x* voiceless palatal-velar fricative
+y close front rounded vowel
+z voiced alveolar fricative
+z` voiced retroflex fricative
+z* voiced alveolo-palatal fricative
+A open back unrounded vowel
+B voiced bilabial fricative
+B* bilabial trill
+C voiceless palatal fricative
+D voiced dental fricative
+E open-mid front unrounded vowel
+F labiodental nasal
+G voiced velar fricative
+G* voiced uvular plosive
+G*_< voiced uvular implosive
+H labial-palatal approximant
+H* voiceless epiglottal fricative
+I near-close front unrounded vowel
+I* near-close central unrounded vowel
+J palatal nasal
+J* voiced palatal plosive
+J*_< voiced palatal implosive
+K voiceless alveolar lateral fricative
+K* voiced alveolar lateral fricative
+L palatal lateral approximant
+L* velar lateral approximant
+M close back unrounded vowel
+M* velar approximant
+N velar nasal
+N* uvular nasal
+O open-mid back rounded vowel
+O* bilabial click
+Q open back rounded vowel
+R voiced uvular fricative
+R* uvular trill
+S voiceless postalveolar fricative
+T voiceless dental fricative
+U near-close back rounded vowel
+U* near-close central rounded vowel
+V open-mid back unrounded vowel
+W voiceless labial-velar fricative
+X voiceless uvular fricative
+X* voiceless pharyngeal fricative
+Y near-close front rounded vowel
+Z voiced postalveolar fricative
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\dictionary.py", line 44, in <module>
+    print(row['X-SAMPA'], row['PHONEME'])
+KeyError: 'X-SAMPA'
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+<csv.DictReader object at 0x000000D8B39E03C8>
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+<_io.TextIOWrapper name='X-SAMPA_cons.csv' mode='r' encoding='cp1252'>
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+<_io.TextIOWrapper name='X-SAMPA_cons.txt' mode='r' encoding='cp1252'>
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+<_io.TextIOWrapper name='X-SAMPA_cons.txt' mode='r' encoding='cp1252'>
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+b,voiced bilabial plosive
+b_<,voiced bilabial implosive
+c,voiceless palatal plosive
+d,voiced alveolar plosive
+d`,voiced retroflex plosive
+d_<,voiced alveolar implosive
+f,voiceless labiodental fricative
+g,voiced velar plosive
+g_<,voiced velar implosive
+h,voiceless glottal fricative
+h*,voiced glottal fricative
+j,palatal approximant
+j*,voiced palatal fricative
+k,voiceless velar plosive
+l,alveolar lateral approximant
+l`,retroflex lateral approximant
+l*,alveolar lateral flap
+m,bilabial nasal
+n,alveolar nasal
+n`,retroflex nasal
+p,voiceless bilabial plosive
+p*,voiceless bilabial fricative
+q,voiceless uvular plosive
+r,alveolar trill
+r`,retroflex flap
+r*,alveolar approximant
+r*`,retroflex approximant
+s,voiceless alveolar fricative
+s`,voiceless retroflex fricative
+s*,voiceless alveolo-palatal fricative
+t,voiceless alveolar plosive
+t`,voiceless retroflex plosive
+v,voiced labiodental fricative
+v*,labiodental approximant
+w,labial-velar approximant
+x,voiceless velar fricative
+x*,voiceless palatal-velar fricative
+y,close front rounded vowel
+z,voiced alveolar fricative
+z`,voiced retroflex fricative
+z*,voiced alveolo-palatal fricative
+B,voiced bilabial fricative
+B*,bilabial trill
+C,voiceless palatal fricative
+D,voiced dental fricative
+F,labiodental nasal
+G,voiced velar fricative
+G*,voiced uvular plosive
+G*_<,voiced uvular implosive
+H,labial-palatal approximant
+H*,voiceless epiglottal fricative
+J,palatal nasal
+J*,voiced palatal plosive
+J*_<,voiced palatal implosive
+K,voiceless alveolar lateral fricative
+K*,voiced alveolar lateral fricative
+L,palatal lateral approximant
+L*,velar lateral approximant
+M*,velar approximant
+N,velar nasal
+N*,uvular nasal
+O*,bilabial click
+R,voiced uvular fricative
+R*,uvular trill
+S,voiceless postalveolar fricative
+T,voiceless dental fricative
+W,voiceless labial-velar fricative
+X,voiceless uvular fricative
+X*,voiceless pharyngeal fricative
+Z,voiced postalveolar fricative
+
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+b
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+b
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+,
+>>> 
+================== RESTART: E:/Progz/mythOS/X-SAMPA_cons.py ==================
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/X-SAMPA_cons.py", line 77, in <module>
+    sampa_fix = re.consonants(',', ':\s\'')
+AttributeError: module 're' has no attribute 'consonants'
+>>> 
+================== RESTART: E:/Progz/mythOS/X-SAMPA_cons.py ==================
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/X-SAMPA_cons.py", line 77, in <module>
+    sampa_fix = re.sub(',', ':\s\'', consonants)
+  File "C:\Program Files\Python36\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or bytes-like object
+>>> 
+================== RESTART: E:/Progz/mythOS/X-SAMPA_cons.py ==================
+['b,voiced bilabial plosive', 'b_<,voiced bilabial implosive', 'c,voiceless palatal plosive', 'd,voiced alveolar plosive', 'd`,voiced retroflex plosive', 'd_<,voiced alveolar implosive', 'f,voiceless labiodental fricative', 'g,voiced velar plosive', 'g_<,voiced velar implosive', 'h,voiceless glottal fricative', 'h*,voiced glottal fricative', 'j,palatal approximant', 'j*,voiced palatal fricative', 'k,voiceless velar plosive', 'l,alveolar lateral approximant', 'l`,retroflex lateral approximant', 'l*,alveolar lateral flap', 'm,bilabial nasal', 'n,alveolar nasal', 'n`,retroflex nasal', 'p,voiceless bilabial plosive', 'p*,voiceless bilabial fricative', 'q,voiceless uvular plosive', 'r,alveolar trill', 'r`,retroflex flap', 'r*,alveolar approximant', 'r*`,retroflex approximant', 's,voiceless alveolar fricative', 's`,voiceless retroflex fricative', 's*,voiceless alveolo-palatal fricative', 't,voiceless alveolar plosive', 't`,voiceless retroflex plosive', 'v,voiced labiodental fricative', 'v*,labiodental approximant', 'w,labial-velar approximant', 'x,voiceless velar fricative', 'x*,voiceless palatal-velar fricative', 'y,close front rounded vowel', 'z,voiced alveolar fricative', 'z`,voiced retroflex fricative', 'z*,voiced alveolo-palatal fricative', 'B,voiced bilabial fricative', 'B*,bilabial trill', 'C,voiceless palatal fricative', 'D,voiced dental fricative', 'F,labiodental nasal', 'G,voiced velar fricative', 'G*,voiced uvular plosive', 'G*_<,voiced uvular implosive', 'H,labial-palatal approximant', 'H*,voiceless epiglottal fricative', 'J,palatal nasal', 'J*,voiced palatal plosive', 'J*_<,voiced palatal implosive', 'K,voiceless alveolar lateral fricative', 'K*,voiced alveolar lateral fricative', 'L,palatal lateral approximant', 'L*,velar lateral approximant', 'M*,velar approximant', 'N,velar nasal', 'N*,uvular nasal', 'O*,bilabial click', 'R,voiced uvular fricative', 'R*,uvular trill', 'S,voiceless postalveolar fricative', 'T,voiceless dental fricative', 'W,voiceless labial-velar fricative', 'X,voiceless uvular fricative', 'X*,voiceless pharyngeal fricative', 'Z,voiced postalveolar fricative']
+>>> 
+================== RESTART: E:/Progz/mythOS/X-SAMPA_cons.py ==================
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/X-SAMPA_cons.py", line 78, in <module>
+    for i in len(consonants):
+TypeError: 'int' object is not iterable
+>>> 
+================== RESTART: E:/Progz/mythOS/X-SAMPA_cons.py ==================
+["b:\\s'voiced bilabial plosive", "b_<:\\s'voiced bilabial implosive", "c:\\s'voiceless palatal plosive", "d:\\s'voiced alveolar plosive", "d`:\\s'voiced retroflex plosive", "d_<:\\s'voiced alveolar implosive", "f:\\s'voiceless labiodental fricative", "g:\\s'voiced velar plosive", "g_<:\\s'voiced velar implosive", "h:\\s'voiceless glottal fricative", "h*:\\s'voiced glottal fricative", "j:\\s'palatal approximant", "j*:\\s'voiced palatal fricative", "k:\\s'voiceless velar plosive", "l:\\s'alveolar lateral approximant", "l`:\\s'retroflex lateral approximant", "l*:\\s'alveolar lateral flap", "m:\\s'bilabial nasal", "n:\\s'alveolar nasal", "n`:\\s'retroflex nasal", "p:\\s'voiceless bilabial plosive", "p*:\\s'voiceless bilabial fricative", "q:\\s'voiceless uvular plosive", "r:\\s'alveolar trill", "r`:\\s'retroflex flap", "r*:\\s'alveolar approximant", "r*`:\\s'retroflex approximant", "s:\\s'voiceless alveolar fricative", "s`:\\s'voiceless retroflex fricative", "s*:\\s'voiceless alveolo-palatal fricative", "t:\\s'voiceless alveolar plosive", "t`:\\s'voiceless retroflex plosive", "v:\\s'voiced labiodental fricative", "v*:\\s'labiodental approximant", "w:\\s'labial-velar approximant", "x:\\s'voiceless velar fricative", "x*:\\s'voiceless palatal-velar fricative", "y:\\s'close front rounded vowel", "z:\\s'voiced alveolar fricative", "z`:\\s'voiced retroflex fricative", "z*:\\s'voiced alveolo-palatal fricative", "B:\\s'voiced bilabial fricative", "B*:\\s'bilabial trill", "C:\\s'voiceless palatal fricative", "D:\\s'voiced dental fricative", "F:\\s'labiodental nasal", "G:\\s'voiced velar fricative", "G*:\\s'voiced uvular plosive", "G*_<:\\s'voiced uvular implosive", "H:\\s'labial-palatal approximant", "H*:\\s'voiceless epiglottal fricative", "J:\\s'palatal nasal", "J*:\\s'voiced palatal plosive", "J*_<:\\s'voiced palatal implosive", "K:\\s'voiceless alveolar lateral fricative", "K*:\\s'voiced alveolar lateral fricative", "L:\\s'palatal lateral approximant", "L*:\\s'velar lateral approximant", "M*:\\s'velar approximant", "N:\\s'velar nasal", "N*:\\s'uvular nasal", "O*:\\s'bilabial click", "R:\\s'voiced uvular fricative", "R*:\\s'uvular trill", "S:\\s'voiceless postalveolar fricative", "T:\\s'voiceless dental fricative", "W:\\s'voiceless labial-velar fricative", "X:\\s'voiceless uvular fricative", "X*:\\s'voiceless pharyngeal fricative", "Z:\\s'voiced postalveolar fricative"]
+>>> 
+================== RESTART: E:/Progz/mythOS/X-SAMPA_cons.py ==================
+["b:\\S'voiced bilabial plosive", "b_<:\\S'voiced bilabial implosive", "c:\\S'voiceless palatal plosive", "d:\\S'voiced alveolar plosive", "d`:\\S'voiced retroflex plosive", "d_<:\\S'voiced alveolar implosive", "f:\\S'voiceless labiodental fricative", "g:\\S'voiced velar plosive", "g_<:\\S'voiced velar implosive", "h:\\S'voiceless glottal fricative", "h*:\\S'voiced glottal fricative", "j:\\S'palatal approximant", "j*:\\S'voiced palatal fricative", "k:\\S'voiceless velar plosive", "l:\\S'alveolar lateral approximant", "l`:\\S'retroflex lateral approximant", "l*:\\S'alveolar lateral flap", "m:\\S'bilabial nasal", "n:\\S'alveolar nasal", "n`:\\S'retroflex nasal", "p:\\S'voiceless bilabial plosive", "p*:\\S'voiceless bilabial fricative", "q:\\S'voiceless uvular plosive", "r:\\S'alveolar trill", "r`:\\S'retroflex flap", "r*:\\S'alveolar approximant", "r*`:\\S'retroflex approximant", "s:\\S'voiceless alveolar fricative", "s`:\\S'voiceless retroflex fricative", "s*:\\S'voiceless alveolo-palatal fricative", "t:\\S'voiceless alveolar plosive", "t`:\\S'voiceless retroflex plosive", "v:\\S'voiced labiodental fricative", "v*:\\S'labiodental approximant", "w:\\S'labial-velar approximant", "x:\\S'voiceless velar fricative", "x*:\\S'voiceless palatal-velar fricative", "y:\\S'close front rounded vowel", "z:\\S'voiced alveolar fricative", "z`:\\S'voiced retroflex fricative", "z*:\\S'voiced alveolo-palatal fricative", "B:\\S'voiced bilabial fricative", "B*:\\S'bilabial trill", "C:\\S'voiceless palatal fricative", "D:\\S'voiced dental fricative", "F:\\S'labiodental nasal", "G:\\S'voiced velar fricative", "G*:\\S'voiced uvular plosive", "G*_<:\\S'voiced uvular implosive", "H:\\S'labial-palatal approximant", "H*:\\S'voiceless epiglottal fricative", "J:\\S'palatal nasal", "J*:\\S'voiced palatal plosive", "J*_<:\\S'voiced palatal implosive", "K:\\S'voiceless alveolar lateral fricative", "K*:\\S'voiced alveolar lateral fricative", "L:\\S'palatal lateral approximant", "L*:\\S'velar lateral approximant", "M*:\\S'velar approximant", "N:\\S'velar nasal", "N*:\\S'uvular nasal", "O*:\\S'bilabial click", "R:\\S'voiced uvular fricative", "R*:\\S'uvular trill", "S:\\S'voiceless postalveolar fricative", "T:\\S'voiceless dental fricative", "W:\\S'voiceless labial-velar fricative", "X:\\S'voiceless uvular fricative", "X*:\\S'voiceless pharyngeal fricative", "Z:\\S'voiced postalveolar fricative"]
+>>> 
+================== RESTART: E:/Progz/mythOS/X-SAMPA_cons.py ==================
+["b: 'voiced bilabial plosive", "b_<: 'voiced bilabial implosive", "c: 'voiceless palatal plosive", "d: 'voiced alveolar plosive", "d`: 'voiced retroflex plosive", "d_<: 'voiced alveolar implosive", "f: 'voiceless labiodental fricative", "g: 'voiced velar plosive", "g_<: 'voiced velar implosive", "h: 'voiceless glottal fricative", "h*: 'voiced glottal fricative", "j: 'palatal approximant", "j*: 'voiced palatal fricative", "k: 'voiceless velar plosive", "l: 'alveolar lateral approximant", "l`: 'retroflex lateral approximant", "l*: 'alveolar lateral flap", "m: 'bilabial nasal", "n: 'alveolar nasal", "n`: 'retroflex nasal", "p: 'voiceless bilabial plosive", "p*: 'voiceless bilabial fricative", "q: 'voiceless uvular plosive", "r: 'alveolar trill", "r`: 'retroflex flap", "r*: 'alveolar approximant", "r*`: 'retroflex approximant", "s: 'voiceless alveolar fricative", "s`: 'voiceless retroflex fricative", "s*: 'voiceless alveolo-palatal fricative", "t: 'voiceless alveolar plosive", "t`: 'voiceless retroflex plosive", "v: 'voiced labiodental fricative", "v*: 'labiodental approximant", "w: 'labial-velar approximant", "x: 'voiceless velar fricative", "x*: 'voiceless palatal-velar fricative", "y: 'close front rounded vowel", "z: 'voiced alveolar fricative", "z`: 'voiced retroflex fricative", "z*: 'voiced alveolo-palatal fricative", "B: 'voiced bilabial fricative", "B*: 'bilabial trill", "C: 'voiceless palatal fricative", "D: 'voiced dental fricative", "F: 'labiodental nasal", "G: 'voiced velar fricative", "G*: 'voiced uvular plosive", "G*_<: 'voiced uvular implosive", "H: 'labial-palatal approximant", "H*: 'voiceless epiglottal fricative", "J: 'palatal nasal", "J*: 'voiced palatal plosive", "J*_<: 'voiced palatal implosive", "K: 'voiceless alveolar lateral fricative", "K*: 'voiced alveolar lateral fricative", "L: 'palatal lateral approximant", "L*: 'velar lateral approximant", "M*: 'velar approximant", "N: 'velar nasal", "N*: 'uvular nasal", "O*: 'bilabial click", "R: 'voiced uvular fricative", "R*: 'uvular trill", "S: 'voiceless postalveolar fricative", "T: 'voiceless dental fricative", "W: 'voiceless labial-velar fricative", "X: 'voiceless uvular fricative", "X*: 'voiceless pharyngeal fricative", "Z: 'voiced postalveolar fricative"]
+>>> print('\'\'')
+''
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+,
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 47, in <module>
+    language = randomLanguage()
+  File "E:\Progz\mythOS\generators.py", line 21, in randomLanguage
+    v_chart = list(dic.vowels.keys())
+AttributeError: module 'dictionary' has no attribute 'vowels'
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\generators.py", line 49, in <module>
+    language = randomLanguage()
+  File "E:\Progz\mythOS\generators.py", line 23, in randomLanguage
+    v_chart = list(dic.vowels.keys())
+AttributeError: module 'dictionary' has no attribute 'vowels'
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['u', 'Y', 'i', 'Q'] ['r`', 'L', 'Z', 'O*']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['V', 'U*', 'i', 'E'] ['B*', 'Z', 'z`', 'n`', 'z*', 'L', 't`', 'x', 's', 'f', 'W', 'p*', 'w', 'n', 'G', 'v*', 'K', 'J*_<', 'g', 'X*', 's`']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['O', 'A', 'i'] ['r*`', 'S', 'd', 'r*', 'n`', 't`', 'R', 's*', 'H*', 'd_<', 'C', 'O*', 'y', 'h*', 's', 'q', 'l*', 'l', 'K', 'j', 'n', 'r']
+>>> 
+=================== RESTART: E:\Progz\mythOS\dictionary.py ===================
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['U', 'E', 'V'] ['r', 'z', 'G*', 'R*', 's', 'n`', 'L*', 'M*', 'm', 'J', 's*', 'N', 'g_<', 'K*', 'X', 'b_<', 'S', 'r*`', 'H*', 'B', 'z`', 'l*', 'k', 'J*_<', 'x*', 'f', 'p', 'H']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['E', 'e'] ['S', 'j', 'g_<', 'L', 'M*', 'H', 'd`', 's*', 'Z', 'w', 'n', 't', 's`', 'x', 'B*', 'l', 'v*', 'z*', 'h', 'R', 'N*', 'm']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['A', 'I', 'Y'] ['R', 't`', 'G*_<', 'w', 'H*', 'x', 'f', 'Z', 'X*', 'y', 'J*_<', 'N*', 'K*', 'm', 'h*', 'z`', 'z*', 'p*', 'R*', 'J', 't', 'k', 'r*', 'h', 'T', 'G', 'B', 'G*']
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+['V', 'M', 'a', 'e', 'u'] ['c', 'z*', 'R', 'd', 'K*', 'd`', 'F', 'r`', 'r', 'N*', 'y', 'f', 'Z', 'z`', 'R*', 'D', 'm', 'g_<', 's*', 'H*', 'l*']
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['a', 'M', 'i', 'u'] ['X', 'r', 'n', 'm', 'K*', 'L', 'k', 'K', 'S', 'd_<', 'b_<', 'r*`', 'h', 'N*', 'N', 's', 'J', 'l*', 'X*', 's*', 'g', 'J*_<', 'B*', 't`', 's`', 'q', 'x*']
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\main.py", line 16, in <module>
+    language = generators.randomLanguage()
+NameError: name 'generators' is not defined
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\main.py", line 16, in <module>
+    language = generators.randomLanguage()
+NameError: name 'generators' is not defined
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\main.py", line 17, in <module>
+    print(language.vowels, language.cons)
+AttributeError: 'Language' object has no attribute 'cons'
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['O', 'Q', 'E'] ['l*', 'b', 'r', 'v*', 'd', 'n', 'p*', 'L', 'K', 'y', 'r*`', 'r*', 'j*', 'G*', 'O*', 'H', 'X*', 'f', 'r`', 'b_<', 'K*', 'N', 't', 'h', 'M*']
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['o', 'e', 'O'] ['r*`', 'N*', 'h*', 'H', 'j', 'D', 'H*', 'F', 'K*', 'g_<', 'd', 'J*_<', 't`', 'B*', 'v*', 'X', 'd`', 'x*', 'L*', 'R*', 'x', 'l`', 'n`', 'k', 'N', 'z*', 'Z', 'L', 'w']
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['Q', 'a', 'u', 'Y'] ['G*_<', 'm', 'l', 'Z', 'S', 'R*', 'r*', 'N*', 'G*', 'd_<', 'g_<', 'H', 'n`', 'd`', 'j*', 't', 'b', 't`', 'r*`', 'J*_<', 'n', 'h*', 'z*']
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['I', 'E', 'A', 'U'] ['C', 'h*', 'B', 'H*', 'G', 'v*', 'z', 'K', 's*', 'c', 'G*', 'r*`', 'N*', 'z`', 'h', 'y', 'j*', 'H', 'L*', 'd`', 'F', 'B*', 'z*', 'R*']
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\main.py", line 18, in <module>
+    print(syllable())
+TypeError: syllable() missing 2 required positional arguments: 'cons' and 'vowels'
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['i', 'M', 'o'] ['d', 'J*_<', 'J*', 'x*', 'b_<', 'j', 'z*', 'f', 'j*', 'T', 'B*', 'O*', 'r', 'z', 't`', 'h*', 'p*', 'N*', 'v*', 'c', 'Z', 's', 'G*_<', 'X', 'G', 'l`', 'r*', 'R', 'G*']
+j*oG
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['U', 'e'] ['X*', 'G', 'q', 'G*', 'W', 'z', 'R*', 'k', 'G*_<', 'L*', 'X', 'h*', 'v', 'r', 'd`', 'N*', 'F', 'w', 'g', 'N', 'n', 'R', 'b_<', 'x*']
+veW
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['U', 'V', 'E', 'e', 'u'] ['C', 'x*', 'j*', 'p*', 'h*', 'b', 'v', 'd_<', 'G*_<', 'K', 'J*', 'G', 's`', 'H', 'r*`', 'p', 'x', 'N', 'g_<', 'z`']
+r*`UC
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['o', 'M', 'I', 'A'] ['O*', 'r`', 't', 'W', 'G', 'g', 'D', 'J', 'H*', 'd`', 'q', 'R*', 'l`', 'v', 'F', 'J*_<', 'M*', 'K*', 'l*', 'X*', 'C', 'w', 'g_<', 'z', 'm', 'v*', 'd']
+qAq
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['V', 'u'] ['r`', 'R*', 'd`', 'j*', 'x*', 'l*', 'R', 'J*', 'l', 'c', 'F', 'b_<', 'l`', 'H*', 'G', 'B', 'p*', 's`', 'X*', 'J*_<', 'O*']
+J*_<uJ*
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['i', 'V'] ['Z', 'S', 'r*', 'f', 'J*', 'r*`', 'y', 'v', 'r`', 'l*', 'K', 'd_<', 'x*', 'p', 'j*', 'k', 'N', 'B', 'q', 'g_<']
+d_<Vd_<
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['u', 'e', 'U', 'a'] ['d_<', 'l', 'L*', 'G*_<', 'x*', 'G', 'd`', 'j*', 'w', 'N*', 'd', 'n`', 'f', 'v', 'W', 'g_<', 'J*_<', 'X', 't`', 's', 'R', 'z', 'q', 't']
+qUd_<
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['V', 'u', 'Q', 'i', 'A'] ['G*', 'b_<', 'r*`', 'r*', 'g_<', 'F', 'j*', 'H', 'w', 'B*', 'x*', 'S', 'd_<', 'B', 't`', 's', 'h', 'p*', 'R', 's`']
+RQs`
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['Q', 'o', 'a'] ['Z', 'p', 'l', 'O*', 's*', 'W', 'y', 'L*', 'H*', 'c', 'D', 'S', 'z*', 'K*', 'l`', 'L', 'B', 'j', 'd_<', 'v', 'q', 'J*', 'r*`', 'K', 'd`', 'r', 'J', 'H']
+lal`
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['o', 'E', 'u', 'O'] ['b', 'y', 'W', 'q', 'v', 'j*', 'L*', 's`', 'C', 'H', 'K*', 'r', 'd', 'j', 'n', 'T', 's', 'S', 'f', 'G', 'J', 'G*_<']
+HOC
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['I', 'e', 'M', 'A'] ['g_<', 'K*', 'S', 'r`', 'G*_<', 'b_<', 'J*', 'h', 'L*', 'n`', 'W', 'r*', 'z', 'X*', 'z`', 'B*', 'j', 'X', 'H', 'h*', 'T', 'm', 'd`', 'n', 'p', 'R', 'b']
+n`AL*
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['u', 'E', 'U*', 'A'] ['y', 's*', 'H', 'T', 'X', 'r*`', 'O*', 'B', 'H*', 'n', 'x', 'W', 'c', 'z', 'b_<', 'd_<', 'p', 'q', 'J', 'z`', 'Z', 'G*', 'G*_<']
+xAG*_<
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['I', 'o', 'M', 'E'] ['J', 'j*', 'h*', 'r*', 'B', 'l', 's`', 'Z', 'O*', 'G*_<', 'k', 'd`', 'R', 'M*', 'D', 'X', 'n`', 'n', 'C', 'H*', 'x*', 'L', 'p*']
+{'one': 'h*Ir*', 'two': 'G*_<Mh*', 'three': 'LIX', 'four': 'G*_<Ik', 'five': 'p*IO*', 'I': 'p*En', 'you': 'Ror*', 'he': 'lIH*', 'we': 'r*EM*', "y'all": 'REM*', 'they': 'JoG*_<', 'this': 'O*ol', 'that': 'JMJ', 'here': 'REn', 'there': 'G*_<MM*', 'who': 'M*oh*', 'what': 'Zor*', 'where': 'O*EO*', 'when': 'lEC', 'how': 'DIl', 'not': 'kIx*', 'woman': 'n`ED', 'man': 'XMJ', 'human': 'kEn`', 'child': 'kEn`', 'wife': 'ZEC', 'husband': 'p*oO*', 'mother': 'CEp*', 'father': 's`Mp*', 'animal': 's`MR', 'fish': 'r*MO*', 'bird': 'O*oC', 'dog': 'O*Id`', 'louse': 'ZEl', 'snake': 'Lod`', 'worm': 'Bol', 'tree': 'H*ox*', 'forest': 'lEn`', 'stick': 'nMk', 'fruit': 'BEl', 'seed': 'DMB', 'leaf': 'lIh*', 'root': 'XMs`', 'bark': 'x*Ik', 'flower': 'n`EZ', 'grass': 'H*Mx*', 'rope': 'XIp*', 'skin': 'r*MG*_<', 'meat': 's`Mp*', 'blood': 'BEX', 'bone': 'H*IR', 'fat': 'kMD', 'egg': 's`MH*', 'horn': 'XEk', 'tail': 'n`oH*', 'feather': 'x*Ip*', 'hair': 'CIn`', 'head': 'r*Mx*', 'ear': 'p*Ir*', 'eye': 'DIh*', 'nose': 'r*In', 'mouth': 'd`Is`', 'tooth': 'BEJ', 'tongue': 'CER', 'fingernail': 'G*_<Eh*', 'foot': 'O*IM*', 'leg': 'd`MX', 'knee': 'Lon`', 'hand': 'h*En', 'wing': 'h*Ir*', 'belly': 'nEn', 'guts': 'G*_<IH*', 'neck': 'CIX', 'back': 'XoO*', 'breast': 'XMO*', 'heart': 'ZEk', 'liver': 'ZIs`', 'sun': 'd`Ep*', 'moon': 'RML', 'star': 'H*MG*_<', 'water': 'x*In', 'rain': 'RoJ', 'river': 'XIr*', 'lake': 'G*_<Ij*', 'sea': 'p*oB', 'salt': 'DEr*', 'stone': 'ZMl', 'sand': 'r*MB', 'dust': 'M*Ex*', 'earth': 'H*oZ', 'cloud': 'nEX', 'fog': 'r*Id`', 'sky': 'nEs`', 'wind': 'kMx*', 'snow': 'LIR', 'ice': 'n`Ir*', 'smoke': 'n`ED', 'fire': 'd`MJ', 'ash': 'XoO*', 'road': 'LEx*', 'mountain': 'CEG*_<', 'name': 'JIn', 'night': 'ZId`', 'day': 'j*oZ', 'year': 'H*Er*', 'red': 'Xon`', 'all': 'kEn`', 'many': 'JIG*_<', 'some': 'p*oX', 'few': 'ZIM*', 'other': 'kEB', 'big': 'JEk', 'long': 'x*EB', 'wide': 'M*IM*', 'thick': 'ZEH*', 'heavy': 's`MG*_<', 'small': 'd`Mh*', 'short': 'O*oC', 'narrow': 'G*_<oD', 'thin': 'JoZ', 'green': 'LIp*', 'yellow': 'DEk', 'white': 'koL', 'black': 'G*_<Ex*', 'warm': 'lMp*', 'cold': 'G*_<ML', 'full': 'j*ID', 'new': 'H*EG*_<', 'old': 'JIB', 'good': 'p*oO*', 'bad': 's`EH*', 'rotten': 'ZoO*', 'dirty': 'CED', 'straight': 'd`Ep*', 'round': 'x*EC', 'sharp': 'noX', 'dull': 'BIC', 'smooth': 'p*El', 'wet': 'j*Ir*', 'dry': 'n`In`', 'correct': 'JEJ', 'near': 'G*_<ML', 'far': 'n`oB', 'right': 'n`Ms`', 'left': 'RoR', 'at': 'H*IR', 'in': 'O*IM*', 'with': 'Joj*', 'and': 'nIs`', 'if': 'x*Eh*', 'because': 'kIs`', 'burn': 'JEG*_<', 'drink': 'kEZ', 'eat': 'XIG*_<', 'bite': 'LIL', 'suck': 'kIr*', 'spit': 'x*ER', 'vomit': 's`on', 'blow': 'JEJ', 'breathe': 'O*IL', 'laugh': 'j*Ix*', 'see': 'JEL', 'hear': 'BEX', 'know': 'kEp*', 'think': 'LMl', 'smell': 'M*oZ', 'fear': 'nMh*', 'sleep': 'H*or*', 'live': 'lIj*', 'die': 'M*op*', 'kill': 'ZIH*', 'fight': 'G*_<Mj*', 'hunt': 'H*Ed`', 'hit': 'M*oJ', 'cut': 'n`IX', 'split': 'x*ol', 'stab': 'x*EH*', 'scratch': 'Rop*', 'dig': 'nos`', 'swim': 'RIG*_<', 'fly': 'ZIl', 'walk': 'G*_<IG*_<', 'come': 'h*MB', 'lie': 'G*_<IZ', 'sit': 'n`on`', 'stand': 'M*Mn', 'turn': 'DoR', 'fall': 'JoL', 'give': 'XMB', 'hold': 'ZMM*', 'squeeze': 'd`MC', 'rub': 'kMC', 'wash': 'nIn`', 'wipe': 'O*EL', 'pull': 'M*Ir*', 'push': 's`Id`', 'throw': 'ZED', 'tie': 'H*on`', 'sew': 'XoX', 'count': 'x*Ms`', 'say': 'kMj*', 'sing': 'h*oM*', 'play': 'x*MJ', 'float': 'Jol', 'flow': 'x*EX', 'freeze': 's`on`', 'swell': 'DIG*_<'}
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+Traceback (most recent call last):
+  File "E:\Progz\mythOS\main.py", line 16, in <module>
+    language = randomLanguage()
+  File "E:\Progz\mythOS\generators.py", line 51, in randomLanguage
+    for s in length:
+TypeError: 'int' object is not iterable
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['a', 'i', 'e', 'U*'] ['g', 'm', 'f', 'Z', 'l', 'H', 'S', 'R*', 'K*', 'l`', 'L', 'D', 'n`', 't', 'd_<', 'r*`', 'W', 't`', 's', 'F', 'K', 'g_<', 's*', 'j*', 'G*_<']
+{'one': 'gil', 'two': 's*ig', 'three': '', 'four': 'LU*g_<', 'five': 'n`iZ', 'I': '', 'you': '', 'he': '', 'we': 'FaW', "y'all": '', 'they': '', 'this': '', 'that': 'Zes*', 'here': 'Wij*', 'there': '', 'who': '', 'what': 'j*al', 'where': '', 'when': '', 'how': '', 'not': 'laW', 'woman': '', 'man': 'l`if', 'human': '', 'child': '', 'wife': '', 'husband': '', 'mother': 'j*eR*', 'father': '', 'animal': 'Zij*', 'fish': 'SiL', 'bird': 'les*', 'dog': 'FeK', 'louse': '', 'snake': 'd_<ij*', 'worm': '', 'tree': 'KaL', 'forest': '', 'stick': '', 'fruit': 'Sat', 'seed': 'n`U*S', 'leaf': '', 'root': '', 'bark': 'l`im', 'flower': '', 'grass': 'LU*s*', 'rope': 'R*eg_<', 'skin': 'miK*', 'meat': 'ZaR*', 'blood': '', 'bone': 'FeK', 'fat': '', 'egg': '', 'horn': 'r*`U*K*', 'tail': '', 'feather': 'Zag_<', 'hair': 'K*is*', 'head': 'K*U*l`', 'ear': 'K*et', 'eye': '', 'nose': '', 'mouth': '', 'tooth': 'tU*l`', 'tongue': '', 'fingernail': 'ZeZ', 'foot': 'lU*H', 'leg': 'K*il`', 'knee': 'Zir*`', 'hand': 'meg_<', 'wing': 'Del`', 'belly': 's*U*d_<', 'guts': '', 'neck': 'R*aF', 'back': 'j*er*`', 'breast': '', 'heart': 'fij*', 'liver': 'HU*W', 'sun': 't`U*t', 'moon': 'gU*g_<', 'star': 'd_<U*K', 'water': '', 'rain': 'Zed_<', 'river': '', 'lake': '', 'sea': '', 'salt': '', 'stone': 'l`eZ', 'sand': '', 'dust': '', 'earth': '', 'cloud': '', 'fog': 'tit`', 'sky': 'WU*g', 'wind': 'l`eK', 'snow': 'j*iS', 'ice': 'saf', 'smoke': '', 'fire': 'R*eS', 'ash': '', 'road': 'n`an`', 'mountain': 'gaj*', 'name': '', 'night': 'j*aR*', 'day': '', 'year': '', 'red': 'l`ij*', 'all': '', 'many': 'tU*R*', 'some': 'LU*l`', 'few': '', 'other': '', 'big': 'G*_<ir*`', 'long': 'l`U*K', 'wide': '', 'thick': 'SU*l', 'heavy': '', 'small': '', 'short': 'Han`', 'narrow': '', 'thin': '', 'green': 'j*U*m', 'yellow': '', 'white': '', 'black': 'fU*L', 'warm': '', 'cold': 'Wat', 'full': '', 'new': '', 'old': '', 'good': 'Fel', 'bad': '', 'rotten': 'DeH', 'dirty': 'l`et', 'straight': 'Dal', 'round': '', 'sharp': 'K*iK', 'dull': '', 'smooth': 'tig', 'wet': '', 'dry': '', 'correct': 'Hin`', 'near': '', 'far': '', 'right': '', 'left': 'ZU*j*', 'at': '', 'in': 'g_<eF', 'with': 'Daj*', 'and': '', 'if': '', 'because': '', 'burn': 'G*_<ij*', 'drink': 'mU*Z', 'eat': 'r*`U*g_<', 'bite': 'Lil`', 'suck': '', 'spit': '', 'vomit': 'ser*`', 'blow': 'Fil', 'breathe': '', 'laugh': 'r*`eL', 'see': '', 'hear': '', 'know': 'Fed_<', 'think': '', 'smell': '', 'fear': 'Sij*', 'sleep': '', 'live': '', 'die': '', 'kill': 'n`U*n`', 'fight': '', 'hunt': '', 'hit': 'd_<em', 'cut': '', 'split': 'j*if', 'stab': 'G*_<es*', 'scratch': '', 'dig': '', 'swim': '', 'fly': 'fU*K', 'walk': '', 'come': 'KiS', 'lie': 'gej*', 'sit': '', 'stand': '', 'turn': '', 'fall': '', 'give': 'Dag_<', 'hold': 'SeD', 'squeeze': 'feF', 'rub': '', 'wash': 'Lej*', 'wipe': 'SeL', 'pull': 'FU*H', 'push': 'miF', 'throw': '', 'tie': 'R*U*s*', 'sew': '', 'count': '', 'say': 'sef', 'sing': '', 'play': 'n`eZ', 'float': '', 'flow': 'Kas*', 'freeze': 'Hit`', 'swell': 'Kel`'}
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+zuG*_<
+z*Mz
+HMp*
+vQf
+HQs*
+nuh
+Juc
+cMH
+r*QH
+B*uj
+lQr*`
+HUl
+p*uv
+zQG*_<
+r*`Us*
+jUf
+HUL
+G*_<Ux
+O*Mz
+jMc
+Hug_<
+hQN*
+nuG*_<
+GUL
+zUl
+L*Ul
+L*Qz
+O*Qp*
+suf
+fQp*
+HUg_<
+sQG*_<
+LUR
+xQb
+xUb
+p*UG
+bUR
+huL*
+r*`uj
+fQp*
+fMc
+JUJ
+fMn
+L*Mp*
+L*uv
+g_<Mj
+lUL
+jUv
+zMb
+N*Mn
+juN
+p*Qr*`
+g_<QJ
+zUb
+z*Qg_<
+L*Qg_<
+B*Qn
+bQL*
+s*UJ
+sMl
+G*_<uj
+Luj
+s*Ms*
+z*Mc
+fUj
+r*`Mz*
+r*Qb
+NMr*`
+jQs
+p*up*
+JMJ
+r*`Qz
+g_<Mj
+bMg_<
+zQG*_<
+LQz*
+hQl
+JuN
+fQN*
+g_<Qs*
+xQp*
+g_<uB*
+g_<Mh
+vuB*
+vun
+B*uO*
+LUc
+bUG*_<
+r*QG*_<
+s*UG
+nUc
+LMO*
+Nur*
+cML
+NQg_<
+xMG*_<
+fUc
+GUb
+jQN
+r*us
+Hur*
+r*Mf
+g_<Up*
+xuf
+hQG*_<
+z*ur*
+lMn
+GQf
+['U', 'u', 'Q', 'M'] ['s', 'O*', 'N', 'H', 's*', 'B*', 'j', 'v', 'G', 'h', 'r*', 'N*', 'G*_<', 'L', 'x', 'p*', 'g_<', 'z*', 'l', 'b', 'r*`', 'z', 'J', 'f', 'R', 'c', 'n', 'L*']
+{'one': '', 'two': '', 'three': 'zuG*_<', 'four': '', 'five': '', 'I': 'z*Mz', 'you': '', 'he': '', 'we': 'HMp*', "y'all": 'vQf', 'they': '', 'this': 'HQs*', 'that': '', 'here': '', 'there': 'nuh', 'who': '', 'what': '', 'where': '', 'when': 'Juc', 'how': '', 'not': 'cMH', 'woman': 'r*QH', 'man': 'B*uj', 'human': '', 'child': 'lQr*`', 'wife': 'HUl', 'husband': 'p*uv', 'mother': 'zQG*_<', 'father': 'r*`Us*', 'animal': 'jUf', 'fish': '', 'bird': 'HUL', 'dog': 'G*_<Ux', 'louse': '', 'snake': '', 'worm': '', 'tree': '', 'forest': 'O*Mz', 'stick': '', 'fruit': 'jMc', 'seed': 'Hug_<', 'leaf': '', 'root': '', 'bark': '', 'flower': 'hQN*', 'grass': '', 'rope': '', 'skin': 'nuG*_<', 'meat': 'GUL', 'blood': 'zUl', 'bone': 'L*Ul', 'fat': '', 'egg': '', 'horn': '', 'tail': 'L*Qz', 'feather': 'O*Qp*', 'hair': 'suf', 'head': 'fQp*', 'ear': '', 'eye': 'HUg_<', 'nose': '', 'mouth': '', 'tooth': '', 'tongue': 'sQG*_<', 'fingernail': '', 'foot': '', 'leg': '', 'knee': '', 'hand': 'LUR', 'wing': '', 'belly': '', 'guts': 'xQb', 'neck': 'xUb', 'back': 'p*UG', 'breast': 'bUR', 'heart': 'huL*', 'liver': 'r*`uj', 'sun': '', 'moon': '', 'star': 'fQp*', 'water': 'fMc', 'rain': 'JUJ', 'river': 'fMn', 'lake': 'L*Mp*', 'sea': 'L*uv', 'salt': 'g_<Mj', 'stone': 'lUL', 'sand': 'jUv', 'dust': '', 'earth': '', 'cloud': 'zMb', 'fog': '', 'sky': '', 'wind': '', 'snow': 'N*Mn', 'ice': 'juN', 'smoke': 'p*Qr*`', 'fire': 'g_<QJ', 'ash': 'zUb', 'road': '', 'mountain': '', 'name': '', 'night': 'z*Qg_<', 'day': '', 'year': '', 'red': 'L*Qg_<', 'all': '', 'many': 'B*Qn', 'some': 'bQL*', 'few': '', 'other': 's*UJ', 'big': 'sMl', 'long': 'G*_<uj', 'wide': '', 'thick': 'Luj', 'heavy': 's*Ms*', 'small': 'z*Mc', 'short': 'fUj', 'narrow': 'r*`Mz*', 'thin': 'r*Qb', 'green': '', 'yellow': '', 'white': 'NMr*`', 'black': '', 'warm': 'jQs', 'cold': 'p*up*', 'full': '', 'new': 'JMJ', 'old': '', 'good': '', 'bad': '', 'rotten': 'r*`Qz', 'dirty': '', 'straight': '', 'round': 'g_<Mj', 'sharp': 'bMg_<', 'dull': '', 'smooth': 'zQG*_<', 'wet': 'LQz*', 'dry': 'hQl', 'correct': '', 'near': '', 'far': '', 'right': '', 'left': 'JuN', 'at': 'fQN*', 'in': '', 'with': '', 'and': 'g_<Qs*', 'if': '', 'because': 'xQp*', 'burn': '', 'drink': 'g_<uB*', 'eat': 'g_<Mh', 'bite': '', 'suck': 'vuB*', 'spit': '', 'vomit': 'vun', 'blow': 'B*uO*', 'breathe': 'LUc', 'laugh': 'bUG*_<', 'see': 'r*QG*_<', 'hear': 's*UG', 'know': '', 'think': 'nUc', 'smell': '', 'fear': '', 'sleep': '', 'live': '', 'die': '', 'kill': '', 'fight': '', 'hunt': 'LMO*', 'hit': 'Nur*', 'cut': 'cML', 'split': 'NQg_<', 'stab': '', 'scratch': '', 'dig': '', 'swim': '', 'fly': 'xMG*_<', 'walk': '', 'come': 'fUc', 'lie': '', 'sit': '', 'stand': '', 'turn': 'GUb', 'fall': 'jQN', 'give': '', 'hold': 'r*us', 'squeeze': '', 'rub': '', 'wash': 'Hur*', 'wipe': '', 'pull': '', 'push': '', 'throw': 'r*Mf', 'tie': 'g_<Up*', 'sew': 'xuf', 'count': '', 'say': '', 'sing': 'hQG*_<', 'play': 'z*ur*', 'float': '', 'flow': '', 'freeze': 'lMn', 'swell': 'GQf'}
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+['i', 'O', 'e', 'Q'] ['W', 'z*', 'D', 'K*', 'n', 'z`', 'r', 'x*', 'X*', 'g', 'd`', 'q', 'H*', 'B*', 'n`', 'p*', 'l*', 'F', 'm', 's*', 'd_<', 'M*', 'x', 'z', 't', 'f', 'L', 'g_<', 'j*']
+{'one': 'nQx*', 'two': '', 'three': 'j*in', 'four': 'd_<Qz*', 'five': '', 'I': 'H*ez*', 'you': 'X*em', 'he': 'Fiz*', 'we': 'xiW', "y'all": '', 'they': '', 'this': 'K*iz`', 'that': 's*ej*', 'here': 'd_<OB*', 'there': '', 'who': 'z*Qj*', 'what': '', 'where': '', 'when': '', 'how': '', 'not': '', 'woman': 'xix', 'man': 'p*eW', 'human': '', 'child': 'meg_<', 'wife': '', 'husband': 'qiq', 'mother': '', 'father': 'l*eg', 'animal': 'WOg', 'fish': '', 'bird': '', 'dog': '', 'louse': '', 'snake': 'd`et', 'worm': '', 'tree': '', 'forest': '', 'stick': '', 'fruit': '', 'seed': 'qQF', 'leaf': '', 'root': 'xQs*', 'bark': 'feL', 'flower': 'tOd`', 'grass': 'x*iB*', 'rope': '', 'skin': 'n`Om', 'meat': '', 'blood': 'WQL', 'bone': 'p*iM*', 'fat': '', 'egg': 'DOD', 'horn': '', 'tail': '', 'feather': 'ten`', 'hair': '', 'head': 'j*ej*', 'ear': 'zQm', 'eye': 'z`Ox*', 'nose': '', 'mouth': 'p*iM*', 'tooth': '', 'tongue': 'H*eX*', 'fingernail': 'xed_<', 'foot': '', 'leg': '', 'knee': '', 'hand': 'B*Qn', 'wing': 'X*iq', 'belly': 'zQB*', 'guts': '', 'neck': '', 'back': '', 'breast': '', 'heart': 'DeK*', 'liver': '', 'sun': 'j*Oz', 'moon': '', 'star': '', 'water': 'd_<if', 'rain': '', 'river': 'tix', 'lake': 'l*eB*', 'sea': 'j*Qx*', 'salt': '', 'stone': '', 'sand': 'geX*', 'dust': '', 'earth': '', 'cloud': '', 'fog': 'DQt', 'sky': 'FQt', 'wind': '', 'snow': '', 'ice': '', 'smoke': 'p*iq', 'fire': 'z`Qj*', 'ash': '', 'road': '', 'mountain': 'M*Ot', 'name': '', 'night': 'x*OB*', 'day': '', 'year': '', 'red': '', 'all': '', 'many': '', 'some': '', 'few': '', 'other': 'l*Of', 'big': 'WQW', 'long': 'g_<QH*', 'wide': '', 'thick': 'FQD', 'heavy': 'd_<eL', 'small': '', 'short': 'j*iz*', 'narrow': '', 'thin': '', 'green': '', 'yellow': '', 'white': 'mQf', 'black': '', 'warm': '', 'cold': '', 'full': 'd_<ij*', 'new': 'z*Op*', 'old': 'z*Oj*', 'good': '', 'bad': '', 'rotten': 'nOd_<', 'dirty': 'd_<ip*', 'straight': '', 'round': '', 'sharp': '', 'dull': '', 'smooth': 'n`eg_<', 'wet': 'd_<eq', 'dry': 'qOr', 'correct': 'K*Qx', 'near': '', 'far': '', 'right': '', 'left': 'H*en', 'at': 'Wid_<', 'in': '', 'with': 'Fel*', 'and': 'mQn', 'if': '', 'because': '', 'burn': '', 'drink': 'z`Qz', 'eat': 'nQq', 'bite': 'd_<eL', 'suck': 'p*ej*', 'spit': '', 'vomit': '', 'blow': '', 'breathe': 'n`ep*', 'laugh': 'H*Qx', 'see': 'gQf', 'hear': 'mer', 'know': 'nQj*', 'think': 'K*im', 'smell': '', 'fear': 's*Ql*', 'sleep': '', 'live': '', 'die': '', 'kill': '', 'fight': 'xez`', 'hunt': 'reg', 'hit': 'rQm', 'cut': 'p*iz`', 'split': 'xip*', 'stab': '', 'scratch': '', 'dig': 'd`em', 'swim': 'n`eH*', 'fly': 'd`Ol*', 'walk': 'H*eL', 'come': 'FOg_<', 'lie': 'd`Qn', 'sit': 'fir', 'stand': 'gQL', 'turn': '', 'fall': 'giq', 'give': 'g_<eg_<', 'hold': 'FiH*', 'squeeze': 'Fex', 'rub': '', 'wash': 'tin`', 'wipe': '', 'pull': '', 'push': 'd`iX*', 'throw': '', 'tie': '', 'sew': '', 'count': 'd_<eM*', 'say': '', 'sing': '', 'play': 'l*OL', 'float': 'K*Qq', 'flow': 'FOn`', 'freeze': 'mOD', 'swell': ''}
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+2
+2
+1
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+1
+2
+2
+1
+1
+1
+2
+2
+1
+2
+2
+1
+1
+2
+2
+1
+1
+2
+2
+1
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+1
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+1
+2
+2
+2
+2
+2
+2
+2
+2
+1
+2
+2
+1
+2
+2
+2
+2
+1
+1
+2
+2
+1
+2
+2
+1
+1
+2
+2
+1
+2
+2
+1
+2
+2
+2
+2
+1
+2
+2
+1
+2
+2
+1
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+1
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+1
+2
+2
+2
+2
+2
+2
+1
+2
+2
+2
+2
+1
+2
+2
+1
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+1
+2
+2
+1
+['E', 'I', 'M', 'e'] ['v', 'g', 'z*', 'c', 'x*', 'J*', 'J*_<', 'f', 's`', 'L', 'r*`', 'k', 'p', 'n', 'z', 'b', 'd`', 'D', 'H*', 'N', 'O*', 'F', 't`', 'l`', 'G*', 'R', 'r*', 'n`']
+{'one': '', 'two': 'RELkEJ*', 'three': 'x*MH*s`Iz*', 'four': 'G*IH*n`EL', 'five': 's`Er*`J*_<Il`', 'I': 'zMbO*ML', 'you': '', 'he': 'r*Ic', 'we': 'O*er*`', "y'all": 'J*_<Is`', 'they': 'G*er*x*EF', 'this': '', 'that': 'geH*', 'here': 'J*_<Ir*`r*`In`', 'there': '', 'who': '', 'what': 't`eO*', 'where': 'z*IH*', 'when': 'G*In`J*eN', 'how': 'cMs`FIO*', 'not': '', 'woman': 'H*MfLet`', 'man': 'G*EzH*er*`', 'human': '', 'child': '', 'wife': 'G*Ex*', 'husband': '', 'mother': '', 'father': '', 'animal': 'NMx*d`Ep', 'fish': 'vMz', 'bird': 'pEp', 'dog': 'd`ep', 'louse': '', 'snake': 'O*eJ*bel`', 'worm': 'G*Ef', 'tree': '', 'forest': 'zMr*nEJ*', 'stick': 'd`EN', 'fruit': 'H*IN', 'seed': '', 'leaf': 'G*ecG*MR', 'root': 'bMO*', 'bark': 'nIH*', 'flower': 'nekG*EJ*_<', 'grass': 'J*Eg', 'rope': 'O*Ivs`ec', 'skin': 'd`Ep', 'meat': 'bIf', 'blood': 'r*`EbRIr*`', 'bone': 'REs`nIn`', 'fat': 'zMO*d`EL', 'egg': 'n`ez*', 'horn': '', 'tail': 'r*IN', 'feather': '', 'hair': '', 'head': 'nInkEr*', 'ear': '', 'eye': 'J*_<Mr*n`eD', 'nose': 'z*Mz*vMc', 'mouth': '', 'tooth': 'LMbbex*', 'tongue': 'r*Ip', 'fingernail': '', 'foot': 'NIG*', 'leg': '', 'knee': '', 'hand': '', 'wing': 'O*Mv', 'belly': 'Nex*', 'guts': 'DEH*', 'neck': 'r*en`', 'back': 'O*Mk', 'breast': 'kMd`', 'heart': '', 'liver': '', 'sun': 'zEb', 'moon': 'r*`MgFMb', 'star': 'vEn', 'water': '', 'rain': '', 'river': 'nEF', 'lake': 'gIz*vIb', 'sea': 'l`eO*cIz', 'salt': '', 'stone': 'z*Efs`Ig', 'sand': 'fMnFMO*', 'dust': 'LEn', 'earth': '', 'cloud': '', 'fog': 'kEl`kED', 'sky': 'zMJ*_<', 'wind': 'pel`', 'snow': '', 'ice': '', 'smoke': 'r*`el`l`er*`', 'fire': 't`Id`DMp', 'ash': '', 'road': 'bMt`z*Ek', 'mountain': '', 'name': 'kIx*', 'night': 'G*EpO*eH*', 'day': '', 'year': '', 'red': '', 'all': 'neRO*Et`', 'many': '', 'some': 'J*Mn`vId`', 'few': 'DIFkEn`', 'other': '', 'big': 'LEL', 'long': '', 'wide': '', 'thick': '', 'heavy': 'DMl`gev', 'small': '', 'short': 'r*`IH*', 'narrow': 'kMt`zIs`', 'thin': '', 'green': '', 'yellow': '', 'white': '', 'black': '', 'warm': 'r*`MH*d`Mr*`', 'cold': '', 'full': '', 'new': '', 'old': 'RIb', 'good': '', 'bad': '', 'rotten': '', 'dirty': 'FEJ*', 'straight': 'd`Id`kex*', 'round': '', 'sharp': '', 'dull': '', 'smooth': 'LMr*`', 'wet': '', 'dry': 'J*_<INFEf', 'correct': 'r*MN', 'near': 'kMF', 'far': '', 'right': 'gIz*Nen', 'left': 'vEd`', 'at': 'nIFnMD', 'in': 'fMf', 'with': '', 'and': '', 'if': 'z*Ekr*Mf', 'because': 'O*IH*DMs`', 'burn': '', 'drink': 'r*`Md`', 'eat': 'n`MpFes`', 'bite': 'LMN', 'suck': '', 'spit': 'zer*`bEt`', 'vomit': 'H*eb', 'blow': '', 'breathe': '', 'laugh': 'G*EG*fIs`', 'see': 'fIz*d`Il`', 'hear': 'gIfber*', 'know': 'kMD', 'think': 'NMl`', 'smell': 'nevn`eH*', 'fear': '', 'sleep': '', 'live': '', 'die': 'J*Iz*DMz', 'kill': 'zMs`', 'fight': 'zed`ved`', 'hunt': 'RMFcMn`', 'hit': 's`ec', 'cut': 'vIz', 'split': '', 'stab': 'n`Mnx*Mr*', 'scratch': 'fEgbIs`', 'dig': '', 'swim': '', 'fly': 'J*IvzMz*', 'walk': 'J*Mr*`', 'come': 'FEO*r*ef', 'lie': 'FIcd`eg', 'sit': 'DeO*pIp', 'stand': 'z*ED', 'turn': 'l`ERd`Ms`', 'fall': 'zIG*x*Ef', 'give': '', 'hold': '', 'squeeze': '', 'rub': '', 'wash': 'fIs`', 'wipe': 'pIgd`eD', 'pull': '', 'push': 'H*Eb', 'throw': 'FIz*per*`', 'tie': 't`Is`', 'sew': 'G*Ev', 'count': 'x*Mvn`ez', 'say': '', 'sing': 'bMcr*ek', 'play': '', 'float': 'DMpr*Eg', 'flow': 'REN', 'freeze': 'z*enx*EF', 'swell': 's`El`'}
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+2
+2
+2
+2
+1
+2
+2
+1
+2
+2
+2
+2
+1
+1
+1
+1
+3
+3
+3
+3
+3
+3
+1
+2
+2
+3
+3
+3
+2
+2
+2
+2
+2
+2
+3
+3
+3
+1
+3
+3
+3
+3
+3
+3
+2
+2
+3
+3
+3
+2
+2
+3
+3
+3
+1
+2
+2
+2
+2
+1
+2
+2
+3
+3
+3
+3
+3
+3
+1
+2
+2
+3
+3
+3
+1
+1
+3
+3
+3
+1
+2
+2
+3
+3
+3
+3
+3
+3
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+3
+3
+3
+3
+3
+3
+2
+2
+1
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+2
+2
+2
+2
+3
+3
+3
+1
+3
+3
+3
+3
+3
+3
+1
+3
+3
+3
+3
+3
+3
+1
+1
+3
+3
+3
+1
+2
+2
+1
+3
+3
+3
+3
+3
+3
+2
+2
+3
+3
+3
+1
+1
+1
+2
+2
+3
+3
+3
+2
+2
+1
+3
+3
+3
+2
+2
+1
+1
+1
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+1
+1
+1
+2
+2
+2
+2
+2
+2
+1
+3
+3
+3
+2
+2
+2
+2
+1
+3
+3
+3
+1
+3
+3
+3
+1
+1
+2
+2
+2
+2
+3
+3
+3
+1
+1
+3
+3
+3
+1
+3
+3
+3
+1
+2
+2
+3
+3
+3
+1
+3
+3
+3
+1
+2
+2
+3
+3
+3
+3
+3
+3
+2
+2
+1
+3
+3
+3
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+1
+2
+2
+3
+3
+3
+2
+2
+3
+3
+3
+2
+2
+2
+2
+3
+3
+3
+1
+1
+3
+3
+3
+1
+3
+3
+3
+3
+3
+3
+1
+1
+1
+3
+3
+3
+1
+2
+2
+['I', 'e', 'A', 'Y', 'M'] ['H*', 'N', 'r*`', 'J', 'L*', 'p', 'G*_<', 'N*', 'Z', 'w', 'r', 'm', 'b', 's`', 'J*_<', 'T', 'C', 'H', 'q', 'R*', 'l*', 't`', 'X*', 'k', 'j*', 'B', 'g_<', 'd`']
+{'one': 'bIs`g_<eZ', 'two': 'G*_<ed`beN', 'three': 'kel*', 'four': 'pYCbYm', 'five': 'HAw', 'I': 'J*_<Ibj*IR*', 'you': '', 'he': 'TMmwIt`', 'we': 'wYb', "y'all": 'qAl*', 'they': 'TIr', 'this': 'X*eZ', 'that': 's`YHJ*_<YrkMt`', 'here': 'g_<ebZeN*L*AN', 'there': 'l*IT', 'who': '', 'what': 'TIZs`ed`', 'where': 'H*YCZeH*d`YB', 'when': 'N*AG*_<mIN*', 'how': 'X*ACpMt`', 'not': 'wIrBeg_<', 'woman': '', 'man': 'j*IJ*_<qAg_<H*YN*', 'human': 'kYd`', 'child': 'G*_<Ywt`IG*_<CAN*', 'wife': 'L*Ml*qIbs`Yp', 'husband': 'keqH*YZ', 'mother': 'CAl*NMkNMJ', 'father': 'G*_<AJH*Mj*', 'animal': '', 'fish': 'j*ML*CAkr*`YH*', 'bird': '', 'dog': 'CAr*`', 'louse': 'l*AL*TYR*', 'snake': 'J*_<Ij*qAB', 'worm': 'R*AB', 'tree': '', 'forest': 'j*Ad`R*MJ', 'stick': '', 'fruit': 'J*_<eJ*_<r*`eJ*_<ket`', 'seed': 'qMJ*_<R*MTL*IJ', 'leaf': 'j*YL*', 'root': 'r*`IrNAJ*_<', 'bark': 'd`Il*JAl*d`Ip', 'flower': 'CYt`', 'grass': 'J*_<Yw', 'rope': '', 'skin': 'N*Yt`g_<Ag_<qMB', 'meat': 'N*Mq', 'blood': 'qes`ZAq', 'bone': 'j*YmkYBrer*`', 'fat': 'Cet`j*Id`bIZ', 'egg': 'JAg_<', 'horn': '', 'tail': 'J*_<ABt`ebd`eT', 'feather': 'CYs`TApG*_<Yr*`', 'hair': '', 'head': '', 'ear': 'pAql*YX*N*IG*_<', 'eye': 'Bekd`MG*_<', 'nose': '', 'mouth': 'HMr*`N*Yt`R*Is`', 'tooth': 'r*`eJ*_<d`ITL*MH', 'tongue': 'JeL*bAR*', 'fingernail': '', 'foot': 'pIw', 'leg': 'CIR*', 'knee': 'kIJ*_<HeJ*_<L*Ib', 'hand': 'g_<eTNMH*rAL*', 'wing': 'CemG*_<Ypr*`ek', 'belly': 'JMl*', 'guts': '', 'neck': '', 'back': '', 'breast': 'X*eZkIt`', 'heart': 'TIr*`NIq', 'liver': '', 'sun': 'BMCHIZt`Aw', 'moon': 'ZYm', 'star': 'ZYH*bYX*rAH', 'water': 'g_<YTN*MH*peH*', 'rain': 'NYd`', 'river': '', 'lake': 'R*AH*kMj*mIR*', 'sea': 'J*_<ABrepHYX*', 'salt': '', 'stone': 'H*AL*', 'sand': 's`IH', 'dust': 't`Aj*NMbg_<MH', 'earth': 's`eX*', 'cloud': '', 'fog': 'BIN*s`YJ*_<', 'sky': 'L*AJ*_<', 'wind': 'rAN*HAms`ML*', 'snow': 'mId`TMG*_<bMJ*_<', 'ice': 'Hed`ZMr', 'smoke': 'L*Ywg_<Mg_<r*`AC', 'fire': 'CYJ*_<', 'ash': '', 'road': 'ZAs`', 'mountain': 'qAN*', 'name': 'rABJAm', 'night': '', 'day': 'HMBN*YCj*es`', 'year': 'ZMX*g_<eR*', 'red': 's`eb', 'all': 'l*YbrAR*R*Is`', 'many': '', 'some': 'qML*t`MC', 'few': 'bYt`', 'other': 'weZ', 'big': '', 'long': 'G*_<AN', 'wide': 'R*ATrAZ', 'thick': '', 'heavy': 'l*Ms`N*MJl*MN', 'small': 'G*_<eqR*IHJYl*', 'short': 'J*_<AG*_<d`ITqMw', 'narrow': 'rIHH*MX*N*Ap', 'thin': 'bYkrAr*`', 'green': 'CeH*', 'yellow': 'wYB', 'white': 'X*AC', 'black': 'J*_<MN*L*IC', 'warm': '', 'cold': 'd`eN*mAs`', 'full': 'HekBeG*_<', 'new': 'CeG*_<', 'old': 'bML*N*As`CId`', 'good': '', 'bad': 's`Ij*BAd`', 'rotten': '', 'dirty': 'kIl*H*Ak', 'straight': 'JYb', 'round': 'qYqrAL*qAJ', 'sharp': 'pYr*`', 'dull': 'L*ej*L*epG*_<Mt`', 'smooth': 'qYr', 'wet': 'ZMN*', 'dry': '', 'correct': 'kIqrAX*', 'near': '', 'far': 'ZAqwAH', 'right': 'l*eqr*`MJTMR*', 'left': 'BMm', 'at': 'j*YX*', 'in': 't`YZt`YJ*_<R*AR*', 'with': 'kMN', 'and': 'CABL*ITH*eT', 'if': 'meH', 'because': 'g_<YqmIq', 'burn': 'mAwNMd`weC', 'drink': 'L*AL*', 'eat': '', 'bite': 'pMCqYt`X*IJ', 'suck': 'wAk', 'spit': 'H*AbL*Il*', 'vomit': 'BeG*_<H*Yl*L*Yr', 'blow': 'CMpJAkmIt`', 'breathe': 'qIJj*Id`', 'laugh': '', 'see': 'X*er*`', 'hear': 'J*_<MwN*MH*J*_<eR*', 'know': 'g_<ML*mMk', 'think': 'BYg_<CMqg_<Yg_<', 'smell': 'qYJ*_<g_<Ij*d`ed`', 'fear': 'X*Al*CIml*Yt`', 'sleep': 'd`eZJAG*_<r*`Ak', 'live': '', 'die': 'X*eT', 'kill': 'R*eX*', 'fight': '', 'hunt': 'TYG*_<', 'hit': 'L*IH', 'cut': 'H*AT', 'split': 'wYj*qAR*', 'stab': 'CMt`rMN*', 'scratch': '', 'dig': 'X*YqH*YJR*IX*', 'swim': 'd`IJ*_<', 'fly': '', 'walk': 'qIkpIG*_<', 'come': 'R*YJL*Ard`Ij*', 'lie': 'kYrZIZ', 'sit': 'JeCkekkIl*', 'stand': '', 'turn': 'd`At`J*_<Yg_<', 'fall': '', 'give': 's`Aj*keN', 'hold': 'L*At`t`eX*bIq', 'squeeze': 'J*_<Yb', 'rub': 'G*_<Al*', 'wash': 'H*YkR*IL*r*`Al*', 'wipe': 'L*eJ', 'pull': '', 'push': '', 'throw': '', 'tie': 'bImrIL*qYH*', 'sew': 'J*_<AbTMr*`JYb', 'count': 'L*eH*', 'say': 'G*_<YJ', 'sing': '', 'play': 'qIl*', 'float': 'd`MHBYBkeb', 'flow': 'R*IZ', 'freeze': 'rMl*Zet`', 'swell': ''}
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+2
+2
+2
+2
+1
+2
+2
+2
+2
+2
+2
+1
+2
+2
+1
+2
+2
+1
+2
+2
+1
+2
+2
+2
+2
+1
+1
+1
+2
+2
+1
+1
+1
+2
+2
+1
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+2
+2
+1
+1
+1
+2
+2
+1
+1
+2
+2
+1
+2
+2
+1
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+2
+2
+1
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+1
+2
+2
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+1
+1
+1
+2
+2
+2
+2
+1
+1
+2
+2
+1
+2
+2
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+1
+2
+2
+2
+2
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+2
+2
+1
+1
+1
+1
+1
+2
+2
+2
+2
+1
+2
+2
+1
+['o', 'U*', 'I', 'A', 'V'] ['b', 't`', 'h', 'R', 'v*', 'w', 'd_<', 'G*', 'j', 'H*', 'Z', 'z*', 'K', 'N*', 'n`', 'g_<', 'l', 'z', 'p', 'h*', 'G*_<', 'F', 'r*', 'C', 'X', 'q', 'T', 'k']
+{'one': 'h*IN*h*U*z*', 'two': 'g_<AwRoF', 'three': '', 'four': 'r*Vk', 'five': 'bU*v*n`AT', 'I': '', 'you': 'N*AwZIh', 'he': 'RVZH*Iv*', 'we': 'loK', "y'all": 'qVz*FVk', 'they': '', 'this': '', 'that': 'd_<oq', 'here': '', 'there': '', 'who': '', 'what': 'zAG*XU*N*', 'where': 'kIh', 'when': 'g_<VCZAv*', 'how': 'KVK', 'not': 'jAn`t`AN*', 'woman': '', 'man': '', 'human': 'g_<oFhVl', 'child': 'N*U*T', 'wife': 'ZVd_<', 'husband': 'RIh', 'mother': 'pAjFU*X', 'father': 'g_<In`', 'animal': '', 'fish': 'g_<U*t`', 'bird': 'wU*k', 'dog': 'FU*n`loq', 'louse': '', 'snake': 'G*_<IK', 'worm': '', 'tree': '', 'forest': '', 'stick': 'FIH*woq', 'fruit': 't`U*g_<r*Ih*', 'seed': 'KoqpVl', 'leaf': '', 'root': 'kU*TCIl', 'bark': 'ZVC', 'flower': 'hop', 'grass': 'r*AT', 'rope': 'qVH*g_<oG*_<', 'skin': 'v*Az', 'meat': 'CAT', 'blood': 'N*Ip', 'bone': 'G*oN*ZoT', 'fat': '', 'egg': 'g_<U*G*_<', 'horn': 'KU*F', 'tail': 'zon`FU*G*', 'feather': 'H*Ih*', 'hair': 'ZIv*XU*F', 'head': 'FAw', 'ear': '', 'eye': '', 'nose': 'TU*d_<lIN*', 'mouth': '', 'tooth': 'h*VG*_<', 'tongue': '', 'fingernail': 'lIt`', 'foot': '', 'leg': 'r*Vwv*Vb', 'knee': 'zVlRU*q', 'hand': 'N*AzKVG*', 'wing': 'RU*zz*U*z', 'belly': '', 'guts': '', 'neck': '', 'back': 'Kow', 'breast': 'n`Vb', 'heart': 'XIt`', 'liver': '', 'sun': 'wU*v*', 'moon': 'r*Av*CVZ', 'star': 'hoj', 'water': 'ZAG*t`U*p', 'rain': 'boG*_<G*_<U*v*', 'river': '', 'lake': 'd_<oh*', 'sea': 'n`Ab', 'salt': '', 'stone': 'kVTt`An`', 'sand': '', 'dust': 'H*U*ZTU*z', 'earth': 'koz*', 'cloud': '', 'fog': 'FAd_<KIX', 'sky': 'wAt`', 'wind': '', 'snow': '', 'ice': 'kIp', 'smoke': '', 'fire': 'joC', 'ash': 'G*_<oZ', 'road': 'z*U*RkoC', 'mountain': '', 'name': 'CU*zkob', 'night': 'XobjVd_<', 'day': 'bAv*', 'year': 'RAr*', 'red': 'G*_<oh*', 'all': '', 'many': '', 'some': '', 'few': '', 'other': 'v*U*TqU*k', 'big': '', 'long': 'TozkAj', 'wide': '', 'thick': 'r*IG*', 'heavy': 'Foz', 'small': '', 'short': 'wVN*qU*z*', 'narrow': 'zIK', 'thin': 'zVbCIN*', 'green': 'KIZ', 'yellow': '', 'white': 'jVjRoG*_<', 'black': '', 'warm': 'zVZKIj', 'cold': '', 'full': 'TVv*v*IH*', 'new': '', 'old': 'hAkG*IH*', 'good': 'v*ot`jVz*', 'bad': 'n`Vl', 'rotten': 'lAn`', 'dirty': 'v*VH*', 'straight': 'RVh*', 'round': 'KU*N*', 'sharp': 'n`Vq', 'dull': '', 'smooth': '', 'wet': 'Xov*KId_<', 'dry': '', 'correct': 'lITZVq', 'near': 'kIKd_<VK', 'far': 'Foppok', 'right': 'G*U*kKAz*', 'left': '', 'at': '', 'in': 'XU*b', 'with': 'zU*l', 'and': 'h*ov*FU*k', 'if': 'z*U*n`', 'because': '', 'burn': 'lIRG*_<Ip', 'drink': '', 'eat': '', 'bite': 'RU*jwVg_<', 'suck': '', 'spit': 'h*Ag_<', 'vomit': 'XU*w', 'blow': 'zIk', 'breathe': '', 'laugh': 'bov*r*Ak', 'see': 'bU*bwU*X', 'hear': 'zVt`FVh', 'know': '', 'think': 'g_<oG*_<kog_<', 'smell': '', 'fear': '', 'sleep': 'loZ', 'live': '', 'die': '', 'kill': 't`U*H*', 'fight': 'pIp', 'hunt': '', 'hit': 'H*U*p', 'cut': '', 'split': 'H*Ig_<', 'stab': '', 'scratch': '', 'dig': '', 'swim': 'h*ol', 'fly': '', 'walk': 'zVZ', 'come': 'h*Ikt`IG*', 'lie': 'FAX', 'sit': '', 'stand': 'Tog_<zIv*', 'turn': '', 'fall': '', 'give': '', 'hold': 'kov*', 'squeeze': 'G*or*', 'rub': '', 'wash': '', 'wipe': 'v*U*R', 'pull': 'Roh*', 'push': 'TVb', 'throw': 'Coh*g_<Vd_<', 'tie': 'ZVz*G*U*K', 'sew': '', 'count': '', 'say': 'g_<U*z*', 'sing': '', 'play': '', 'float': 'g_<on`qVH*', 'flow': '', 'freeze': '', 'swell': 'Foq'}
+>>> 
+=================== RESTART: E:\Progz\mythOS\generators.py ===================
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['U*', 'u'] ['t`', 's', 'j', 'l*', 'W', 'C', 'p', 'r`', 's`', 'F', 'r*`', 'X', 'w', 'l`', 'G*', 'N*', 'n`', 'J*', 'X*', 'g_<', 'd`', 'B', 'l', 'x*', 'R*', 'K']
+{'one': 'n`uJ*', 'two': 'WU*r*`R*uR*', 'three': 'Fut`', 'four': 't`uX*', 'five': '', 'I': 'N*us`x*ul*', 'you': 'pU*d`', 'he': 'd`U*B', 'we': 'Wul*', "y'all": '', 'they': 'g_<ur*`', 'this': 'wU*l`jut`', 'that': 'suwjuW', 'here': 't`uF', 'there': '', 'who': 'J*uN*CuJ*', 'what': 's`U*Xg_<uX*', 'where': 'WuWt`us`', 'when': 'G*ul*', 'how': '', 'not': 'WuXr`U*X', 'woman': 'X*U*WN*uC', 'man': 'X*U*l*', 'human': 'r*`U*r*`', 'child': '', 'wife': 'wuW', 'husband': '', 'mother': 'G*U*Kd`U*F', 'father': 'Wun`sU*d`', 'animal': 'CuK', 'fish': '', 'bird': 'J*uG*N*U*n`', 'dog': 'XU*jl*U*s', 'louse': 'Kur`', 'snake': '', 'worm': 'l`ug_<l`U*X', 'tree': 'wU*n`', 'forest': 'Bul', 'stick': 'jU*l`', 'fruit': '', 'seed': 'n`U*r*`', 'leaf': '', 'root': '', 'bark': 'Kux*sux*', 'flower': 'r`ux*X*uj', 'grass': 's`U*R*', 'rope': '', 'skin': 'CU*sn`U*s`', 'meat': '', 'blood': '', 'bone': 'r`ud`N*uR*', 'fat': 'J*uJ*CU*x*', 'egg': 'J*uN*', 'horn': 'd`uN*', 'tail': '', 'feather': 'sU*sd`U*J*', 'hair': 'N*U*t`x*ur`', 'head': 'N*uCn`U*s`', 'ear': 'g_<U*l', 'eye': 'R*ur`', 'nose': '', 'mouth': 'X*U*pl*uX', 'tooth': 't`U*p', 'tongue': 'G*U*X', 'fingernail': '', 'foot': 'WU*X*g_<U*W', 'leg': '', 'knee': '', 'hand': 'n`uR*d`uJ*', 'wing': 'sux*X*U*x*', 'belly': 'puj', 'guts': 'WuwXU*g_<', 'neck': 'd`uCt`U*X', 'back': '', 'breast': '', 'heart': 'wut`r`uw', 'liver': 'Cul`', 'sun': '', 'moon': 'Wun`t`us`', 'star': '', 'water': '', 'rain': 'n`ux*', 'river': 'R*U*G*pU*W', 'lake': 'pun`', 'sea': 'wU*F', 'salt': 'r`ut`', 'stone': 'Wux*', 'sand': 'R*U*x*', 'dust': 'KU*J*Fur*`', 'earth': 's`U*Fs`uJ*', 'cloud': '', 'fog': 'juK', 'sky': 'wus`', 'wind': 'g_<U*x*', 'snow': '', 'ice': 'BU*K', 'smoke': 'G*uppuF', 'fire': 'n`U*r`r*`U*R*', 'ash': 'n`U*t`n`uw', 'road': 'r`U*l`G*U*F', 'mountain': 'g_<U*W', 'name': 's`U*s`x*U*s`', 'night': 'n`uXjux*', 'day': 'r`uW', 'year': '', 'red': 'jU*KG*ux*', 'all': 'BU*s`s`U*K', 'many': '', 'some': '', 'few': 't`usN*U*J*', 'other': '', 'big': '', 'long': 'wU*x*', 'wide': '', 'thick': 's`us`n`U*W', 'heavy': 'l`U*g_<', 'small': 'lul*s`U*s', 'short': 'd`U*r*`KuW', 'narrow': 'pU*Bn`U*s', 'thin': 'Xut`X*uW', 'green': 'R*U*g_<luG*', 'yellow': '', 'white': 'suR*', 'black': 'jU*R*', 'warm': 'puG*Ful', 'cold': 'd`U*g_<', 'full': '', 'new': 's`uX', 'old': 'WU*g_<s`uw', 'good': '', 'bad': 't`U*C', 'rotten': 'J*usN*us', 'dirty': 'CU*J*N*U*G*', 'straight': 'wun`', 'round': 'n`U*BCU*w', 'sharp': 'KU*XX*U*l*', 'dull': 'r`up', 'smooth': 'sU*X', 'wet': 'd`U*Fr`uK', 'dry': '', 'correct': 'n`uwX*ur*`', 'near': 'X*ug_<', 'far': '', 'right': 'R*us`l`U*C', 'left': 'wU*r`', 'at': 'sU*g_<R*uG*', 'in': '', 'with': 'r`U*x*', 'and': '', 'if': 'Kug_<', 'because': 's`uBG*U*R*', 'burn': 'n`U*G*', 'drink': 'd`un`', 'eat': 'KuR*R*U*X*', 'bite': 'wus', 'suck': '', 'spit': '', 'vomit': '', 'blow': '', 'breathe': 'WU*XpuB', 'laugh': '', 'see': '', 'hear': 'lU*l', 'know': 'X*ud`X*uR*', 'think': '', 'smell': '', 'fear': 'lul', 'sleep': 'KU*C', 'live': 'jU*n`WuJ*', 'die': 'd`U*l*', 'kill': 'pU*p', 'fight': 'g_<ur`', 'hunt': 'r`U*n`', 'hit': '', 'cut': '', 'split': '', 'stab': 'n`un`X*U*G*', 'scratch': 'lut`l*uj', 'dig': 'x*ut`', 'swim': 'l*U*FBus`', 'fly': '', 'walk': 'lus`', 'come': 'jU*R*', 'lie': 'KuJ*wuW', 'sit': 'jur`pU*t`', 'stand': '', 'turn': '', 'fall': '', 'give': 'luKpU*s`', 'hold': 'J*U*d`', 'squeeze': '', 'rub': 'But`', 'wash': '', 'wipe': 'wU*n`', 'pull': 'suK', 'push': '', 'throw': 'sU*W', 'tie': 'supl*U*J*', 'sew': 'n`U*R*', 'count': '', 'say': 'jU*BjU*w', 'sing': 'r`U*wjU*N*', 'play': '', 'float': 'wuKCU*w', 'flow': 'l*U*WpuN*', 'freeze': '', 'swell': 'jU*pr`U*G*'}
+>>> 
+====================== RESTART: E:\Progz\mythOS\main.py ======================
+['O', 'U*', 'Q', 'Y'] ['h*', 'G', 'W', 'r*`', 'v*', 'f', 'q', 'R', 'p', 'g_<', 'b_<', 'm', 'x', 'd_<', 'D', 'y', 'z`', 'z*', 'L*', 'z', 'k', 'B*', 'K', 'B', 'd`']
+{'one': 'b_<Oz*', 'two': 'kYz`h*U*B', 'three': 'h*OBL*Qg_<', 'four': 'qOmr*`Oz`', 'five': 'pOzyQp', 'I': 'v*Qz*ROp', 'you': 'yOyzYB*', 'he': 'BYzd_<Qh*', 'we': 'fQr*`z`Yd`', "y'all": 'g_<Yd_<', 'they': 'mYRBQz*', 'this': 'g_<Yd`', 'that': 'fYqWYr*`', 'here': 'r*`OL*', 'there': 'd_<Oq', 'who': 'L*QGd`Ov*', 'what': 'd`YRqU*G', 'where': 'z*U*p', 'when': 'z*QzpQz', 'how': 'b_<Yb_<b_<Yz*', 'not': 'h*U*qb_<YW', 'woman': 'B*U*g_<z*Yx', 'man': 'd`U*z*', 'human': 'r*`QKr*`U*z*', 'child': 'r*`U*KyQr*`', 'wife': 'mYR', 'husband': 'L*QfyYm', 'mother': 'h*Od_<', 'father': 'DOr*`KU*q', 'animal': 'pQz*b_<QL*', 'fish': 'b_<U*h*', 'bird': 'g_<QK', 'dog': 'fYL*', 'louse': 'kU*DzOD', 'snake': 'g_<Yz`h*U*R', 'worm': 'yOk', 'tree': 'RU*BmYf', 'forest': 'L*YR', 'stick': 'RQd_<', 'fruit': 'pYz', 'seed': 'd_<Yf', 'leaf': 'xYDh*Ok', 'root': 'fYR', 'bark': 'z*Qh*ROp', 'flower': 'RQL*', 'grass': 'DQR', 'rope': 'DOR', 'skin': 'fQr*`', 'meat': 'h*OqkU*W', 'blood': 'z*Oh*', 'bone': 'z`U*fr*`U*z`', 'fat': 'd`Qg_<yYb_<', 'egg': 'KU*B', 'horn': 'g_<Yd`', 'tail': 'z`Yd`qYg_<', 'feather': 'KYD', 'hair': 'fYGyOy', 'head': 'B*U*kKU*h*', 'ear': 'v*Oz*d_<Om', 'eye': 'fU*G', 'nose': 'B*YW', 'mouth': 'BU*r*`', 'tooth': 'h*Oy', 'tongue': 'b_<Qr*`b_<U*p', 'fingernail': 'fU*L*', 'foot': 'pU*R', 'leg': 'kYk', 'knee': 'z*U*d`z`U*x', 'hand': 'z`Yr*`z`Oy', 'wing': 'DOp', 'belly': 'zQd`', 'guts': 'v*Qv*b_<OB', 'neck': 'ROB', 'back': 'xQv*r*`Od_<', 'breast': 'fOr*`mOd`', 'heart': 'z*Qv*', 'liver': 'kOkv*U*W', 'sun': 'b_<Ofg_<Of', 'moon': 'kOz', 'star': 'mQf', 'water': 'd_<YB*', 'rain': 'b_<Qg_<', 'river': 'v*OypOd`', 'lake': 'd`U*v*DYh*', 'sea': 'd_<OW', 'salt': 'r*`YWb_<Yk', 'stone': 'pQy', 'sand': 'd`Yr*`yYx', 'dust': 'DYpqU*z', 'earth': 'zYy', 'cloud': 'pQh*qU*G', 'fog': 'DOKh*QW', 'sky': 'L*U*g_<', 'wind': 'pQB*xQp', 'snow': 'xU*d_<yU*d_<', 'ice': 'g_<Qq', 'smoke': 'BYkz*U*f', 'fire': 'h*Od_<h*Qx', 'ash': 'z*OG', 'road': 'zOh*d_<Oz', 'mountain': 'h*QmDU*z*', 'name': 'xOfz`U*m', 'night': 'BOh*', 'day': 'z`QL*B*YB*', 'year': 'KU*p', 'red': 'r*`Oy', 'all': 'r*`U*r*`g_<OL*', 'many': 'b_<Ym', 'some': 'GQB*', 'few': 'd_<Yg_<GYL*', 'other': 'z`Qh*yU*D', 'big': 'fYW', 'long': 'xU*B*yYm', 'wide': 'h*Qr*`z`Qz`', 'thick': 'kQh*qYy', 'heavy': 'r*`Oz', 'small': 'kYfd`Qy', 'short': 'GU*b_<KU*R', 'narrow': 'L*Oh*pQg_<', 'thin': 'mU*x', 'green': 'RQp', 'yellow': 'L*Qr*`', 'white': 'pU*L*pYk', 'black': 'b_<U*h*DYp', 'warm': 'yYWpOW', 'cold': 'fQr*`kU*z*', 'full': 'v*OqWQx', 'new': 'mQd_<', 'old': 'v*Yz*v*Oh*', 'good': 'g_<QK', 'bad': 'zYz*', 'rotten': 'kQK', 'dirty': 'pOL*KQp', 'straight': 'z`U*D', 'round': 'L*QL*', 'sharp': 'L*U*B*', 'dull': 'b_<QB*B*OR', 'smooth': 'fU*zzU*D', 'wet': 'xYqqU*m', 'dry': 'd`U*y', 'correct': 'yU*mKQg_<', 'near': 'pYz', 'far': 'DYL*d_<QK', 'right': 'L*U*d`r*`QW', 'left': 'fQd_<GU*g_<', 'at': 'd_<Og_<xYy', 'in': 'qQm', 'with': 'KYg_<', 'and': 'BYr*`', 'if': 'fU*d_<B*OG', 'because': 'L*Ob_<RYh*', 'burn': 'z*Qd_<ROv*', 'drink': 'g_<YK', 'eat': 'v*U*z`r*`OK', 'bite': 'fQmxU*d_<', 'suck': 'v*Oh*', 'spit': 'kQkqOb_<', 'vomit': 'fU*K', 'blow': 'z`Yh*RU*G', 'breathe': 'DQzmYK', 'laugh': 'qYkyOB', 'see': 'v*Qz*kYD', 'hear': 'RU*g_<', 'know': 'd`YB*', 'think': 'v*Yx', 'smell': 'kQd`b_<Yz`', 'fear': 'B*Yp', 'sleep': 'b_<Yzb_<Qd_<', 'live': 'qQkWU*r*`', 'die': 'fOx', 'kill': 'pYR', 'fight': 'L*U*L*DYK', 'hunt': 'yYr*`zU*R', 'hit': 'BYGg_<QD', 'cut': 'GU*mkOd_<', 'split': 'RYr*`', 'stab': 'g_<Qb_<', 'scratch': 'z`QGd`Qk', 'dig': 'qYB', 'swim': 'b_<Qq', 'fly': 'r*`Qd_<RU*p', 'walk': 'GU*B*', 'come': 'g_<Op', 'lie': 'L*Yz*', 'sit': 'r*`Yzr*`Ox', 'stand': 'yQz', 'turn': 'd`OBz`YR', 'fall': 'zQB', 'give': 'zOz*d_<Qr*`', 'hold': 'yYd_<GQd`', 'squeeze': 'g_<Qd`', 'rub': 'd_<U*qmOB*', 'wash': 'g_<Yf', 'wipe': 'd_<Oz*', 'pull': 'qQd_<', 'push': 'L*YK', 'throw': 'WOr*`z*QL*', 'tie': 'GOx', 'sew': 'z`Yp', 'count': 'z*U*L*kYq', 'say': 'h*U*L*', 'sing': 'z`Qg_<', 'play': 'r*`U*z`', 'float': 'GYpfOk', 'flow': 'v*YB*', 'freeze': 'z*QGz*Ov*', 'swell': 'mU*DfOv*'}
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+<_io.TextIOWrapper name='features.csv' mode='r' encoding='cp1252'>
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+<_io.TextIOWrapper name='features.txt' mode='r' encoding='cp1252'>
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+<_io.TextIOWrapper name='features.txt' mode='r' encoding='cp1252'>
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 2, in <module>
+    print(read(text))
+NameError: name 'read' is not defined
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+,1,,1A,{},,Consonant Inventories,A,1,563
+,2,,2A,{},,Vowel Quality Inventories,A,2,564
+,3,,3A,{},,Consonant-Vowel Ratio,A,3,564
+,4,,4A,{},,Voicing in Plosives and Fricatives,A,4,567
+,5,,5A,{},,Voicing and Gaps in Plosive Systems,A,5,567
+,6,,6A,{},,Uvular Consonants,A,6,567
+,7,,7A,{},,Glottalized Consonants,A,7,567
+,8,,8A,{},,Lateral Consonants,A,8,567
+,9,,9A,{},,The Velar Nasal,A,9,469
+,10,,10A,{},,Vowel Nasalization,A,10,244
+,10,,10B,{},,Nasal Vowels in West Africa,B,186,40
+,11,,11A,{},,Front Rounded Vowels,A,11,562
+,12,,12A,{},,Syllable Structure,A,12,486
+,13,,13A,{},,Tone,A,13,527
+,14,,14A,{},,Fixed Stress Locations,A,14,502
+,15,,15A,{},,Weight-Sensitive Stress,A,15,500
+,16,,16A,{},,Weight Factors in Weight-Sensitive Stress Systems,A,16,500
+,17,,17A,{},,Rhythm Types,A,17,323
+,18,,18A,{},,Absence of Common Consonants,A,18,567
+,19,,19A,{},,Presence of Uncommon Consonants,A,19,567
+,20,,20A,{},,Fusion of Selected Inflectional Formatives,A,20,165
+,21,,21A,{},,Exponence of Selected Inflectional Formatives,A,21,162
+,21,,21B,{},,Exponence of Tense-Aspect-Mood Inflection,B,188,160
+,22,,22A,{},,Inflectional Synthesis of the Verb,A,22,145
+,23,,23A,{},,Locus of Marking in the Clause,A,23,236
+,24,,24A,{},,Locus of Marking in Possessive Noun Phrases,A,24,236
+,25,,25A,{},,Locus of Marking: Whole-language Typology,A,25,236
+,25,,25B,{},,Zero Marking of A and P Arguments,B,187,235
+,26,,26A,{},,Prefixing vs. Suffixing in Inflectional Morphology,A,26,969
+,27,,27A,{},,Reduplication,A,27,368
+,28,,28A,{},,Case Syncretism,A,28,198
+,29,,29A,{},,Syncretism in Verbal Person/Number Marking,A,29,198
+,30,,30A,{},,Number of Genders,A,30,257
+,31,,31A,{},,Sex-based and Non-sex-based Gender Systems,A,31,257
+,32,,32A,{},,Systems of Gender Assignment,A,32,257
+,33,,33A,{},,Coding of Nominal Plurality,A,33,1066
+,34,,34A,{},,Occurrence of Nominal Plurality,A,34,291
+,35,,35A,{},,Plurality in Independent Personal Pronouns,A,35,261
+,36,,36A,{},,The Associative Plural,A,36,236
+,37,,37A,{},,Definite Articles,A,37,620
+,38,,38A,{},,Indefinite Articles,A,38,534
+,39,,39A,{},,Inclusive/Exclusive Distinction in Independent Pronouns,A,39,200
+,39,,39B,{},,Inclusive/Exclusive Forms in Pama-Nyungan,B,182,71
+,40,,40A,{},,Inclusive/Exclusive Distinction in Verbal Inflection,A,40,200
+,41,,41A,{},,Distance Contrasts in Demonstratives,A,41,234
+,42,,42A,{},,Pronominal and Adnominal Demonstratives,A,42,201
+,43,,43A,{},,Third Person Pronouns and Demonstratives,A,43,225
+,44,,44A,{},,Gender Distinctions in Independent Personal Pronouns,A,44,378
+,45,,45A,{},,Politeness Distinctions in Pronouns,A,45,207
+,46,,46A,{},,Indefinite Pronouns,A,46,326
+,47,,47A,{},,Intensifiers and Reflexive Pronouns,A,47,168
+,48,,48A,{},,Person Marking on Adpositions,A,48,378
+,49,,49A,{},,Number of Cases,A,49,261
+,50,,50A,{},,Asymmetrical Case-Marking,A,50,261
+,51,,51A,{},,Position of Case Affixes,A,51,1031
+,52,,52A,{},,Comitatives and Instrumentals,A,52,322
+,53,,53A,{},,Ordinal Numerals,A,53,321
+,54,,54A,{},,Distributive Numerals,A,54,251
+,55,,55A,{},,Numeral Classifiers,A,55,400
+,56,,56A,{},,Conjunctions and Universal Quantifiers,A,56,116
+,57,,57A,{},,Position of Pronominal Possessive Affixes,A,57,902
+,58,,58A,{},,Obligatory Possessive Inflection,A,58,244
+,58,,58B,{},,Number of Possessive Nouns,B,191,243
+,59,,59A,{},,Possessive Classification,A,59,243
+,60,,60A,{},,"Genitives, Adjectives and Relative Clauses",A,60,138
+,61,,61A,{},,Adjectives without Nouns,A,61,124
+,62,,62A,{},,Action Nominal Constructions,A,62,168
+,63,,63A,{},,Noun Phrase Conjunction,A,63,234
+,64,,64A,{},,Nominal and Verbal Conjunction,A,64,301
+,65,,65A,{},,Perfective/Imperfective Aspect,A,65,222
+,66,,66A,{},,The Past Tense,A,66,222
+,67,,67A,{},,The Future Tense,A,67,222
+,68,,68A,{},,The Perfect,A,68,222
+,69,,69A,{},,Position of Tense-Aspect Affixes,A,69,1131
+,70,,70A,{},,The Morphological Imperative,A,70,547
+,71,,71A,{},,The Prohibitive,A,71,495
+,72,,72A,{},,Imperative-Hortative Systems,A,72,375
+,73,,73A,{},,The Optative,A,73,319
+,74,,74A,{},,Situational Possibility,A,74,234
+,75,,75A,{},,Epistemic Possibility,A,75,240
+,76,,76A,{},,Overlap between Situational and Epistemic Modal Marking,A,76,207
+,77,,77A,{},,Semantic Distinctions of Evidentiality,A,77,418
+,78,,78A,{},,Coding of Evidentiality,A,78,418
+,79,,79A,{},,Suppletion According to Tense and Aspect,A,79,193
+,79,,79B,{},,Suppletion in Imperatives and Hortatives,B,192,193
+,80,,80A,{},,Verbal Number and Suppletion,A,80,193
+,81,,81A,{},,"Order of Subject, Object and Verb",A,81,1377
+,81,,81B,{},,"Languages with two Dominant Orders of Subject, Object, and Verb",B,168,67
+,82,,82A,{},,Order of Subject and Verb,A,82,1497
+,83,,83A,{},,Order of Object and Verb,A,83,1519
+,84,,84A,{},,"Order of Object, Oblique, and Verb",A,84,500
+,85,,85A,{},,Order of Adposition and Noun Phrase,A,85,1183
+,86,,86A,{},,Order of Genitive and Noun,A,86,1249
+,87,,87A,{},,Order of Adjective and Noun,A,87,1366
+,88,,88A,{},,Order of Demonstrative and Noun,A,88,1224
+,89,,89A,{},,Order of Numeral and Noun,A,89,1153
+,90,,90A,{},,Order of Relative Clause and Noun,A,90,824
+,90,,90B,{},,Prenominal relative clauses,B,144,191
+,90,,90C,{},,Postnominal relative clauses,C,146,620
+,90,,90D,{},,Internally-headed relative clauses,D,165,63
+,90,,90E,{},,Correlative relative clauses,E,154,23
+,90,,90F,{},,Adjoined relative clauses,F,171,10
+,90,,90G,{},,Double-headed relative clauses,G,153,5
+,91,,91A,{},,Order of Degree Word and Adjective,A,91,481
+,92,,92A,{},,Position of Polar Question Particles,A,92,884
+,93,,93A,{},,Position of Interrogative Phrases in Content Questions,A,93,902
+,94,,94A,{},,Order of Adverbial Subordinator and Clause,A,94,659
+,95,,95A,{},,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,A,95,1142
+,96,,96A,{},,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,A,96,879
+,97,,97A,{},,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,A,97,1316
+,98,,98A,{},,Alignment of Case Marking of Full Noun Phrases,A,98,190
+,99,,99A,{},,Alignment of Case Marking of Pronouns,A,99,172
+,100,,100A,{},,Alignment of Verbal Person Marking,A,100,380
+,101,,101A,{},,Expression of Pronominal Subjects,A,101,711
+,102,,102A,{},,Verbal Person Marking,A,102,378
+,103,,103A,{},,Third Person Zero of Verbal Person Marking,A,103,380
+,104,,104A,{},,Order of Person Markers on the Verb,A,104,379
+,105,,105A,{},,Ditransitive Constructions: The Verb 'Give',A,105,378
+,106,,106A,{},,Reciprocal Constructions,A,106,175
+,107,,107A,{},,Passive Constructions,A,107,373
+,108,,108A,{},,Antipassive Constructions,A,108,194
+,108,,108B,{},,Productivity of the Antipassive Construction,B,189,186
+,109,,109A,{},,Applicative Constructions,A,109,183
+,109,,109B,{},,Other Roles of Applied Objects,B,185,183
+,110,,110A,{},,Periphrastic Causative Constructions,A,110,118
+,111,,111A,{},,Nonperiphrastic Causative Constructions,A,111,310
+,112,,112A,{},,Negative Morphemes,A,112,1157
+,113,,113A,{},,Symmetric and Asymmetric Standard Negation,A,113,297
+,114,,114A,{},,Subtypes of Asymmetric Standard Negation,A,114,297
+,115,,115A,{},,Negative Indefinite Pronouns and Predicate Negation,A,115,206
+,116,,116A,{},,Polar Questions,A,116,955
+,117,,117A,{},,Predicative Possession,A,117,240
+,118,,118A,{},,Predicative Adjectives,A,118,386
+,119,,119A,{},,Nominal and Locational Predication,A,119,386
+,120,,120A,{},,Zero Copula for Predicate Nominals,A,120,386
+,121,,121A,{},,Comparative Constructions,A,121,167
+,122,,122A,{},,Relativization on Subjects,A,122,166
+,123,,123A,{},,Relativization on Obliques,A,123,112
+,124,,124A,{},,'Want' Complement Subjects,A,124,283
+,125,,125A,{},,Purpose Clauses,A,125,170
+,126,,126A,{},,'When' Clauses,A,126,174
+,127,,127A,{},,Reason Clauses,A,127,169
+,128,,128A,{},,Utterance Complement Clauses,A,128,143
+,129,,129A,{},,Hand and Arm,A,129,617
+,130,,130A,{},,Finger and Hand,A,130,593
+,130,,130B,{},,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',B,190,72
+,131,,131A,{},,Numeral Bases,A,131,196
+,132,,132A,{},,Number of Non-Derived Basic Colour Categories,A,132,119
+,133,,133A,{},,Number of Basic Colour Categories,A,133,119
+,134,,134A,{},,Green and Blue,A,134,120
+,135,,135A,{},,Red and Yellow,A,135,120
+,136,,136A,{},,M-T Pronouns,A,136,230
+,136,,136B,{},,M in First Person Singular,B,184,230
+,137,,137A,{},,N-M Pronouns,A,137,230
+,137,,137B,{},,M in Second Person Singular,B,183,230
+,138,,138A,{},,Tea,A,138,230
+,139,,139A,{},,Irregular Negatives in Sign Languages,A,139,35
+,140,,140A,{},,Question Particles in Sign Languages,A,140,38
+,141,,141A,{},,Writing Systems,A,141,6
+,142,,142A,{},,Para-Linguistic Usages of Clicks,A,142,143
+,143,,143A,{},,Order of Negative Morpheme and Verb,A,172,1324
+,143,,143B,{},,Obligatory Double Negation,B,158,119
+,143,,143C,{},,Optional Double Negation,C,170,81
+,143,,143D,{},,Optional Triple Negation,D,181,6
+,143,,143E,{},,Preverbal Negative Morphemes,E,169,1324
+,143,,143F,{},,Postverbal Negative Morphemes,F,143,1324
+,143,,143G,{},,Minor morphological means of signaling negation,G,180,1324
+,144,,144A,{},,"Position of Negative Word With Respect to Subject, Object, and Verb",A,152,1189
+,144,,144B,{},,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,B,163,609
+,144,,144C,{},,Languages with different word order in negative clauses,C,178,28
+,144,,144D,{},,The Position of Negative Morphemes in SVO Languages,D,167,463
+,144,,144E,{},,Multiple Negative Constructions in SVO Languages,E,166,48
+,144,,144F,{},,Obligatory Double Negation in SVO languages,F,164,56
+,144,,144G,{},,Optional Double Negation in SVO languages,G,161,35
+,144,,144H,{},,NegSVO Order,H,177,420
+,144,,144I,{},,SNegVO Order,I,156,421
+,144,,144J,{},,SVNegO Order,J,148,446
+,144,,144K,{},,SVONeg Order,K,162,446
+,144,,144L,{},,The Position of Negative Morphemes in SOV Languages,L,176,572
+,144,,144M,{},,Multiple Negative Constructions in SOV Languages,M,159,54
+,144,,144N,{},,Obligatory Double Negation in SOV languages,N,149,45
+,144,,144O,{},,Optional Double Negation in SOV languages,O,174,31
+,144,,144P,{},,NegSOV Order,P,147,408
+,144,,144Q,{},,SNegOV Order,Q,175,408
+,144,,144R,{},,SONegV Order,R,157,411
+,144,,144S,{},,SOVNeg Order,S,150,489
+,144,,144T,{},,The Position of Negative Morphemes in Verb-Initial Languages,T,179,152
+,144,,144U,{},,Double negation in verb-initial languages,U,160,17
+,144,,144V,{},,Verb-Initial with Preverbal Negative,V,155,152
+,144,,144W,{},,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,W,173,151
+,144,,144X,{},,Verb-Initial with Clause-Final Negative,X,151,151
+,144,,144Y,{},,The Position of Negative Morphemes in Object-Initial Languages,Y,145,16
+
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 5, in <module>
+    x = re.sub('[,\d\d?,,]', '', text)
+  File "C:\Program Files\Python36\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or bytes-like object
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 8, in <module>
+    lines[line] = re.sub(',\d\d?,,', '', text)
+  File "C:\Program Files\Python36\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or bytes-like object
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 7, in <module>
+    print(lines[line])
+TypeError: list indices must be integers or slices, not str
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 8, in <module>
+    print(lines[line])
+TypeError: list indices must be integers or slices, not str
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 7, in <module>
+    print(line.read())
+AttributeError: 'str' object has no attribute 'read'
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 8, in <module>
+    print(lines[line])
+TypeError: list indices must be integers or slices, not str
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+['blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation\n', ',1,,1A,{},,Consonant Inventories,A,1,563\n', ',2,,2A,{},,Vowel Quality Inventories,A,2,564\n', ',3,,3A,{},,Consonant-Vowel Ratio,A,3,564\n', ',4,,4A,{},,Voicing in Plosives and Fricatives,A,4,567\n', ',5,,5A,{},,Voicing and Gaps in Plosive Systems,A,5,567\n', ',6,,6A,{},,Uvular Consonants,A,6,567\n', ',7,,7A,{},,Glottalized Consonants,A,7,567\n', ',8,,8A,{},,Lateral Consonants,A,8,567\n', ',9,,9A,{},,The Velar Nasal,A,9,469\n', ',10,,10A,{},,Vowel Nasalization,A,10,244\n', ',10,,10B,{},,Nasal Vowels in West Africa,B,186,40\n', ',11,,11A,{},,Front Rounded Vowels,A,11,562\n', ',12,,12A,{},,Syllable Structure,A,12,486\n', ',13,,13A,{},,Tone,A,13,527\n', ',14,,14A,{},,Fixed Stress Locations,A,14,502\n', ',15,,15A,{},,Weight-Sensitive Stress,A,15,500\n', ',16,,16A,{},,Weight Factors in Weight-Sensitive Stress Systems,A,16,500\n', ',17,,17A,{},,Rhythm Types,A,17,323\n', ',18,,18A,{},,Absence of Common Consonants,A,18,567\n', ',19,,19A,{},,Presence of Uncommon Consonants,A,19,567\n', ',20,,20A,{},,Fusion of Selected Inflectional Formatives,A,20,165\n', ',21,,21A,{},,Exponence of Selected Inflectional Formatives,A,21,162\n', ',21,,21B,{},,Exponence of Tense-Aspect-Mood Inflection,B,188,160\n', ',22,,22A,{},,Inflectional Synthesis of the Verb,A,22,145\n', ',23,,23A,{},,Locus of Marking in the Clause,A,23,236\n', ',24,,24A,{},,Locus of Marking in Possessive Noun Phrases,A,24,236\n', ',25,,25A,{},,Locus of Marking: Whole-language Typology,A,25,236\n', ',25,,25B,{},,Zero Marking of A and P Arguments,B,187,235\n', ',26,,26A,{},,Prefixing vs. Suffixing in Inflectional Morphology,A,26,969\n', ',27,,27A,{},,Reduplication,A,27,368\n', ',28,,28A,{},,Case Syncretism,A,28,198\n', ',29,,29A,{},,Syncretism in Verbal Person/Number Marking,A,29,198\n', ',30,,30A,{},,Number of Genders,A,30,257\n', ',31,,31A,{},,Sex-based and Non-sex-based Gender Systems,A,31,257\n', ',32,,32A,{},,Systems of Gender Assignment,A,32,257\n', ',33,,33A,{},,Coding of Nominal Plurality,A,33,1066\n', ',34,,34A,{},,Occurrence of Nominal Plurality,A,34,291\n', ',35,,35A,{},,Plurality in Independent Personal Pronouns,A,35,261\n', ',36,,36A,{},,The Associative Plural,A,36,236\n', ',37,,37A,{},,Definite Articles,A,37,620\n', ',38,,38A,{},,Indefinite Articles,A,38,534\n', ',39,,39A,{},,Inclusive/Exclusive Distinction in Independent Pronouns,A,39,200\n', ',39,,39B,{},,Inclusive/Exclusive Forms in Pama-Nyungan,B,182,71\n', ',40,,40A,{},,Inclusive/Exclusive Distinction in Verbal Inflection,A,40,200\n', ',41,,41A,{},,Distance Contrasts in Demonstratives,A,41,234\n', ',42,,42A,{},,Pronominal and Adnominal Demonstratives,A,42,201\n', ',43,,43A,{},,Third Person Pronouns and Demonstratives,A,43,225\n', ',44,,44A,{},,Gender Distinctions in Independent Personal Pronouns,A,44,378\n', ',45,,45A,{},,Politeness Distinctions in Pronouns,A,45,207\n', ',46,,46A,{},,Indefinite Pronouns,A,46,326\n', ',47,,47A,{},,Intensifiers and Reflexive Pronouns,A,47,168\n', ',48,,48A,{},,Person Marking on Adpositions,A,48,378\n', ',49,,49A,{},,Number of Cases,A,49,261\n', ',50,,50A,{},,Asymmetrical Case-Marking,A,50,261\n', ',51,,51A,{},,Position of Case Affixes,A,51,1031\n', ',52,,52A,{},,Comitatives and Instrumentals,A,52,322\n', ',53,,53A,{},,Ordinal Numerals,A,53,321\n', ',54,,54A,{},,Distributive Numerals,A,54,251\n', ',55,,55A,{},,Numeral Classifiers,A,55,400\n', ',56,,56A,{},,Conjunctions and Universal Quantifiers,A,56,116\n', ',57,,57A,{},,Position of Pronominal Possessive Affixes,A,57,902\n', ',58,,58A,{},,Obligatory Possessive Inflection,A,58,244\n', ',58,,58B,{},,Number of Possessive Nouns,B,191,243\n', ',59,,59A,{},,Possessive Classification,A,59,243\n', ',60,,60A,{},,"Genitives, Adjectives and Relative Clauses",A,60,138\n', ',61,,61A,{},,Adjectives without Nouns,A,61,124\n', ',62,,62A,{},,Action Nominal Constructions,A,62,168\n', ',63,,63A,{},,Noun Phrase Conjunction,A,63,234\n', ',64,,64A,{},,Nominal and Verbal Conjunction,A,64,301\n', ',65,,65A,{},,Perfective/Imperfective Aspect,A,65,222\n', ',66,,66A,{},,The Past Tense,A,66,222\n', ',67,,67A,{},,The Future Tense,A,67,222\n', ',68,,68A,{},,The Perfect,A,68,222\n', ',69,,69A,{},,Position of Tense-Aspect Affixes,A,69,1131\n', ',70,,70A,{},,The Morphological Imperative,A,70,547\n', ',71,,71A,{},,The Prohibitive,A,71,495\n', ',72,,72A,{},,Imperative-Hortative Systems,A,72,375\n', ',73,,73A,{},,The Optative,A,73,319\n', ',74,,74A,{},,Situational Possibility,A,74,234\n', ',75,,75A,{},,Epistemic Possibility,A,75,240\n', ',76,,76A,{},,Overlap between Situational and Epistemic Modal Marking,A,76,207\n', ',77,,77A,{},,Semantic Distinctions of Evidentiality,A,77,418\n', ',78,,78A,{},,Coding of Evidentiality,A,78,418\n', ',79,,79A,{},,Suppletion According to Tense and Aspect,A,79,193\n', ',79,,79B,{},,Suppletion in Imperatives and Hortatives,B,192,193\n', ',80,,80A,{},,Verbal Number and Suppletion,A,80,193\n', ',81,,81A,{},,"Order of Subject, Object and Verb",A,81,1377\n', ',81,,81B,{},,"Languages with two Dominant Orders of Subject, Object, and Verb",B,168,67\n', ',82,,82A,{},,Order of Subject and Verb,A,82,1497\n', ',83,,83A,{},,Order of Object and Verb,A,83,1519\n', ',84,,84A,{},,"Order of Object, Oblique, and Verb",A,84,500\n', ',85,,85A,{},,Order of Adposition and Noun Phrase,A,85,1183\n', ',86,,86A,{},,Order of Genitive and Noun,A,86,1249\n', ',87,,87A,{},,Order of Adjective and Noun,A,87,1366\n', ',88,,88A,{},,Order of Demonstrative and Noun,A,88,1224\n', ',89,,89A,{},,Order of Numeral and Noun,A,89,1153\n', ',90,,90A,{},,Order of Relative Clause and Noun,A,90,824\n', ',90,,90B,{},,Prenominal relative clauses,B,144,191\n', ',90,,90C,{},,Postnominal relative clauses,C,146,620\n', ',90,,90D,{},,Internally-headed relative clauses,D,165,63\n', ',90,,90E,{},,Correlative relative clauses,E,154,23\n', ',90,,90F,{},,Adjoined relative clauses,F,171,10\n', ',90,,90G,{},,Double-headed relative clauses,G,153,5\n', ',91,,91A,{},,Order of Degree Word and Adjective,A,91,481\n', ',92,,92A,{},,Position of Polar Question Particles,A,92,884\n', ',93,,93A,{},,Position of Interrogative Phrases in Content Questions,A,93,902\n', ',94,,94A,{},,Order of Adverbial Subordinator and Clause,A,94,659\n', ',95,,95A,{},,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,A,95,1142\n', ',96,,96A,{},,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,A,96,879\n', ',97,,97A,{},,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,A,97,1316\n', ',98,,98A,{},,Alignment of Case Marking of Full Noun Phrases,A,98,190\n', ',99,,99A,{},,Alignment of Case Marking of Pronouns,A,99,172\n', ',100,,100A,{},,Alignment of Verbal Person Marking,A,100,380\n', ',101,,101A,{},,Expression of Pronominal Subjects,A,101,711\n', ',102,,102A,{},,Verbal Person Marking,A,102,378\n', ',103,,103A,{},,Third Person Zero of Verbal Person Marking,A,103,380\n', ',104,,104A,{},,Order of Person Markers on the Verb,A,104,379\n', ",105,,105A,{},,Ditransitive Constructions: The Verb 'Give',A,105,378\n", ',106,,106A,{},,Reciprocal Constructions,A,106,175\n', ',107,,107A,{},,Passive Constructions,A,107,373\n', ',108,,108A,{},,Antipassive Constructions,A,108,194\n', ',108,,108B,{},,Productivity of the Antipassive Construction,B,189,186\n', ',109,,109A,{},,Applicative Constructions,A,109,183\n', ',109,,109B,{},,Other Roles of Applied Objects,B,185,183\n', ',110,,110A,{},,Periphrastic Causative Constructions,A,110,118\n', ',111,,111A,{},,Nonperiphrastic Causative Constructions,A,111,310\n', ',112,,112A,{},,Negative Morphemes,A,112,1157\n', ',113,,113A,{},,Symmetric and Asymmetric Standard Negation,A,113,297\n', ',114,,114A,{},,Subtypes of Asymmetric Standard Negation,A,114,297\n', ',115,,115A,{},,Negative Indefinite Pronouns and Predicate Negation,A,115,206\n', ',116,,116A,{},,Polar Questions,A,116,955\n', ',117,,117A,{},,Predicative Possession,A,117,240\n', ',118,,118A,{},,Predicative Adjectives,A,118,386\n', ',119,,119A,{},,Nominal and Locational Predication,A,119,386\n', ',120,,120A,{},,Zero Copula for Predicate Nominals,A,120,386\n', ',121,,121A,{},,Comparative Constructions,A,121,167\n', ',122,,122A,{},,Relativization on Subjects,A,122,166\n', ',123,,123A,{},,Relativization on Obliques,A,123,112\n', ",124,,124A,{},,'Want' Complement Subjects,A,124,283\n", ',125,,125A,{},,Purpose Clauses,A,125,170\n', ",126,,126A,{},,'When' Clauses,A,126,174\n", ',127,,127A,{},,Reason Clauses,A,127,169\n', ',128,,128A,{},,Utterance Complement Clauses,A,128,143\n', ',129,,129A,{},,Hand and Arm,A,129,617\n', ',130,,130A,{},,Finger and Hand,A,130,593\n', ",130,,130B,{},,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',B,190,72\n", ',131,,131A,{},,Numeral Bases,A,131,196\n', ',132,,132A,{},,Number of Non-Derived Basic Colour Categories,A,132,119\n', ',133,,133A,{},,Number of Basic Colour Categories,A,133,119\n', ',134,,134A,{},,Green and Blue,A,134,120\n', ',135,,135A,{},,Red and Yellow,A,135,120\n', ',136,,136A,{},,M-T Pronouns,A,136,230\n', ',136,,136B,{},,M in First Person Singular,B,184,230\n', ',137,,137A,{},,N-M Pronouns,A,137,230\n', ',137,,137B,{},,M in Second Person Singular,B,183,230\n', ',138,,138A,{},,Tea,A,138,230\n', ',139,,139A,{},,Irregular Negatives in Sign Languages,A,139,35\n', ',140,,140A,{},,Question Particles in Sign Languages,A,140,38\n', ',141,,141A,{},,Writing Systems,A,141,6\n', ',142,,142A,{},,Para-Linguistic Usages of Clicks,A,142,143\n', ',143,,143A,{},,Order of Negative Morpheme and Verb,A,172,1324\n', ',143,,143B,{},,Obligatory Double Negation,B,158,119\n', ',143,,143C,{},,Optional Double Negation,C,170,81\n', ',143,,143D,{},,Optional Triple Negation,D,181,6\n', ',143,,143E,{},,Preverbal Negative Morphemes,E,169,1324\n', ',143,,143F,{},,Postverbal Negative Morphemes,F,143,1324\n', ',143,,143G,{},,Minor morphological means of signaling negation,G,180,1324\n', ',144,,144A,{},,"Position of Negative Word With Respect to Subject, Object, and Verb",A,152,1189\n', ',144,,144B,{},,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,B,163,609\n', ',144,,144C,{},,Languages with different word order in negative clauses,C,178,28\n', ',144,,144D,{},,The Position of Negative Morphemes in SVO Languages,D,167,463\n', ',144,,144E,{},,Multiple Negative Constructions in SVO Languages,E,166,48\n', ',144,,144F,{},,Obligatory Double Negation in SVO languages,F,164,56\n', ',144,,144G,{},,Optional Double Negation in SVO languages,G,161,35\n', ',144,,144H,{},,NegSVO Order,H,177,420\n', ',144,,144I,{},,SNegVO Order,I,156,421\n', ',144,,144J,{},,SVNegO Order,J,148,446\n', ',144,,144K,{},,SVONeg Order,K,162,446\n', ',144,,144L,{},,The Position of Negative Morphemes in SOV Languages,L,176,572\n', ',144,,144M,{},,Multiple Negative Constructions in SOV Languages,M,159,54\n', ',144,,144N,{},,Obligatory Double Negation in SOV languages,N,149,45\n', ',144,,144O,{},,Optional Double Negation in SOV languages,O,174,31\n', ',144,,144P,{},,NegSOV Order,P,147,408\n', ',144,,144Q,{},,SNegOV Order,Q,175,408\n', ',144,,144R,{},,SONegV Order,R,157,411\n', ',144,,144S,{},,SOVNeg Order,S,150,489\n', ',144,,144T,{},,The Position of Negative Morphemes in Verb-Initial Languages,T,179,152\n', ',144,,144U,{},,Double negation in verb-initial languages,U,160,17\n', ',144,,144V,{},,Verb-Initial with Preverbal Negative,V,155,152\n', ',144,,144W,{},,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,W,173,151\n', ',144,,144X,{},,Verb-Initial with Clause-Final Negative,X,151,151\n', ',144,,144Y,{},,The Position of Negative Morphemes in Object-Initial Languages,Y,145,16\n']
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 9, in <module>
+    print(lines[line])
+TypeError: list indices must be integers or slices, not str
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 9, in <module>
+    print(lines[line])
+TypeError: list indices must be integers or slices, not str
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+,1,,1A,{},,Consonant Inventories,A,1,563
+
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 9, in <module>
+    print(lines[line])
+TypeError: list indices must be integers or slices, not str
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+,1,,1A,{},,Consonant Inventories,A,1,563
+
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 9, in <module>
+    print(lines[l])
+TypeError: list indices must be integers or slices, not str
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 9, in <module>
+    print(lines[l])
+TypeError: list indices must be integers or slices, not str
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 10, in <module>
+    lines[line] = re.sub(',\d\d?,,', '', text)
+  File "C:\Program Files\Python36\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or bytes-like object
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 10, in <module>
+    lines[line] = re.sub(',\d\d?,,', '', text)
+  File "C:\Program Files\Python36\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or bytes-like object
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 10, in <module>
+    lines[l] = re.sub(',\d\d?,,', '', text)
+  File "C:\Program Files\Python36\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or bytes-like object
+>>> 
+================== RESTART: E:/Progz/mythOS/csv_cleaner.py ==================
+blog_title,contribution_pk,description,id,jsondata,markup_description,name,ordinal_qualifier,pk,representation
+
+Traceback (most recent call last):
+  File "E:/Progz/mythOS/csv_cleaner.py", line 10, in <module>
+    lines[l] = re.sub(',', '', text)
+  File "C:\Program Files\Python36\lib\re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or bytes-like object
+>>> 
