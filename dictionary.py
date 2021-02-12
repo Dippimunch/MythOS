@@ -22,7 +22,7 @@ def filterTheDict(dictObj, callback):
 def pick(category):
     return random.choice(list(filterTheDict(swadesh, lambda elem: elem[1] == category)))
                          
-swadesh = {'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number', 'five': 'number',
+swadesh = {#'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number', 'five': 'number',
            'I': 'pronoun', 'you': 'pronoun', 'he': 'pronoun', 'we': 'pronoun', '''y'all''': 'pronoun', 'they': 'pronoun', 'this': 'pronoun', 'that': 'pronoun',
            'here': 'pronoun', 'there': 'pronoun', 'who': 'pronoun', 'what': 'pronoun', 'where': 'pronoun', 'when': 'pronoun', 'how': 'pronoun',
            'not': 'adverb', 'woman': 'noun', 'man': 'noun',

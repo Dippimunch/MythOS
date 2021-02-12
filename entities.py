@@ -18,10 +18,12 @@ class Person:
         self.inventory = []
 
 class Language:
-    def __init__(self, name, consonants, vowels, features={}):
+    def __init__(self, name, consonants, vowels, base, words, features={}):
         self.consonants = consonants
         self.vowels = vowels
-        self.dictionary = dictionary
+        self.base = base
+        self.words = words
+        
         # Features *kwargs? How to reduce space
         # https://wals.info/feature
 
@@ -30,7 +32,4 @@ class Language:
         # ID/NAME/VALUE
         # {id: {feature: 'x', value: 'y'}}
         # featurization
-        features = {
-            '1A': 'Consonant Inventories'
-            }
         

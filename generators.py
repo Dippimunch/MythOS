@@ -24,6 +24,8 @@ def randomLanguage():
     v_chart = list(xsam.vowels.keys())
 
     words = {}
+    base = random.randrange(2, 24)
+    numbers = {}
     
     vowels = []
     v_choice = None
@@ -53,7 +55,15 @@ def randomLanguage():
             word += syllable(vowels, cons)
         words[key] = word
 
-    return Language(name, cons, vowels, words)    
+    for n in range(base):
+        number = ''
+        length = random.randrange(1, 3)
+        for s in range(length):
+            number += syllable(vowels, cons)
+        words[str(n)] = number
+        # CONCEPT OF ZERO?
+
+    return Language(name, cons, vowels, base, words)
 
 # syllable[onset][rhyme[nucleus][coda]]
 # TODO: rules

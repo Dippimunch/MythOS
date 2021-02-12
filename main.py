@@ -1,7 +1,7 @@
 import dictionary as dic
 #import setting_synth
 from battle import *
-from base import *
+from number_base import *
 import place, entities
 import display
 from generators import *
@@ -15,7 +15,7 @@ town = Location('town', 500, pop)
 fillLocation(town)
 language = randomLanguage()
 print(language.vowels, language.consonants)
-print(language.dictionary)
+print(language.words)
 
 #print(town.name, town.list)
 #town.census()
