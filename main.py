@@ -14,8 +14,10 @@ pop = 5
 town = Location('town', 500, pop)
 fillLocation(town)
 language = randomLanguage()
-print(language.vowels, language.consonants)
-print(language.words)
+#print(language.vowels, language.consonants)
+#print(language.words)
+print(dic.translate('human drink water',language))
+#print('human drink water'.split())
 
 #print(town.name, town.list)
 #town.census()

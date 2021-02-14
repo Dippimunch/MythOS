@@ -21,7 +21,19 @@ def filterTheDict(dictObj, callback):
 
 def pick(category):
     return random.choice(list(filterTheDict(swadesh, lambda elem: elem[1] == category)))
-                         
+
+# Translate from English to given language
+# HOWTO make english default if no language given?
+# Word done -> sentence -> any length of text?
+def translate(text, to_language):
+    text_split = text.split()
+    new_text = []
+    #print(text_split)
+    for word in text_split:
+        new_text.append(to_language.words[word])
+        #new_text += 'A'
+    return new_text
+    
 swadesh = {#'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number', 'five': 'number',
            'I': 'pronoun', 'you': 'pronoun', 'he': 'pronoun', 'we': 'pronoun', '''y'all''': 'pronoun', 'they': 'pronoun', 'this': 'pronoun', 'that': 'pronoun',
            'here': 'pronoun', 'there': 'pronoun', 'who': 'pronoun', 'what': 'pronoun', 'where': 'pronoun', 'when': 'pronoun', 'how': 'pronoun',
