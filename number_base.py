@@ -59,6 +59,8 @@ def toDeci(str,base):
         power = power * base 
     return num
 
+#print(toDeci('30', 12))
+
 # Driver code 
 """strr = "B"
 base = 12
@@ -70,5 +72,3 @@ print('Decimal equivalent of', strr,
 #convert_decimal(36, 12)
 
 # x*base^n ... x*base^0
-
-### https://www.geeksforgeeks.org/convert-base-decimal-vice-versa/

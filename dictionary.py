@@ -1,5 +1,7 @@
 import random
 import csv
+import re
+import number_base as nb
 
 
 locations = ['settlement', 'nature']
@@ -24,14 +26,17 @@ def pick(category):
 
 # Translate from English to given language
 # HOWTO make english default if no language given?
-# Word done -> sentence -> any length of text?
+# sentence -> any length of text?
 def translate(text, to_language):
     text_split = text.split()
     new_text = []
-    #print(text_split)
+    number = ''
     for word in text_split:
+        searchObj = re.search(r'\d', word)
+        if searchObj:
+            for digit in word:
+                print(digit)
         new_text.append(to_language.words[word])
-        #new_text += 'A'
     return new_text
     
 swadesh = {#'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number', 'five': 'number',

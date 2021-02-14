@@ -16,14 +16,7 @@ fillLocation(town)
 language = randomLanguage()
 #print(language.vowels, language.consonants)
 #print(language.words)
-print(dic.translate('human drink water',language))
-#print('human drink water'.split())
+print(dic.translate('human drink 20 water',language))
 
 #print(town.name, town.list)
 #town.census()
-
-
-
-
-
-### Branching save narrative wxploration
