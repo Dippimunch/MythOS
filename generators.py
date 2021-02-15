@@ -24,7 +24,7 @@ def randomLanguage():
     v_chart = list(xsam.vowels.keys())
 
     words = {}
-    base = random.randrange(2, 24)
+    base = random.choice([5, 6, 8, 10, 12, 15, 16, 18, 20, 24])
     numbers = {}
     
     vowels = []
@@ -37,11 +37,13 @@ def randomLanguage():
 
     name = 'Name'
 
+    # add vowels
     for v in range(vowel_num):
         v_choice = random.choice(v_chart)
         vowels.append(v_choice)
         v_chart.remove(v_choice)
 
+    # add consonants
     for c in range(con_num):
         c_choice = random.choice(c_chart)
         cons.append(c_choice)
@@ -61,7 +63,16 @@ def randomLanguage():
         for s in range(length):
             number += syllable(vowels, cons)
         words[str(n)] = number
+
+    for i in range(2,5):
+        power_number = ''
+        length = random.randrange(1, 3)
+        for s in range(length):
+            number += syllable(vowels, cons)
+        words[str(base**i)] = power_number
+                
         # CONCEPT OF ZERO?
+        # '10s' '100s' '1000s' place 'dozen' 'gross'
 
     return Language(name, cons, vowels, base, words)
 

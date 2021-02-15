@@ -59,7 +59,7 @@ def toDeci(str,base):
         power = power * base 
     return num
 
-#print(toDeci('30', 12))
+#print(toDeci('J', 20))
 
 # Driver code 
 """strr = "B"

@@ -32,10 +32,16 @@ def translate(text, to_language):
     new_text = []
     number = ''
     for word in text_split:
-        searchObj = re.search(r'\d', word)
+        """searchObj = re.search(r'\d', word)
         if searchObj:
+            trans_num = ''
+            #print(trans_num)
             for digit in word:
-                print(digit)
+                print('word: %s\ndigit: %s\ntranslate: %s' % (word, digit, nb.toDeci(str(digit), to_language.base)))
+                trans_num += str(nb.toDeci(digit, to_language.base))
+                print(trans_num)
+            new_text.append(trans_num)"""
+        #else:
         new_text.append(to_language.words[word])
     return new_text
     
