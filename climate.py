@@ -19,7 +19,7 @@ vertical = 50
 
 location = None
 
-def class Climate:
+class Climate:
     def __init__(self, name, amplitude, period, phase, vertical):
         pass
 
