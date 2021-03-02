@@ -1,5 +1,6 @@
 import math
 import random
+import numpy as np
 
 
 temp_min = 0
@@ -28,9 +29,10 @@ class Climate:
         pass
 
 def get_weather(location, amplitude, period, phase, vertical, time):
-    variation = random.randrange(-15, 15)
+    variation = math.floor(np.random.normal(0, .05)*50)
+    print('var: ' + str(variation))
     temp = amplitude * math.sin((2*math.pi/period)*(time-phase)) + vertical
-    return temp + variation
+    return round(temp + variation)
     
 while s < samples:
     print(get_weather(location, amplitude, period, phase, vertical, time))
