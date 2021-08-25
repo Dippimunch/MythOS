@@ -2,8 +2,7 @@ import dictionary as dic
 #import setting_synth
 from battle import *
 from number_base import *
-import place, entities
-import display
+import entities, display
 from generators import *
 
 gameState = 1
@@ -16,7 +15,7 @@ fillLocation(town)
 language = randomLanguage()
 #print(language.vowels, language.consonants)
 #print(language.words)
-print(dic.translate('human drink 20 water',language))
+#print(dic.translate('human drink 20 water',language))
 
 #print(town.name, town.list)
-#town.census()
+town.census()

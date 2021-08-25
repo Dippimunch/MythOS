@@ -6,15 +6,21 @@ import re
 
 
 
-strings = ['in a time before time', 'long ago', 'when all was naught but light']
-
 def fillLocation(location):
     for p in range(location.population):
-        person = Person(p, 20)
+        person = randomPerson()
         location.list.append(person)
 
-def makePerson():
-    pass
+def randomPerson():
+    name = '%s-%s' % (random.choice(get_key('adjective', dic.swadesh)), random.choice(get_key('noun', dic.swadesh)))
+    age = random.randrange(70)
+    sex = 'male'
+    if random.random() < .519:
+        sex = 'male'
+    else:
+        sex = 'female'
+    person = Person(name, age, sex)
+    return person
         
 def randomLanguage():
     con_num = random.randrange(20, 30)
@@ -80,12 +86,33 @@ def syllable(vowels, cons):
 
     return unit
 
+def story(text, location=None):
+    strings = ['in a time before time', 'long ago', 'when all was naught but light']
+
+    subject = random.choice(get_key('noun', dic.swadesh))
+    subject_2 = random.choice(get_key('noun', dic.swadesh))
+    subject_3 = random.choice(get_key('noun', dic.swadesh))
+    action = random.choice(get_key('verb', dic.swadesh))
+    action_2 = random.choice(get_key('verb', dic.swadesh))
+    # fstring variables
+    text_out = f"the {subject} {action}s the {subject_2} in order to {action_2} a {subject_3}"
+    print(text_out)
+
 def feature_choice(feature):
     #feature
     pass
 
+# function to return key for any value
+def get_key(val, dic):
+    keys = []
+    for i in dic.items():
+        if i[1] == val:
+            keys.append(i[0])
+    return keys
+        
 def latinize(text):
     pass
+
 
 #print(language.consonants)
 

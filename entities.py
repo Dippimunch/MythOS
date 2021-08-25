@@ -8,14 +8,20 @@ class Location:
     def census(self):
         censusList = []
         for p in range(len(self.list)):
-            censusList.append(p)
+            censusList.append(self.list[p].name)
         print(censusList)
     
 class Person:
-    def __init__(self, name, age):
+    def __init__(self, name, age, sex):
         self.name = name
         self.age = age
+        self.sex = sex
         self.inventory = []
+
+    def move(self, target, speed):
+        current = self.location
+        # distance and speed
+        self.location = target
 
 class Language:
     def __init__(self, name, consonants, vowels, base, words, features={}):
