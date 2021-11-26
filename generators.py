@@ -5,6 +5,12 @@ import XSAMPA as xsam
 import re
 
 
+def randomLocation(size):
+    name = None
+    features = None
+    for s in range(size):
+        pass
+    #location = Location(
 
 def fillLocation(location):
     for p in range(location.population):
@@ -15,21 +21,24 @@ def randomPerson():
     name = '%s-%s' % (random.choice(get_key('adjective', dic.swadesh)), random.choice(get_key('noun', dic.swadesh)))
     age = random.randrange(70)
     sex = 'male'
+    lang = None
+    kin = None
     if random.random() < .519:
         sex = 'male'
     else:
         sex = 'female'
-    person = Person(name, age, sex)
+    person = Person(name, age, sex, lang, kin)
     return person
         
 def randomLanguage():
-    con_num = random.randrange(20, 30)
+    con_num = random.randrange(12, 30)
     vowel_num = random.randrange(2, 6)
     
     c_chart = list(xsam.consonants.keys())
     v_chart = list(xsam.vowels.keys())
 
     words = {}
+    # number base- should change to more restricted choices
     base = random.randrange(2, 24)
     numbers = {}
     
@@ -75,9 +84,22 @@ def randomLanguage():
 # TODO: rules
 # https://wals.info/chapter/12
 def syllable(vowels, cons):
+    pre_restrict = None
+    post_restrict = None
     # CV constant?
     # some (C)V where () is optional
     # English complex syllable structure (C)(C)(C)V(C)(C)(C)(C)
+    syll_struct = None
+    comp = random.randint(1, 100)
+
+    """if comp <= 13:
+        syll_struct = 'Simple'
+    elif comp > 13 and comp <= 43:
+        syll_struct = 'Complex'
+    else:
+        syll_struct = 'Moderate'
+
+    if syll_struct == 'Simple':"""            
     onset = random.choice(cons)
     nucleus = random.choice(vowels)
     coda = random.choice(cons)

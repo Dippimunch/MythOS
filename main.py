@@ -5,12 +5,12 @@ from number_base import *
 import entities, display
 from generators import *
 
-gameState = 1
+game_state = 1
 pause = True
 event_log = []
 
 pop = 5
-town = Location('town', 500, pop)
+town = Location('town', 500, 'Cfb', pop)
 fillLocation(town)
 language = randomLanguage()
 #print(language.vowels, language.consonants)
@@ -18,4 +18,8 @@ language = randomLanguage()
 #print(dic.translate('human drink 20 water',language))
 
 #print(town.name, town.list)
-town.census()
+#town.census()
+
+if game_state == 1:
+    print('actions')
+    action = input()
