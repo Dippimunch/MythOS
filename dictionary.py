@@ -61,10 +61,11 @@ swadesh = {#'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number
            'smooth': 'adjective', 'wet': 'adjective', 'dry': 'adjective', 'correct': 'adjective', 'near': 'adjective', 'far': 'adjective', 'right': 'adjective',
            'left': 'adjective',
            'at': 'preposition', 'in': 'preposition', 'with': 'preposition', 'and': 'preposition', 'if': 'preposition', 'because': 'preposition',
+            'be': 'verb',
            'burn': 'verb', 'drink': 'verb', 'eat': 'verb', 'bite': 'verb', 'suck': 'verb', 'spit': 'verb', 'vomit': 'verb', 'blow': 'verb', 'breathe': 'verb',
            'laugh': 'verb', 'see': 'verb', 'hear': 'verb', 'know': 'verb', 'think': 'verb', 'smell': 'verb', 'fear': 'verb', 'sleep': 'verb', 'live': 'verb',
            'die': 'verb', 'kill': 'verb', 'fight': 'verb', 'hunt': 'verb', 'hit': 'verb', 'cut': 'verb', 'split': 'verb', 'stab': 'verb', 'scratch': 'verb',
-           'dig': 'verb', 'swim': 'verb', 'fly': 'verb', 'walk': 'verb', 'come': 'verb', 'lie': 'verb', 'sit': 'verb', 'stand': 'verb', 'turn': 'verb',
+           'dig': 'verb', 'swim': 'verb', 'fly': 'verb', 'walk': 'verb', 'come': 'verb', 'go': 'verb', 'lie': 'verb', 'sit': 'verb', 'stand': 'verb', 'turn': 'verb',
            'fall': 'verb', 'give': 'verb', 'hold': 'verb', 'squeeze': 'verb', 'rub': 'verb', 'wash': 'verb', 'wipe': 'verb', 'pull': 'verb', 'push': 'verb',
            'throw': 'verb', 'tie': 'verb', 'sew': 'verb', 'count': 'verb', 'say': 'verb', 'sing': 'verb', 'play': 'verb', 'float': 'verb', 'flow': 'verb',
            'freeze': 'verb', 'swell': 'verb'}

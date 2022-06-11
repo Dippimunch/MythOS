@@ -13,13 +13,14 @@ class Location:
         print(censusList)
     
 class Person:
-    def __init__(self, name, age, sex, lang, kin):
+    def __init__(self, name, age, sex, lang, kin, location):
         self.name = name
         self.age = age
         self.sex = sex # gender
         #self.soc_class = soc_class
         self.lang = lang # languages = {'foo' : 1.0}
         self.kin = kin # {mother:'', father:'', ...}
+        self.location = location
         self.inventory = []
 
     def move(self, target, speed):
