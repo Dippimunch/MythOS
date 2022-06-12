@@ -48,11 +48,12 @@ def read_xsampa(text):
         c = re.findall('\w\_*\W*', w)
         read.append(c)
     for w in read:
+        x_read.append([])
         for l in w:
             if l in XSAMPA.consonants:
-                x_read.append(XSAMPA.consonants.get(l))
+                x_read[-1].append(XSAMPA.consonants.get(l))
             elif l in XSAMPA.vowels:
-                x_read.append(XSAMPA.vowels.get(l))
+                x_read[-1].append(XSAMPA.vowels.get(l))
             #x_read[w].append(xsampa.consanants.get(l))
     print(x_read)
         
