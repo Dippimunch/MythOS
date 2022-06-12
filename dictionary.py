@@ -38,11 +38,17 @@ def translate(text, to_language):
                 print(digit)
         new_text.append(to_language.words[word])
     return new_text
+
+def read_xsampa(text):
+    read = []
+    w = re.findall('\w\W*', text)
+    print(w)
+        
     
 swadesh = {#'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number', 'five': 'number',
-           'I': 'pronoun', 'you': 'pronoun', 'he': 'pronoun', 'we': 'pronoun', '''y'all''': 'pronoun', 'they': 'pronoun', 'this': 'pronoun', 'that': 'pronoun',
+           'I': 'pronoun', 'you': 'pronoun', 'your': 'pronoun', 'he': 'pronoun', 'we': 'pronoun', '''y'all''': 'pronoun', 'they': 'pronoun', 'this': 'pronoun', 'that': 'pronoun',
            'here': 'pronoun', 'there': 'pronoun', 'who': 'pronoun', 'what': 'pronoun', 'where': 'pronoun', 'when': 'pronoun', 'how': 'pronoun',
-           'not': 'adverb', 'woman': 'noun', 'man': 'noun',
+           'not': 'adverb', 'woman': 'noun', 'man': 'noun', 'home': 'noun',
            'human': 'noun', 'child': 'noun', 'wife': 'noun', 'husband': 'noun', 'mother': 'noun', 'father': 'noun', 'animal': 'noun', 'fish': 'noun', 'bird': 'noun',
            'dog': 'noun', 'louse': 'noun', 'snake': 'noun', 'worm': 'noun', 'tree': 'noun', 'forest': 'noun', 'stick': 'noun', 'fruit': 'noun', 'seed': 'noun',
            'leaf': 'noun', 'root': 'noun', 'bark': 'noun', 'flower': 'noun', 'grass': 'noun', 'rope': 'noun', 'skin': 'noun', 'meat': 'noun', 'blood': 'noun',
