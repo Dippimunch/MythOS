@@ -2,6 +2,7 @@ import random
 import csv
 import re
 import number_base as nb
+import XSAMPA
 
 
 locations = ['settlement', 'nature']
@@ -38,11 +39,36 @@ def translate(text, to_language):
                 print(digit)
         new_text.append(to_language.words[word])
     return new_text
-    
+
+def read_xsampa(text):
+    read = []
+    x_read = []
+    #s = text.split() # don't need to split if translate outputs list instead of string?
+    for w in text:
+        #print(w)
+        c = re.findall('\w\_*\W*', w)
+        print(c)
+        read.append(c)
+    for w in read:
+        x_read.append([])
+        for l in w:
+            #print(l)
+            if l in XSAMPA.consonants:
+                x_read[-1].append(XSAMPA.consonants[l].get('uni'))
+            elif l in XSAMPA.vowels:
+                x_read[-1].append(XSAMPA.vowels[l].get('uni'))
+
+    print(x_read)
+    return x_read
+        
+
+txt = 'J_<6FX*Vb_<'
+read_xsampa(txt)
+
 swadesh = {#'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number', 'five': 'number',
-           'I': 'pronoun', 'you': 'pronoun', 'he': 'pronoun', 'we': 'pronoun', '''y'all''': 'pronoun', 'they': 'pronoun', 'this': 'pronoun', 'that': 'pronoun',
+           'I': 'pronoun', 'you': 'pronoun', 'your': 'pronoun', 'he': 'pronoun', 'we': 'pronoun', '''y'all''': 'pronoun', 'they': 'pronoun', 'this': 'pronoun', 'that': 'pronoun',
            'here': 'pronoun', 'there': 'pronoun', 'who': 'pronoun', 'what': 'pronoun', 'where': 'pronoun', 'when': 'pronoun', 'how': 'pronoun',
-           'not': 'adverb', 'woman': 'noun', 'man': 'noun',
+           'not': 'adverb', 'woman': 'noun', 'man': 'noun', 'home': 'noun',
            'human': 'noun', 'child': 'noun', 'wife': 'noun', 'husband': 'noun', 'mother': 'noun', 'father': 'noun', 'animal': 'noun', 'fish': 'noun', 'bird': 'noun',
            'dog': 'noun', 'louse': 'noun', 'snake': 'noun', 'worm': 'noun', 'tree': 'noun', 'forest': 'noun', 'stick': 'noun', 'fruit': 'noun', 'seed': 'noun',
            'leaf': 'noun', 'root': 'noun', 'bark': 'noun', 'flower': 'noun', 'grass': 'noun', 'rope': 'noun', 'skin': 'noun', 'meat': 'noun', 'blood': 'noun',
@@ -61,10 +87,11 @@ swadesh = {#'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number
            'smooth': 'adjective', 'wet': 'adjective', 'dry': 'adjective', 'correct': 'adjective', 'near': 'adjective', 'far': 'adjective', 'right': 'adjective',
            'left': 'adjective',
            'at': 'preposition', 'in': 'preposition', 'with': 'preposition', 'and': 'preposition', 'if': 'preposition', 'because': 'preposition',
+            'be': 'verb',
            'burn': 'verb', 'drink': 'verb', 'eat': 'verb', 'bite': 'verb', 'suck': 'verb', 'spit': 'verb', 'vomit': 'verb', 'blow': 'verb', 'breathe': 'verb',
            'laugh': 'verb', 'see': 'verb', 'hear': 'verb', 'know': 'verb', 'think': 'verb', 'smell': 'verb', 'fear': 'verb', 'sleep': 'verb', 'live': 'verb',
            'die': 'verb', 'kill': 'verb', 'fight': 'verb', 'hunt': 'verb', 'hit': 'verb', 'cut': 'verb', 'split': 'verb', 'stab': 'verb', 'scratch': 'verb',
-           'dig': 'verb', 'swim': 'verb', 'fly': 'verb', 'walk': 'verb', 'come': 'verb', 'lie': 'verb', 'sit': 'verb', 'stand': 'verb', 'turn': 'verb',
+           'dig': 'verb', 'swim': 'verb', 'fly': 'verb', 'walk': 'verb', 'come': 'verb', 'go': 'verb', 'lie': 'verb', 'sit': 'verb', 'stand': 'verb', 'turn': 'verb',
            'fall': 'verb', 'give': 'verb', 'hold': 'verb', 'squeeze': 'verb', 'rub': 'verb', 'wash': 'verb', 'wipe': 'verb', 'pull': 'verb', 'push': 'verb',
            'throw': 'verb', 'tie': 'verb', 'sew': 'verb', 'count': 'verb', 'say': 'verb', 'sing': 'verb', 'play': 'verb', 'float': 'verb', 'flow': 'verb',
            'freeze': 'verb', 'swell': 'verb'}
