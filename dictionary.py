@@ -2,6 +2,7 @@ import random
 import csv
 import re
 import number_base as nb
+import XSAMPA
 
 
 locations = ['settlement', 'nature']
@@ -41,8 +42,12 @@ def translate(text, to_language):
 
 def read_xsampa(text):
     read = []
-    w = re.findall('\w\W*', text)
-    print(w)
+    s = text.split()
+    for w in s:
+        c = re.findall('\w\_*\W*', w)
+        #if xsampa.consonants[c]:
+        read.append(c)
+    print(read)
         
     
 swadesh = {#'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number', 'five': 'number',
