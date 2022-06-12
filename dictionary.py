@@ -46,8 +46,8 @@ def read_xsampa(text):
     #s = text.split() # don't need to split if translate outputs list instead of string?
     for w in text:
         #print(w)
-        c = re.findall('\w\_*\W*', w)
-        print(c)
+        c = re.findall('\w\_*<*', w)
+        #print(c)
         read.append(c)
     for w in read:
         x_read.append([])
@@ -58,7 +58,7 @@ def read_xsampa(text):
             elif l in XSAMPA.vowels:
                 x_read[-1].append(XSAMPA.vowels[l].get('uni'))
 
-    print(x_read)
+    #print(x_read)
     return x_read
         
 

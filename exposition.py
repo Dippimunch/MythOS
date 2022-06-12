@@ -12,6 +12,7 @@ print(f'you are with your kinfolk at {player.location.name}')
 text = dic.translate(f'you be with your human at {player.location.name}', language)
 print(text)
 #print(dic.read_xsampa(text))
+#print(language.words)
 
 # 2ndPerson be LOCATION locative KIN comitative
 
