@@ -42,12 +42,19 @@ def translate(text, to_language):
 
 def read_xsampa(text):
     read = []
+    x_read = []
     s = text.split()
     for w in s:
         c = re.findall('\w\_*\W*', w)
-        #if xsampa.consonants[c]:
         read.append(c)
-    print(read)
+    for w in read:
+        for l in w:
+            if l in XSAMPA.consonants:
+                x_read.append(XSAMPA.consonants.get(l))
+            elif l in XSAMPA.vowels:
+                x_read.append(XSAMPA.vowels.get(l))
+            #x_read[w].append(xsampa.consanants.get(l))
+    print(x_read)
         
     
 swadesh = {#'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number', 'five': 'number',
