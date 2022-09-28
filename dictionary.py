@@ -43,21 +43,29 @@ def translate(text, to_language):
 def read_xsampa(text):
     read = []
     x_read = []
-    s = text.split()
-    for w in s:
-        c = re.findall('\w\_*\W*', w)
+    #s = text.split() # don't need to split if translate outputs list instead of string?
+    for w in text:
+        #print(w)
+        c = re.findall('\w\_*<*', w)
+        #print(c)
         read.append(c)
     for w in read:
         x_read.append([])
         for l in w:
+            #print(l)
             if l in XSAMPA.consonants:
-                x_read[-1].append(XSAMPA.consonants.get(l))
+                x_read[-1].append(XSAMPA.consonants[l].get('uni'))
             elif l in XSAMPA.vowels:
-                x_read[-1].append(XSAMPA.vowels.get(l))
-            #x_read[w].append(xsampa.consanants.get(l))
-    print(x_read)
+                x_read[-1].append(XSAMPA.vowels[l].get('uni'))
+
+    #print(x_read)
+    return x_read
         
-    
+
+"""txt = 'J_<6FX*Vb_<'
+read_xsampa(txt)"""
+
+# TODO move words to dictionaties of own categories
 swadesh = {#'one': 'number', 'two': 'number', 'three': 'number', 'four': 'number', 'five': 'number',
            'I': 'pronoun', 'you': 'pronoun', 'your': 'pronoun', 'he': 'pronoun', 'we': 'pronoun', '''y'all''': 'pronoun', 'they': 'pronoun', 'this': 'pronoun', 'that': 'pronoun',
            'here': 'pronoun', 'there': 'pronoun', 'who': 'pronoun', 'what': 'pronoun', 'where': 'pronoun', 'when': 'pronoun', 'how': 'pronoun',
