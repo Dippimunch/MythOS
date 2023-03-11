@@ -31,8 +31,13 @@ m.title('mythOS')
 menu_test = Menu("TEST",["test", "test_2"])
 #menu_test.display()
 
-create_button = tk.Button(m, text='NEW LANGUAGE', width=25, command= lambda: file_manager.new_game_rand())
-create_button.pack()
+language = None
+new_lang_button = tk.Button(m, text='NEW LANGUAGE', width=25,
+                          command= lambda: file_manager.new_lang_rand())
+new_lang_button.pack()
+
+save_button = tk.Button(m, text="SAVE LANGUAGE", width=25, command=lambda: file_manager.save(language))
+save_button.pack()
 
 load_lang_button = tk.Button(m, text='LOAD LANGUAGE', width=25, command=m.destroy)
 load_lang_button.pack()
