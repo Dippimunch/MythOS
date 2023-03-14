@@ -1,4 +1,6 @@
 import pickle, generators
+import tkinter as tk
+from tkinter import filedialog
 
 
 # NEW
@@ -25,3 +27,18 @@ def save(language):
     print(f)
     pickle.dump(language, f)
     f.close()
+
+
+
+
+def load():
+    root = tk.Tk()
+    file = filedialog.askopenfile(parent=root,mode='rb',title='Choose a file')
+    if file:
+        data = file.read()
+        file.close()
+        print("I got %d bytes from this file." % len(data))
+
+    """f = open ("language_save_file.txt", "rb")
+    print(pickle.load(f))
+    f.close()"""

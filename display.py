@@ -39,7 +39,7 @@ new_lang_button.pack()
 save_button = tk.Button(m, text="SAVE LANGUAGE", width=25, command=lambda: file_manager.save(language))
 save_button.pack()
 
-load_lang_button = tk.Button(m, text='LOAD LANGUAGE', width=25, command=m.destroy)
+load_lang_button = tk.Button(m, text='LOAD LANGUAGE', width=25, command=lambda: file_manager.load())
 load_lang_button.pack()
 
 # Canvas: It is used to draw pictures and other complex layout like graphics, text and widgets.
